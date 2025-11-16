@@ -89,5 +89,3 @@ The dashboard is built using **Power BI Desktop** and uses a **simulated dataset
 
 ---
 
-## License
-This project is for educational and portfolio purposes
