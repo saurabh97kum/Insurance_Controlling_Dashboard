@@ -1,0 +1,11 @@
+DepartmentID,DepartmentName,CostCenter
+1,Underwriting,CC1
+2,Claims,CC2
+3,Finance,CC3
+4,Sales & Distribution,CC4
+5,IT & Operations,CC5
+6,Customer Service,CC6
+7,Reinsurance,CC7
+8,Actuarial,CC8
+9,Compliance,CC9
+10,Marketing,CC10

@@ -1,0 +1,5041 @@
+Year,Month,DepartmentID,Account,BudgetAmount
+2022,1,1,Gross Written Premium,237892
+2022,1,1,Net Earned Premium,385172
+2022,1,1,Reinsurance Recoveries,44178
+2022,1,1,Investment Income,299965
+2022,1,1,Commission Income,21999
+2022,1,1,Claims Paid,305856
+2022,1,1,Claims Incurred,200623
+2022,1,1,Loss Adjustment Expenses,176244
+2022,1,1,Staff Costs,300866
+2022,1,1,IT Expenses,277769
+2022,1,1,Marketing,203237
+2022,1,1,Office Costs,11859
+2022,1,1,Depreciation,115986
+2022,1,1,Professional Services,237654
+2022,1,2,Gross Written Premium,288983
+2022,1,2,Net Earned Premium,294360
+2022,1,2,Reinsurance Recoveries,320097
+2022,1,2,Investment Income,54522
+2022,1,2,Commission Income,235233
+2022,1,2,Claims Paid,378393
+2022,1,2,Claims Incurred,12485
+2022,1,2,Loss Adjustment Expenses,248056
+2022,1,2,Staff Costs,117701
+2022,1,2,IT Expenses,212352
+2022,1,2,Marketing,107638
+2022,1,2,Office Costs,189514
+2022,1,2,Depreciation,279370
+2022,1,2,Professional Services,98405
+2022,1,3,Gross Written Premium,289732
+2022,1,3,Net Earned Premium,215048
+2022,1,3,Reinsurance Recoveries,167781
+2022,1,3,Investment Income,42019
+2022,1,3,Commission Income,266497
+2022,1,3,Claims Paid,70133
+2022,1,3,Claims Incurred,381588
+2022,1,3,Loss Adjustment Expenses,202530
+2022,1,3,Staff Costs,384747
+2022,1,3,IT Expenses,163598
+2022,1,3,Marketing,133585
+2022,1,3,Office Costs,250172
+2022,1,3,Depreciation,310539
+2022,1,3,Professional Services,130814
+2022,1,4,Gross Written Premium,379743
+2022,1,4,Net Earned Premium,30939
+2022,1,4,Reinsurance Recoveries,158939
+2022,1,4,Investment Income,267347
+2022,1,4,Commission Income,296207
+2022,1,4,Claims Paid,95880
+2022,1,4,Claims Incurred,8748
+2022,1,4,Loss Adjustment Expenses,241094
+2022,1,4,Staff Costs,384413
+2022,1,4,IT Expenses,347908
+2022,1,4,Marketing,156956
+2022,1,4,Office Costs,161255
+2022,1,4,Depreciation,375180
+2022,1,4,Professional Services,155331
+2022,1,5,Gross Written Premium,172031
+2022,1,5,Net Earned Premium,383669
+2022,1,5,Reinsurance Recoveries,352823
+2022,1,5,Investment Income,130829
+2022,1,5,Commission Income,133216
+2022,1,5,Claims Paid,70901
+2022,1,5,Claims Incurred,248386
+2022,1,5,Loss Adjustment Expenses,180607
+2022,1,5,Staff Costs,103046
+2022,1,5,IT Expenses,357156
+2022,1,5,Marketing,83278
+2022,1,5,Office Costs,279535
+2022,1,5,Depreciation,107476
+2022,1,5,Professional Services,387865
+2022,1,6,Gross Written Premium,102537
+2022,1,6,Net Earned Premium,348303
+2022,1,6,Reinsurance Recoveries,398184
+2022,1,6,Investment Income,186429
+2022,1,6,Commission Income,222980
+2022,1,6,Claims Paid,302647
+2022,1,6,Claims Incurred,80403
+2022,1,6,Loss Adjustment Expenses,69286
+2022,1,6,Staff Costs,341986
+2022,1,6,IT Expenses,109927
+2022,1,6,Marketing,282052
+2022,1,6,Office Costs,304372
+2022,1,6,Depreciation,28386
+2022,1,6,Professional Services,182826
+2022,1,7,Gross Written Premium,295446
+2022,1,7,Net Earned Premium,327959
+2022,1,7,Reinsurance Recoveries,257156
+2022,1,7,Investment Income,330488
+2022,1,7,Commission Income,378747
+2022,1,7,Claims Paid,328258
+2022,1,7,Claims Incurred,253724
+2022,1,7,Loss Adjustment Expenses,206202
+2022,1,7,Staff Costs,30525
+2022,1,7,IT Expenses,84818
+2022,1,7,Marketing,119589
+2022,1,7,Office Costs,150406
+2022,1,7,Depreciation,99715
+2022,1,7,Professional Services,198839
+2022,1,8,Gross Written Premium,273788
+2022,1,8,Net Earned Premium,368298
+2022,1,8,Reinsurance Recoveries,262438
+2022,1,8,Investment Income,310613
+2022,1,8,Commission Income,373753
+2022,1,8,Claims Paid,332350
+2022,1,8,Claims Incurred,363606
+2022,1,8,Loss Adjustment Expenses,172679
+2022,1,8,Staff Costs,88178
+2022,1,8,IT Expenses,180458
+2022,1,8,Marketing,259466
+2022,1,8,Office Costs,91724
+2022,1,8,Depreciation,234204
+2022,1,8,Professional Services,101393
+2022,1,9,Gross Written Premium,394458
+2022,1,9,Net Earned Premium,81312
+2022,1,9,Reinsurance Recoveries,342468
+2022,1,9,Investment Income,76196
+2022,1,9,Commission Income,75014
+2022,1,9,Claims Paid,146994
+2022,1,9,Claims Incurred,38340
+2022,1,9,Loss Adjustment Expenses,306994
+2022,1,9,Staff Costs,118711
+2022,1,9,IT Expenses,220250
+2022,1,9,Marketing,16094
+2022,1,9,Office Costs,355103
+2022,1,9,Depreciation,272885
+2022,1,9,Professional Services,116585
+2022,1,10,Gross Written Premium,389708
+2022,1,10,Net Earned Premium,73798
+2022,1,10,Reinsurance Recoveries,383170
+2022,1,10,Investment Income,206604
+2022,1,10,Commission Income,115130
+2022,1,10,Claims Paid,289308
+2022,1,10,Claims Incurred,171667
+2022,1,10,Loss Adjustment Expenses,35257
+2022,1,10,Staff Costs,363133
+2022,1,10,IT Expenses,57691
+2022,1,10,Marketing,84768
+2022,1,10,Office Costs,19026
+2022,1,10,Depreciation,230162
+2022,1,10,Professional Services,298052
+2022,2,1,Gross Written Premium,24610
+2022,2,1,Net Earned Premium,182718
+2022,2,1,Reinsurance Recoveries,330329
+2022,2,1,Investment Income,339711
+2022,2,1,Commission Income,183646
+2022,2,1,Claims Paid,227123
+2022,2,1,Claims Incurred,303326
+2022,2,1,Loss Adjustment Expenses,383280
+2022,2,1,Staff Costs,398786
+2022,2,1,IT Expenses,24288
+2022,2,1,Marketing,345968
+2022,2,1,Office Costs,89425
+2022,2,1,Depreciation,5917
+2022,2,1,Professional Services,342746
+2022,2,2,Gross Written Premium,331719
+2022,2,2,Net Earned Premium,339662
+2022,2,2,Reinsurance Recoveries,258187
+2022,2,2,Investment Income,44104
+2022,2,2,Commission Income,154134
+2022,2,2,Claims Paid,284143
+2022,2,2,Claims Incurred,267091
+2022,2,2,Loss Adjustment Expenses,66169
+2022,2,2,Staff Costs,159542
+2022,2,2,IT Expenses,134744
+2022,2,2,Marketing,377828
+2022,2,2,Office Costs,64821
+2022,2,2,Depreciation,222741
+2022,2,2,Professional Services,254265
+2022,2,3,Gross Written Premium,219127
+2022,2,3,Net Earned Premium,279336
+2022,2,3,Reinsurance Recoveries,341246
+2022,2,3,Investment Income,208834
+2022,2,3,Commission Income,239538
+2022,2,3,Claims Paid,382038
+2022,2,3,Claims Incurred,91795
+2022,2,3,Loss Adjustment Expenses,170159
+2022,2,3,Staff Costs,333821
+2022,2,3,IT Expenses,140699
+2022,2,3,Marketing,248877
+2022,2,3,Office Costs,204298
+2022,2,3,Depreciation,193505
+2022,2,3,Professional Services,141285
+2022,2,4,Gross Written Premium,107412
+2022,2,4,Net Earned Premium,24404
+2022,2,4,Reinsurance Recoveries,121545
+2022,2,4,Investment Income,227128
+2022,2,4,Commission Income,155245
+2022,2,4,Claims Paid,189099
+2022,2,4,Claims Incurred,291133
+2022,2,4,Loss Adjustment Expenses,266657
+2022,2,4,Staff Costs,375250
+2022,2,4,IT Expenses,291663
+2022,2,4,Marketing,261875
+2022,2,4,Office Costs,289583
+2022,2,4,Depreciation,385714
+2022,2,4,Professional Services,19995
+2022,2,5,Gross Written Premium,28559
+2022,2,5,Net Earned Premium,356193
+2022,2,5,Reinsurance Recoveries,103000
+2022,2,5,Investment Income,157191
+2022,2,5,Commission Income,306494
+2022,2,5,Claims Paid,30517
+2022,2,5,Claims Incurred,220558
+2022,2,5,Loss Adjustment Expenses,356276
+2022,2,5,Staff Costs,326690
+2022,2,5,IT Expenses,110686
+2022,2,5,Marketing,93151
+2022,2,5,Office Costs,270471
+2022,2,5,Depreciation,125318
+2022,2,5,Professional Services,200490
+2022,2,6,Gross Written Premium,178860
+2022,2,6,Net Earned Premium,120945
+2022,2,6,Reinsurance Recoveries,218456
+2022,2,6,Investment Income,313974
+2022,2,6,Commission Income,57446
+2022,2,6,Claims Paid,192655
+2022,2,6,Claims Incurred,145148
+2022,2,6,Loss Adjustment Expenses,74341
+2022,2,6,Staff Costs,36085
+2022,2,6,IT Expenses,322715
+2022,2,6,Marketing,395452
+2022,2,6,Office Costs,10750
+2022,2,6,Depreciation,381075
+2022,2,6,Professional Services,345912
+2022,2,7,Gross Written Premium,40903
+2022,2,7,Net Earned Premium,208561
+2022,2,7,Reinsurance Recoveries,96036
+2022,2,7,Investment Income,92954
+2022,2,7,Commission Income,350158
+2022,2,7,Claims Paid,122305
+2022,2,7,Claims Incurred,205753
+2022,2,7,Loss Adjustment Expenses,37101
+2022,2,7,Staff Costs,7775
+2022,2,7,IT Expenses,116497
+2022,2,7,Marketing,50619
+2022,2,7,Office Costs,257388
+2022,2,7,Depreciation,238346
+2022,2,7,Professional Services,324268
+2022,2,8,Gross Written Premium,70149
+2022,2,8,Net Earned Premium,31616
+2022,2,8,Reinsurance Recoveries,226767
+2022,2,8,Investment Income,190639
+2022,2,8,Commission Income,173171
+2022,2,8,Claims Paid,211903
+2022,2,8,Claims Incurred,236318
+2022,2,8,Loss Adjustment Expenses,328943
+2022,2,8,Staff Costs,357365
+2022,2,8,IT Expenses,382023
+2022,2,8,Marketing,292623
+2022,2,8,Office Costs,366309
+2022,2,8,Depreciation,60863
+2022,2,8,Professional Services,178115
+2022,2,9,Gross Written Premium,349713
+2022,2,9,Net Earned Premium,258347
+2022,2,9,Reinsurance Recoveries,194052
+2022,2,9,Investment Income,283495
+2022,2,9,Commission Income,140203
+2022,2,9,Claims Paid,252908
+2022,2,9,Claims Incurred,311969
+2022,2,9,Loss Adjustment Expenses,278493
+2022,2,9,Staff Costs,197003
+2022,2,9,IT Expenses,311398
+2022,2,9,Marketing,305369
+2022,2,9,Office Costs,279597
+2022,2,9,Depreciation,154886
+2022,2,9,Professional Services,154335
+2022,2,10,Gross Written Premium,82694
+2022,2,10,Net Earned Premium,20735
+2022,2,10,Reinsurance Recoveries,315037
+2022,2,10,Investment Income,180745
+2022,2,10,Commission Income,394150
+2022,2,10,Claims Paid,225534
+2022,2,10,Claims Incurred,50066
+2022,2,10,Loss Adjustment Expenses,236387
+2022,2,10,Staff Costs,139445
+2022,2,10,IT Expenses,277836
+2022,2,10,Marketing,50541
+2022,2,10,Office Costs,170129
+2022,2,10,Depreciation,71983
+2022,2,10,Professional Services,155655
+2022,3,1,Gross Written Premium,158837
+2022,3,1,Net Earned Premium,195359
+2022,3,1,Reinsurance Recoveries,387891
+2022,3,1,Investment Income,352247
+2022,3,1,Commission Income,215747
+2022,3,1,Claims Paid,182597
+2022,3,1,Claims Incurred,174302
+2022,3,1,Loss Adjustment Expenses,292710
+2022,3,1,Staff Costs,340337
+2022,3,1,IT Expenses,257084
+2022,3,1,Marketing,126015
+2022,3,1,Office Costs,177257
+2022,3,1,Depreciation,251536
+2022,3,1,Professional Services,229021
+2022,3,2,Gross Written Premium,135956
+2022,3,2,Net Earned Premium,75744
+2022,3,2,Reinsurance Recoveries,300599
+2022,3,2,Investment Income,321363
+2022,3,2,Commission Income,313135
+2022,3,2,Claims Paid,78616
+2022,3,2,Claims Incurred,92438
+2022,3,2,Loss Adjustment Expenses,121841
+2022,3,2,Staff Costs,145558
+2022,3,2,IT Expenses,174934
+2022,3,2,Marketing,257734
+2022,3,2,Office Costs,63870
+2022,3,2,Depreciation,91694
+2022,3,2,Professional Services,242068
+2022,3,3,Gross Written Premium,311000
+2022,3,3,Net Earned Premium,106407
+2022,3,3,Reinsurance Recoveries,36379
+2022,3,3,Investment Income,331873
+2022,3,3,Commission Income,241500
+2022,3,3,Claims Paid,59353
+2022,3,3,Claims Incurred,186068
+2022,3,3,Loss Adjustment Expenses,281175
+2022,3,3,Staff Costs,216144
+2022,3,3,IT Expenses,70982
+2022,3,3,Marketing,41683
+2022,3,3,Office Costs,119091
+2022,3,3,Depreciation,122797
+2022,3,3,Professional Services,11587
+2022,3,4,Gross Written Premium,329934
+2022,3,4,Net Earned Premium,298624
+2022,3,4,Reinsurance Recoveries,234602
+2022,3,4,Investment Income,156599
+2022,3,4,Commission Income,290713
+2022,3,4,Claims Paid,278295
+2022,3,4,Claims Incurred,195246
+2022,3,4,Loss Adjustment Expenses,49739
+2022,3,4,Staff Costs,37954
+2022,3,4,IT Expenses,248935
+2022,3,4,Marketing,114373
+2022,3,4,Office Costs,39700
+2022,3,4,Depreciation,128728
+2022,3,4,Professional Services,333932
+2022,3,5,Gross Written Premium,76045
+2022,3,5,Net Earned Premium,149972
+2022,3,5,Reinsurance Recoveries,395136
+2022,3,5,Investment Income,347203
+2022,3,5,Commission Income,6881
+2022,3,5,Claims Paid,399846
+2022,3,5,Claims Incurred,287933
+2022,3,5,Loss Adjustment Expenses,393227
+2022,3,5,Staff Costs,93059
+2022,3,5,IT Expenses,219566
+2022,3,5,Marketing,313295
+2022,3,5,Office Costs,114388
+2022,3,5,Depreciation,203303
+2022,3,5,Professional Services,270406
+2022,3,6,Gross Written Premium,334125
+2022,3,6,Net Earned Premium,388095
+2022,3,6,Reinsurance Recoveries,390243
+2022,3,6,Investment Income,86972
+2022,3,6,Commission Income,342629
+2022,3,6,Claims Paid,59722
+2022,3,6,Claims Incurred,356643
+2022,3,6,Loss Adjustment Expenses,186890
+2022,3,6,Staff Costs,274045
+2022,3,6,IT Expenses,122473
+2022,3,6,Marketing,275741
+2022,3,6,Office Costs,396775
+2022,3,6,Depreciation,331053
+2022,3,6,Professional Services,339535
+2022,3,7,Gross Written Premium,220286
+2022,3,7,Net Earned Premium,330437
+2022,3,7,Reinsurance Recoveries,248896
+2022,3,7,Investment Income,161877
+2022,3,7,Commission Income,16874
+2022,3,7,Claims Paid,229137
+2022,3,7,Claims Incurred,353546
+2022,3,7,Loss Adjustment Expenses,281223
+2022,3,7,Staff Costs,339923
+2022,3,7,IT Expenses,100408
+2022,3,7,Marketing,125606
+2022,3,7,Office Costs,125062
+2022,3,7,Depreciation,17100
+2022,3,7,Professional Services,324165
+2022,3,8,Gross Written Premium,155872
+2022,3,8,Net Earned Premium,395270
+2022,3,8,Reinsurance Recoveries,199472
+2022,3,8,Investment Income,359590
+2022,3,8,Commission Income,296581
+2022,3,8,Claims Paid,239196
+2022,3,8,Claims Incurred,212609
+2022,3,8,Loss Adjustment Expenses,156014
+2022,3,8,Staff Costs,288006
+2022,3,8,IT Expenses,278813
+2022,3,8,Marketing,388363
+2022,3,8,Office Costs,189844
+2022,3,8,Depreciation,283060
+2022,3,8,Professional Services,278022
+2022,3,9,Gross Written Premium,270129
+2022,3,9,Net Earned Premium,209720
+2022,3,9,Reinsurance Recoveries,46235
+2022,3,9,Investment Income,286075
+2022,3,9,Commission Income,97876
+2022,3,9,Claims Paid,5336
+2022,3,9,Claims Incurred,310077
+2022,3,9,Loss Adjustment Expenses,312680
+2022,3,9,Staff Costs,74504
+2022,3,9,IT Expenses,104214
+2022,3,9,Marketing,187220
+2022,3,9,Office Costs,118936
+2022,3,9,Depreciation,21279
+2022,3,9,Professional Services,204737
+2022,3,10,Gross Written Premium,108751
+2022,3,10,Net Earned Premium,371577
+2022,3,10,Reinsurance Recoveries,76386
+2022,3,10,Investment Income,91124
+2022,3,10,Commission Income,372894
+2022,3,10,Claims Paid,344629
+2022,3,10,Claims Incurred,341199
+2022,3,10,Loss Adjustment Expenses,96911
+2022,3,10,Staff Costs,365762
+2022,3,10,IT Expenses,202742
+2022,3,10,Marketing,226094
+2022,3,10,Office Costs,381036
+2022,3,10,Depreciation,242723
+2022,3,10,Professional Services,338272
+2022,4,1,Gross Written Premium,319639
+2022,4,1,Net Earned Premium,87806
+2022,4,1,Reinsurance Recoveries,360329
+2022,4,1,Investment Income,212605
+2022,4,1,Commission Income,235097
+2022,4,1,Claims Paid,202478
+2022,4,1,Claims Incurred,175591
+2022,4,1,Loss Adjustment Expenses,316793
+2022,4,1,Staff Costs,170596
+2022,4,1,IT Expenses,169957
+2022,4,1,Marketing,237204
+2022,4,1,Office Costs,362546
+2022,4,1,Depreciation,297820
+2022,4,1,Professional Services,331237
+2022,4,2,Gross Written Premium,186871
+2022,4,2,Net Earned Premium,346558
+2022,4,2,Reinsurance Recoveries,360239
+2022,4,2,Investment Income,248154
+2022,4,2,Commission Income,77307
+2022,4,2,Claims Paid,362576
+2022,4,2,Claims Incurred,299067
+2022,4,2,Loss Adjustment Expenses,384593
+2022,4,2,Staff Costs,240998
+2022,4,2,IT Expenses,314718
+2022,4,2,Marketing,126757
+2022,4,2,Office Costs,58664
+2022,4,2,Depreciation,334528
+2022,4,2,Professional Services,298171
+2022,4,3,Gross Written Premium,171536
+2022,4,3,Net Earned Premium,301629
+2022,4,3,Reinsurance Recoveries,264438
+2022,4,3,Investment Income,155528
+2022,4,3,Commission Income,302698
+2022,4,3,Claims Paid,314066
+2022,4,3,Claims Incurred,280553
+2022,4,3,Loss Adjustment Expenses,205399
+2022,4,3,Staff Costs,227472
+2022,4,3,IT Expenses,303783
+2022,4,3,Marketing,236182
+2022,4,3,Office Costs,286836
+2022,4,3,Depreciation,94037
+2022,4,3,Professional Services,214912
+2022,4,4,Gross Written Premium,190272
+2022,4,4,Net Earned Premium,229135
+2022,4,4,Reinsurance Recoveries,193487
+2022,4,4,Investment Income,23074
+2022,4,4,Commission Income,151621
+2022,4,4,Claims Paid,297107
+2022,4,4,Claims Incurred,232434
+2022,4,4,Loss Adjustment Expenses,237679
+2022,4,4,Staff Costs,57265
+2022,4,4,IT Expenses,21061
+2022,4,4,Marketing,164882
+2022,4,4,Office Costs,118502
+2022,4,4,Depreciation,289944
+2022,4,4,Professional Services,383336
+2022,4,5,Gross Written Premium,261505
+2022,4,5,Net Earned Premium,112228
+2022,4,5,Reinsurance Recoveries,211548
+2022,4,5,Investment Income,295198
+2022,4,5,Commission Income,181469
+2022,4,5,Claims Paid,18233
+2022,4,5,Claims Incurred,247277
+2022,4,5,Loss Adjustment Expenses,161140
+2022,4,5,Staff Costs,332871
+2022,4,5,IT Expenses,357754
+2022,4,5,Marketing,337597
+2022,4,5,Office Costs,109135
+2022,4,5,Depreciation,375608
+2022,4,5,Professional Services,222314
+2022,4,6,Gross Written Premium,18682
+2022,4,6,Net Earned Premium,159455
+2022,4,6,Reinsurance Recoveries,325304
+2022,4,6,Investment Income,229404
+2022,4,6,Commission Income,290810
+2022,4,6,Claims Paid,325961
+2022,4,6,Claims Incurred,96198
+2022,4,6,Loss Adjustment Expenses,46830
+2022,4,6,Staff Costs,15234
+2022,4,6,IT Expenses,62616
+2022,4,6,Marketing,276365
+2022,4,6,Office Costs,147482
+2022,4,6,Depreciation,216127
+2022,4,6,Professional Services,197485
+2022,4,7,Gross Written Premium,6051
+2022,4,7,Net Earned Premium,377673
+2022,4,7,Reinsurance Recoveries,81918
+2022,4,7,Investment Income,83116
+2022,4,7,Commission Income,389370
+2022,4,7,Claims Paid,233931
+2022,4,7,Claims Incurred,311901
+2022,4,7,Loss Adjustment Expenses,388152
+2022,4,7,Staff Costs,213547
+2022,4,7,IT Expenses,231572
+2022,4,7,Marketing,136379
+2022,4,7,Office Costs,61889
+2022,4,7,Depreciation,231256
+2022,4,7,Professional Services,303088
+2022,4,8,Gross Written Premium,366699
+2022,4,8,Net Earned Premium,43134
+2022,4,8,Reinsurance Recoveries,207834
+2022,4,8,Investment Income,232579
+2022,4,8,Commission Income,30954
+2022,4,8,Claims Paid,191093
+2022,4,8,Claims Incurred,357103
+2022,4,8,Loss Adjustment Expenses,231999
+2022,4,8,Staff Costs,215938
+2022,4,8,IT Expenses,206499
+2022,4,8,Marketing,272136
+2022,4,8,Office Costs,6961
+2022,4,8,Depreciation,17497
+2022,4,8,Professional Services,261446
+2022,4,9,Gross Written Premium,280399
+2022,4,9,Net Earned Premium,140639
+2022,4,9,Reinsurance Recoveries,315991
+2022,4,9,Investment Income,240889
+2022,4,9,Commission Income,184075
+2022,4,9,Claims Paid,25389
+2022,4,9,Claims Incurred,180595
+2022,4,9,Loss Adjustment Expenses,390946
+2022,4,9,Staff Costs,328720
+2022,4,9,IT Expenses,311063
+2022,4,9,Marketing,218175
+2022,4,9,Office Costs,8358
+2022,4,9,Depreciation,355679
+2022,4,9,Professional Services,257557
+2022,4,10,Gross Written Premium,212596
+2022,4,10,Net Earned Premium,259488
+2022,4,10,Reinsurance Recoveries,110982
+2022,4,10,Investment Income,233129
+2022,4,10,Commission Income,272842
+2022,4,10,Claims Paid,333953
+2022,4,10,Claims Incurred,98079
+2022,4,10,Loss Adjustment Expenses,60805
+2022,4,10,Staff Costs,167421
+2022,4,10,IT Expenses,212849
+2022,4,10,Marketing,342177
+2022,4,10,Office Costs,243483
+2022,4,10,Depreciation,365383
+2022,4,10,Professional Services,397551
+2022,5,1,Gross Written Premium,49041
+2022,5,1,Net Earned Premium,299098
+2022,5,1,Reinsurance Recoveries,275146
+2022,5,1,Investment Income,336927
+2022,5,1,Commission Income,112524
+2022,5,1,Claims Paid,223306
+2022,5,1,Claims Incurred,392001
+2022,5,1,Loss Adjustment Expenses,24738
+2022,5,1,Staff Costs,277847
+2022,5,1,IT Expenses,118776
+2022,5,1,Marketing,185494
+2022,5,1,Office Costs,197971
+2022,5,1,Depreciation,311868
+2022,5,1,Professional Services,299443
+2022,5,2,Gross Written Premium,282785
+2022,5,2,Net Earned Premium,346678
+2022,5,2,Reinsurance Recoveries,273449
+2022,5,2,Investment Income,234334
+2022,5,2,Commission Income,285926
+2022,5,2,Claims Paid,345401
+2022,5,2,Claims Incurred,241371
+2022,5,2,Loss Adjustment Expenses,82963
+2022,5,2,Staff Costs,126987
+2022,5,2,IT Expenses,156638
+2022,5,2,Marketing,129591
+2022,5,2,Office Costs,72766
+2022,5,2,Depreciation,11511
+2022,5,2,Professional Services,119816
+2022,5,3,Gross Written Premium,254432
+2022,5,3,Net Earned Premium,271909
+2022,5,3,Reinsurance Recoveries,156426
+2022,5,3,Investment Income,291073
+2022,5,3,Commission Income,164892
+2022,5,3,Claims Paid,116576
+2022,5,3,Claims Incurred,76088
+2022,5,3,Loss Adjustment Expenses,82525
+2022,5,3,Staff Costs,18780
+2022,5,3,IT Expenses,273733
+2022,5,3,Marketing,360808
+2022,5,3,Office Costs,109188
+2022,5,3,Depreciation,98326
+2022,5,3,Professional Services,308097
+2022,5,4,Gross Written Premium,70785
+2022,5,4,Net Earned Premium,24309
+2022,5,4,Reinsurance Recoveries,59195
+2022,5,4,Investment Income,30901
+2022,5,4,Commission Income,159648
+2022,5,4,Claims Paid,30464
+2022,5,4,Claims Incurred,283404
+2022,5,4,Loss Adjustment Expenses,129997
+2022,5,4,Staff Costs,302584
+2022,5,4,IT Expenses,362226
+2022,5,4,Marketing,372727
+2022,5,4,Office Costs,61683
+2022,5,4,Depreciation,391350
+2022,5,4,Professional Services,177502
+2022,5,5,Gross Written Premium,161177
+2022,5,5,Net Earned Premium,83484
+2022,5,5,Reinsurance Recoveries,254819
+2022,5,5,Investment Income,335453
+2022,5,5,Commission Income,313071
+2022,5,5,Claims Paid,211486
+2022,5,5,Claims Incurred,310090
+2022,5,5,Loss Adjustment Expenses,393647
+2022,5,5,Staff Costs,146449
+2022,5,5,IT Expenses,58592
+2022,5,5,Marketing,143419
+2022,5,5,Office Costs,300920
+2022,5,5,Depreciation,60798
+2022,5,5,Professional Services,140370
+2022,5,6,Gross Written Premium,337348
+2022,5,6,Net Earned Premium,353351
+2022,5,6,Reinsurance Recoveries,367500
+2022,5,6,Investment Income,327796
+2022,5,6,Commission Income,396716
+2022,5,6,Claims Paid,248767
+2022,5,6,Claims Incurred,25922
+2022,5,6,Loss Adjustment Expenses,344140
+2022,5,6,Staff Costs,297410
+2022,5,6,IT Expenses,231817
+2022,5,6,Marketing,7866
+2022,5,6,Office Costs,117669
+2022,5,6,Depreciation,273042
+2022,5,6,Professional Services,285539
+2022,5,7,Gross Written Premium,175091
+2022,5,7,Net Earned Premium,271150
+2022,5,7,Reinsurance Recoveries,170465
+2022,5,7,Investment Income,278100
+2022,5,7,Commission Income,362820
+2022,5,7,Claims Paid,126724
+2022,5,7,Claims Incurred,67901
+2022,5,7,Loss Adjustment Expenses,374371
+2022,5,7,Staff Costs,205569
+2022,5,7,IT Expenses,122192
+2022,5,7,Marketing,177646
+2022,5,7,Office Costs,298561
+2022,5,7,Depreciation,355164
+2022,5,7,Professional Services,350783
+2022,5,8,Gross Written Premium,99881
+2022,5,8,Net Earned Premium,247934
+2022,5,8,Reinsurance Recoveries,137659
+2022,5,8,Investment Income,126688
+2022,5,8,Commission Income,120584
+2022,5,8,Claims Paid,190782
+2022,5,8,Claims Incurred,353711
+2022,5,8,Loss Adjustment Expenses,227820
+2022,5,8,Staff Costs,343030
+2022,5,8,IT Expenses,221896
+2022,5,8,Marketing,296576
+2022,5,8,Office Costs,184689
+2022,5,8,Depreciation,339517
+2022,5,8,Professional Services,170289
+2022,5,9,Gross Written Premium,288028
+2022,5,9,Net Earned Premium,272598
+2022,5,9,Reinsurance Recoveries,79960
+2022,5,9,Investment Income,107421
+2022,5,9,Commission Income,243245
+2022,5,9,Claims Paid,48618
+2022,5,9,Claims Incurred,52111
+2022,5,9,Loss Adjustment Expenses,221750
+2022,5,9,Staff Costs,125592
+2022,5,9,IT Expenses,239000
+2022,5,9,Marketing,260989
+2022,5,9,Office Costs,327137
+2022,5,9,Depreciation,133652
+2022,5,9,Professional Services,83672
+2022,5,10,Gross Written Premium,255351
+2022,5,10,Net Earned Premium,333269
+2022,5,10,Reinsurance Recoveries,222516
+2022,5,10,Investment Income,384653
+2022,5,10,Commission Income,66602
+2022,5,10,Claims Paid,208117
+2022,5,10,Claims Incurred,242069
+2022,5,10,Loss Adjustment Expenses,47222
+2022,5,10,Staff Costs,316367
+2022,5,10,IT Expenses,246084
+2022,5,10,Marketing,247318
+2022,5,10,Office Costs,70333
+2022,5,10,Depreciation,188804
+2022,5,10,Professional Services,389794
+2022,6,1,Gross Written Premium,54420
+2022,6,1,Net Earned Premium,80504
+2022,6,1,Reinsurance Recoveries,7462
+2022,6,1,Investment Income,276604
+2022,6,1,Commission Income,104319
+2022,6,1,Claims Paid,261674
+2022,6,1,Claims Incurred,145347
+2022,6,1,Loss Adjustment Expenses,149341
+2022,6,1,Staff Costs,134593
+2022,6,1,IT Expenses,127672
+2022,6,1,Marketing,340064
+2022,6,1,Office Costs,289697
+2022,6,1,Depreciation,49036
+2022,6,1,Professional Services,153441
+2022,6,2,Gross Written Premium,147867
+2022,6,2,Net Earned Premium,75021
+2022,6,2,Reinsurance Recoveries,374349
+2022,6,2,Investment Income,166215
+2022,6,2,Commission Income,355353
+2022,6,2,Claims Paid,342283
+2022,6,2,Claims Incurred,241304
+2022,6,2,Loss Adjustment Expenses,10368
+2022,6,2,Staff Costs,140693
+2022,6,2,IT Expenses,63829
+2022,6,2,Marketing,396180
+2022,6,2,Office Costs,281863
+2022,6,2,Depreciation,34227
+2022,6,2,Professional Services,114430
+2022,6,3,Gross Written Premium,17306
+2022,6,3,Net Earned Premium,58822
+2022,6,3,Reinsurance Recoveries,29042
+2022,6,3,Investment Income,153459
+2022,6,3,Commission Income,94424
+2022,6,3,Claims Paid,187690
+2022,6,3,Claims Incurred,228122
+2022,6,3,Loss Adjustment Expenses,154395
+2022,6,3,Staff Costs,23019
+2022,6,3,IT Expenses,342570
+2022,6,3,Marketing,45863
+2022,6,3,Office Costs,116023
+2022,6,3,Depreciation,146355
+2022,6,3,Professional Services,314143
+2022,6,4,Gross Written Premium,67780
+2022,6,4,Net Earned Premium,290052
+2022,6,4,Reinsurance Recoveries,197656
+2022,6,4,Investment Income,393422
+2022,6,4,Commission Income,380146
+2022,6,4,Claims Paid,174024
+2022,6,4,Claims Incurred,105706
+2022,6,4,Loss Adjustment Expenses,173735
+2022,6,4,Staff Costs,127019
+2022,6,4,IT Expenses,376852
+2022,6,4,Marketing,197453
+2022,6,4,Office Costs,184001
+2022,6,4,Depreciation,276487
+2022,6,4,Professional Services,343317
+2022,6,5,Gross Written Premium,105260
+2022,6,5,Net Earned Premium,175863
+2022,6,5,Reinsurance Recoveries,165206
+2022,6,5,Investment Income,183173
+2022,6,5,Commission Income,74443
+2022,6,5,Claims Paid,235183
+2022,6,5,Claims Incurred,324674
+2022,6,5,Loss Adjustment Expenses,140899
+2022,6,5,Staff Costs,101143
+2022,6,5,IT Expenses,198725
+2022,6,5,Marketing,149771
+2022,6,5,Office Costs,381671
+2022,6,5,Depreciation,253044
+2022,6,5,Professional Services,141385
+2022,6,6,Gross Written Premium,149670
+2022,6,6,Net Earned Premium,116362
+2022,6,6,Reinsurance Recoveries,251517
+2022,6,6,Investment Income,295951
+2022,6,6,Commission Income,205462
+2022,6,6,Claims Paid,181298
+2022,6,6,Claims Incurred,64550
+2022,6,6,Loss Adjustment Expenses,270702
+2022,6,6,Staff Costs,317257
+2022,6,6,IT Expenses,320143
+2022,6,6,Marketing,191950
+2022,6,6,Office Costs,63219
+2022,6,6,Depreciation,171258
+2022,6,6,Professional Services,169841
+2022,6,7,Gross Written Premium,256004
+2022,6,7,Net Earned Premium,262336
+2022,6,7,Reinsurance Recoveries,241495
+2022,6,7,Investment Income,58218
+2022,6,7,Commission Income,286373
+2022,6,7,Claims Paid,342353
+2022,6,7,Claims Incurred,32877
+2022,6,7,Loss Adjustment Expenses,194073
+2022,6,7,Staff Costs,364281
+2022,6,7,IT Expenses,305228
+2022,6,7,Marketing,348924
+2022,6,7,Office Costs,152878
+2022,6,7,Depreciation,224707
+2022,6,7,Professional Services,246249
+2022,6,8,Gross Written Premium,42034
+2022,6,8,Net Earned Premium,176389
+2022,6,8,Reinsurance Recoveries,322612
+2022,6,8,Investment Income,193868
+2022,6,8,Commission Income,15589
+2022,6,8,Claims Paid,62221
+2022,6,8,Claims Incurred,260927
+2022,6,8,Loss Adjustment Expenses,268801
+2022,6,8,Staff Costs,365444
+2022,6,8,IT Expenses,122229
+2022,6,8,Marketing,306675
+2022,6,8,Office Costs,57227
+2022,6,8,Depreciation,270308
+2022,6,8,Professional Services,98078
+2022,6,9,Gross Written Premium,308391
+2022,6,9,Net Earned Premium,240113
+2022,6,9,Reinsurance Recoveries,55599
+2022,6,9,Investment Income,251367
+2022,6,9,Commission Income,194651
+2022,6,9,Claims Paid,73207
+2022,6,9,Claims Incurred,339199
+2022,6,9,Loss Adjustment Expenses,369410
+2022,6,9,Staff Costs,345414
+2022,6,9,IT Expenses,116426
+2022,6,9,Marketing,139794
+2022,6,9,Office Costs,337586
+2022,6,9,Depreciation,362776
+2022,6,9,Professional Services,176103
+2022,6,10,Gross Written Premium,215307
+2022,6,10,Net Earned Premium,26438
+2022,6,10,Reinsurance Recoveries,63819
+2022,6,10,Investment Income,48856
+2022,6,10,Commission Income,309082
+2022,6,10,Claims Paid,64807
+2022,6,10,Claims Incurred,317021
+2022,6,10,Loss Adjustment Expenses,48461
+2022,6,10,Staff Costs,98474
+2022,6,10,IT Expenses,350280
+2022,6,10,Marketing,287579
+2022,6,10,Office Costs,220189
+2022,6,10,Depreciation,351870
+2022,6,10,Professional Services,259730
+2022,7,1,Gross Written Premium,251732
+2022,7,1,Net Earned Premium,167793
+2022,7,1,Reinsurance Recoveries,59786
+2022,7,1,Investment Income,280848
+2022,7,1,Commission Income,61635
+2022,7,1,Claims Paid,357854
+2022,7,1,Claims Incurred,245909
+2022,7,1,Loss Adjustment Expenses,250984
+2022,7,1,Staff Costs,330137
+2022,7,1,IT Expenses,117752
+2022,7,1,Marketing,216194
+2022,7,1,Office Costs,233584
+2022,7,1,Depreciation,137886
+2022,7,1,Professional Services,83537
+2022,7,2,Gross Written Premium,317402
+2022,7,2,Net Earned Premium,152580
+2022,7,2,Reinsurance Recoveries,90166
+2022,7,2,Investment Income,214988
+2022,7,2,Commission Income,380854
+2022,7,2,Claims Paid,302843
+2022,7,2,Claims Incurred,313479
+2022,7,2,Loss Adjustment Expenses,313950
+2022,7,2,Staff Costs,344997
+2022,7,2,IT Expenses,199840
+2022,7,2,Marketing,302883
+2022,7,2,Office Costs,39785
+2022,7,2,Depreciation,168052
+2022,7,2,Professional Services,236791
+2022,7,3,Gross Written Premium,352160
+2022,7,3,Net Earned Premium,399825
+2022,7,3,Reinsurance Recoveries,71253
+2022,7,3,Investment Income,96128
+2022,7,3,Commission Income,166081
+2022,7,3,Claims Paid,394725
+2022,7,3,Claims Incurred,115966
+2022,7,3,Loss Adjustment Expenses,142854
+2022,7,3,Staff Costs,104352
+2022,7,3,IT Expenses,344298
+2022,7,3,Marketing,144379
+2022,7,3,Office Costs,228279
+2022,7,3,Depreciation,242281
+2022,7,3,Professional Services,113297
+2022,7,4,Gross Written Premium,211946
+2022,7,4,Net Earned Premium,43346
+2022,7,4,Reinsurance Recoveries,117138
+2022,7,4,Investment Income,317916
+2022,7,4,Commission Income,45149
+2022,7,4,Claims Paid,353844
+2022,7,4,Claims Incurred,163598
+2022,7,4,Loss Adjustment Expenses,363902
+2022,7,4,Staff Costs,133447
+2022,7,4,IT Expenses,10695
+2022,7,4,Marketing,44169
+2022,7,4,Office Costs,315091
+2022,7,4,Depreciation,183296
+2022,7,4,Professional Services,313009
+2022,7,5,Gross Written Premium,161625
+2022,7,5,Net Earned Premium,371645
+2022,7,5,Reinsurance Recoveries,327554
+2022,7,5,Investment Income,370898
+2022,7,5,Commission Income,358039
+2022,7,5,Claims Paid,191098
+2022,7,5,Claims Incurred,317849
+2022,7,5,Loss Adjustment Expenses,197994
+2022,7,5,Staff Costs,382844
+2022,7,5,IT Expenses,341058
+2022,7,5,Marketing,6881
+2022,7,5,Office Costs,314509
+2022,7,5,Depreciation,84211
+2022,7,5,Professional Services,161078
+2022,7,6,Gross Written Premium,308342
+2022,7,6,Net Earned Premium,367793
+2022,7,6,Reinsurance Recoveries,232203
+2022,7,6,Investment Income,200558
+2022,7,6,Commission Income,141949
+2022,7,6,Claims Paid,44553
+2022,7,6,Claims Incurred,389922
+2022,7,6,Loss Adjustment Expenses,384162
+2022,7,6,Staff Costs,140758
+2022,7,6,IT Expenses,37766
+2022,7,6,Marketing,299150
+2022,7,6,Office Costs,36422
+2022,7,6,Depreciation,383734
+2022,7,6,Professional Services,279349
+2022,7,7,Gross Written Premium,159599
+2022,7,7,Net Earned Premium,247555
+2022,7,7,Reinsurance Recoveries,383621
+2022,7,7,Investment Income,33202
+2022,7,7,Commission Income,328836
+2022,7,7,Claims Paid,218456
+2022,7,7,Claims Incurred,25855
+2022,7,7,Loss Adjustment Expenses,196444
+2022,7,7,Staff Costs,292239
+2022,7,7,IT Expenses,316385
+2022,7,7,Marketing,108119
+2022,7,7,Office Costs,57003
+2022,7,7,Depreciation,99837
+2022,7,7,Professional Services,228068
+2022,7,8,Gross Written Premium,361427
+2022,7,8,Net Earned Premium,128805
+2022,7,8,Reinsurance Recoveries,360990
+2022,7,8,Investment Income,290071
+2022,7,8,Commission Income,387733
+2022,7,8,Claims Paid,120657
+2022,7,8,Claims Incurred,333774
+2022,7,8,Loss Adjustment Expenses,109428
+2022,7,8,Staff Costs,127035
+2022,7,8,IT Expenses,235780
+2022,7,8,Marketing,393388
+2022,7,8,Office Costs,222282
+2022,7,8,Depreciation,74518
+2022,7,8,Professional Services,181355
+2022,7,9,Gross Written Premium,348470
+2022,7,9,Net Earned Premium,148277
+2022,7,9,Reinsurance Recoveries,125243
+2022,7,9,Investment Income,279892
+2022,7,9,Commission Income,58311
+2022,7,9,Claims Paid,27692
+2022,7,9,Claims Incurred,129954
+2022,7,9,Loss Adjustment Expenses,159934
+2022,7,9,Staff Costs,397179
+2022,7,9,IT Expenses,226468
+2022,7,9,Marketing,346651
+2022,7,9,Office Costs,85152
+2022,7,9,Depreciation,9926
+2022,7,9,Professional Services,8969
+2022,7,10,Gross Written Premium,40733
+2022,7,10,Net Earned Premium,336999
+2022,7,10,Reinsurance Recoveries,46743
+2022,7,10,Investment Income,135193
+2022,7,10,Commission Income,175948
+2022,7,10,Claims Paid,374589
+2022,7,10,Claims Incurred,25323
+2022,7,10,Loss Adjustment Expenses,283572
+2022,7,10,Staff Costs,39578
+2022,7,10,IT Expenses,91486
+2022,7,10,Marketing,331284
+2022,7,10,Office Costs,262450
+2022,7,10,Depreciation,112325
+2022,7,10,Professional Services,350973
+2022,8,1,Gross Written Premium,273508
+2022,8,1,Net Earned Premium,396011
+2022,8,1,Reinsurance Recoveries,136763
+2022,8,1,Investment Income,262971
+2022,8,1,Commission Income,100598
+2022,8,1,Claims Paid,202539
+2022,8,1,Claims Incurred,181968
+2022,8,1,Loss Adjustment Expenses,62062
+2022,8,1,Staff Costs,233338
+2022,8,1,IT Expenses,215834
+2022,8,1,Marketing,149933
+2022,8,1,Office Costs,232909
+2022,8,1,Depreciation,93302
+2022,8,1,Professional Services,68928
+2022,8,2,Gross Written Premium,219303
+2022,8,2,Net Earned Premium,46347
+2022,8,2,Reinsurance Recoveries,8121
+2022,8,2,Investment Income,88793
+2022,8,2,Commission Income,33164
+2022,8,2,Claims Paid,292635
+2022,8,2,Claims Incurred,64222
+2022,8,2,Loss Adjustment Expenses,159237
+2022,8,2,Staff Costs,8748
+2022,8,2,IT Expenses,31553
+2022,8,2,Marketing,121547
+2022,8,2,Office Costs,65380
+2022,8,2,Depreciation,49331
+2022,8,2,Professional Services,232105
+2022,8,3,Gross Written Premium,125617
+2022,8,3,Net Earned Premium,306704
+2022,8,3,Reinsurance Recoveries,321009
+2022,8,3,Investment Income,80910
+2022,8,3,Commission Income,345130
+2022,8,3,Claims Paid,212288
+2022,8,3,Claims Incurred,15068
+2022,8,3,Loss Adjustment Expenses,59460
+2022,8,3,Staff Costs,367910
+2022,8,3,IT Expenses,51418
+2022,8,3,Marketing,293350
+2022,8,3,Office Costs,133180
+2022,8,3,Depreciation,267431
+2022,8,3,Professional Services,27337
+2022,8,4,Gross Written Premium,156738
+2022,8,4,Net Earned Premium,252667
+2022,8,4,Reinsurance Recoveries,137233
+2022,8,4,Investment Income,367811
+2022,8,4,Commission Income,357215
+2022,8,4,Claims Paid,103064
+2022,8,4,Claims Incurred,373655
+2022,8,4,Loss Adjustment Expenses,251686
+2022,8,4,Staff Costs,8178
+2022,8,4,IT Expenses,36831
+2022,8,4,Marketing,138248
+2022,8,4,Office Costs,108306
+2022,8,4,Depreciation,169726
+2022,8,4,Professional Services,259292
+2022,8,5,Gross Written Premium,188622
+2022,8,5,Net Earned Premium,379169
+2022,8,5,Reinsurance Recoveries,180982
+2022,8,5,Investment Income,95417
+2022,8,5,Commission Income,194323
+2022,8,5,Claims Paid,16984
+2022,8,5,Claims Incurred,94312
+2022,8,5,Loss Adjustment Expenses,197458
+2022,8,5,Staff Costs,88291
+2022,8,5,IT Expenses,274279
+2022,8,5,Marketing,5320
+2022,8,5,Office Costs,157756
+2022,8,5,Depreciation,355918
+2022,8,5,Professional Services,231921
+2022,8,6,Gross Written Premium,365215
+2022,8,6,Net Earned Premium,184971
+2022,8,6,Reinsurance Recoveries,260083
+2022,8,6,Investment Income,114863
+2022,8,6,Commission Income,46777
+2022,8,6,Claims Paid,51250
+2022,8,6,Claims Incurred,340178
+2022,8,6,Loss Adjustment Expenses,372084
+2022,8,6,Staff Costs,307274
+2022,8,6,IT Expenses,185418
+2022,8,6,Marketing,220834
+2022,8,6,Office Costs,20216
+2022,8,6,Depreciation,351293
+2022,8,6,Professional Services,8009
+2022,8,7,Gross Written Premium,357048
+2022,8,7,Net Earned Premium,165399
+2022,8,7,Reinsurance Recoveries,150281
+2022,8,7,Investment Income,184515
+2022,8,7,Commission Income,20029
+2022,8,7,Claims Paid,215515
+2022,8,7,Claims Incurred,193069
+2022,8,7,Loss Adjustment Expenses,369315
+2022,8,7,Staff Costs,119456
+2022,8,7,IT Expenses,329703
+2022,8,7,Marketing,332036
+2022,8,7,Office Costs,337553
+2022,8,7,Depreciation,300209
+2022,8,7,Professional Services,247471
+2022,8,8,Gross Written Premium,387688
+2022,8,8,Net Earned Premium,374484
+2022,8,8,Reinsurance Recoveries,38783
+2022,8,8,Investment Income,39152
+2022,8,8,Commission Income,63741
+2022,8,8,Claims Paid,374193
+2022,8,8,Claims Incurred,34092
+2022,8,8,Loss Adjustment Expenses,153725
+2022,8,8,Staff Costs,235636
+2022,8,8,IT Expenses,176541
+2022,8,8,Marketing,259136
+2022,8,8,Office Costs,353627
+2022,8,8,Depreciation,388729
+2022,8,8,Professional Services,326898
+2022,8,9,Gross Written Premium,166050
+2022,8,9,Net Earned Premium,92592
+2022,8,9,Reinsurance Recoveries,361687
+2022,8,9,Investment Income,48169
+2022,8,9,Commission Income,59745
+2022,8,9,Claims Paid,115168
+2022,8,9,Claims Incurred,118985
+2022,8,9,Loss Adjustment Expenses,272687
+2022,8,9,Staff Costs,192464
+2022,8,9,IT Expenses,26067
+2022,8,9,Marketing,56033
+2022,8,9,Office Costs,50256
+2022,8,9,Depreciation,226705
+2022,8,9,Professional Services,244455
+2022,8,10,Gross Written Premium,205417
+2022,8,10,Net Earned Premium,91803
+2022,8,10,Reinsurance Recoveries,208814
+2022,8,10,Investment Income,123843
+2022,8,10,Commission Income,33992
+2022,8,10,Claims Paid,217603
+2022,8,10,Claims Incurred,53803
+2022,8,10,Loss Adjustment Expenses,377119
+2022,8,10,Staff Costs,199549
+2022,8,10,IT Expenses,149282
+2022,8,10,Marketing,31270
+2022,8,10,Office Costs,249929
+2022,8,10,Depreciation,12452
+2022,8,10,Professional Services,308630
+2022,9,1,Gross Written Premium,19859
+2022,9,1,Net Earned Premium,37083
+2022,9,1,Reinsurance Recoveries,334852
+2022,9,1,Investment Income,116462
+2022,9,1,Commission Income,152735
+2022,9,1,Claims Paid,360220
+2022,9,1,Claims Incurred,254737
+2022,9,1,Loss Adjustment Expenses,286197
+2022,9,1,Staff Costs,147157
+2022,9,1,IT Expenses,356889
+2022,9,1,Marketing,195167
+2022,9,1,Office Costs,74517
+2022,9,1,Depreciation,157225
+2022,9,1,Professional Services,141319
+2022,9,2,Gross Written Premium,231453
+2022,9,2,Net Earned Premium,141645
+2022,9,2,Reinsurance Recoveries,84267
+2022,9,2,Investment Income,143261
+2022,9,2,Commission Income,347221
+2022,9,2,Claims Paid,343767
+2022,9,2,Claims Incurred,136004
+2022,9,2,Loss Adjustment Expenses,58687
+2022,9,2,Staff Costs,335456
+2022,9,2,IT Expenses,112615
+2022,9,2,Marketing,398120
+2022,9,2,Office Costs,32564
+2022,9,2,Depreciation,295979
+2022,9,2,Professional Services,12697
+2022,9,3,Gross Written Premium,85165
+2022,9,3,Net Earned Premium,209994
+2022,9,3,Reinsurance Recoveries,62823
+2022,9,3,Investment Income,14615
+2022,9,3,Commission Income,397643
+2022,9,3,Claims Paid,81436
+2022,9,3,Claims Incurred,196591
+2022,9,3,Loss Adjustment Expenses,387706
+2022,9,3,Staff Costs,338261
+2022,9,3,IT Expenses,39782
+2022,9,3,Marketing,83533
+2022,9,3,Office Costs,245011
+2022,9,3,Depreciation,194327
+2022,9,3,Professional Services,77684
+2022,9,4,Gross Written Premium,262165
+2022,9,4,Net Earned Premium,220356
+2022,9,4,Reinsurance Recoveries,346702
+2022,9,4,Investment Income,221621
+2022,9,4,Commission Income,240295
+2022,9,4,Claims Paid,348566
+2022,9,4,Claims Incurred,256435
+2022,9,4,Loss Adjustment Expenses,262424
+2022,9,4,Staff Costs,273782
+2022,9,4,IT Expenses,304563
+2022,9,4,Marketing,38377
+2022,9,4,Office Costs,111244
+2022,9,4,Depreciation,179188
+2022,9,4,Professional Services,218363
+2022,9,5,Gross Written Premium,28382
+2022,9,5,Net Earned Premium,251375
+2022,9,5,Reinsurance Recoveries,192135
+2022,9,5,Investment Income,158466
+2022,9,5,Commission Income,334933
+2022,9,5,Claims Paid,239318
+2022,9,5,Claims Incurred,377778
+2022,9,5,Loss Adjustment Expenses,136936
+2022,9,5,Staff Costs,366716
+2022,9,5,IT Expenses,128664
+2022,9,5,Marketing,157027
+2022,9,5,Office Costs,377818
+2022,9,5,Depreciation,108533
+2022,9,5,Professional Services,348989
+2022,9,6,Gross Written Premium,252997
+2022,9,6,Net Earned Premium,74590
+2022,9,6,Reinsurance Recoveries,394919
+2022,9,6,Investment Income,333615
+2022,9,6,Commission Income,310442
+2022,9,6,Claims Paid,249936
+2022,9,6,Claims Incurred,53924
+2022,9,6,Loss Adjustment Expenses,14726
+2022,9,6,Staff Costs,196896
+2022,9,6,IT Expenses,45542
+2022,9,6,Marketing,39753
+2022,9,6,Office Costs,346932
+2022,9,6,Depreciation,288460
+2022,9,6,Professional Services,238979
+2022,9,7,Gross Written Premium,89698
+2022,9,7,Net Earned Premium,283104
+2022,9,7,Reinsurance Recoveries,35791
+2022,9,7,Investment Income,292360
+2022,9,7,Commission Income,331571
+2022,9,7,Claims Paid,379614
+2022,9,7,Claims Incurred,78290
+2022,9,7,Loss Adjustment Expenses,52014
+2022,9,7,Staff Costs,140150
+2022,9,7,IT Expenses,55519
+2022,9,7,Marketing,271186
+2022,9,7,Office Costs,54052
+2022,9,7,Depreciation,19389
+2022,9,7,Professional Services,363105
+2022,9,8,Gross Written Premium,73111
+2022,9,8,Net Earned Premium,372202
+2022,9,8,Reinsurance Recoveries,360859
+2022,9,8,Investment Income,317877
+2022,9,8,Commission Income,301898
+2022,9,8,Claims Paid,353030
+2022,9,8,Claims Incurred,162753
+2022,9,8,Loss Adjustment Expenses,94524
+2022,9,8,Staff Costs,348150
+2022,9,8,IT Expenses,291848
+2022,9,8,Marketing,99913
+2022,9,8,Office Costs,99108
+2022,9,8,Depreciation,259803
+2022,9,8,Professional Services,274637
+2022,9,9,Gross Written Premium,74639
+2022,9,9,Net Earned Premium,236452
+2022,9,9,Reinsurance Recoveries,321527
+2022,9,9,Investment Income,139066
+2022,9,9,Commission Income,205352
+2022,9,9,Claims Paid,314378
+2022,9,9,Claims Incurred,133674
+2022,9,9,Loss Adjustment Expenses,10594
+2022,9,9,Staff Costs,241907
+2022,9,9,IT Expenses,274515
+2022,9,9,Marketing,52315
+2022,9,9,Office Costs,219636
+2022,9,9,Depreciation,132251
+2022,9,9,Professional Services,237520
+2022,9,10,Gross Written Premium,84526
+2022,9,10,Net Earned Premium,248459
+2022,9,10,Reinsurance Recoveries,152698
+2022,9,10,Investment Income,353149
+2022,9,10,Commission Income,242330
+2022,9,10,Claims Paid,110573
+2022,9,10,Claims Incurred,142900
+2022,9,10,Loss Adjustment Expenses,324658
+2022,9,10,Staff Costs,240707
+2022,9,10,IT Expenses,188736
+2022,9,10,Marketing,153955
+2022,9,10,Office Costs,179131
+2022,9,10,Depreciation,179004
+2022,9,10,Professional Services,343130
+2022,10,1,Gross Written Premium,353103
+2022,10,1,Net Earned Premium,269179
+2022,10,1,Reinsurance Recoveries,114767
+2022,10,1,Investment Income,22241
+2022,10,1,Commission Income,57975
+2022,10,1,Claims Paid,159226
+2022,10,1,Claims Incurred,61396
+2022,10,1,Loss Adjustment Expenses,123920
+2022,10,1,Staff Costs,199999
+2022,10,1,IT Expenses,91226
+2022,10,1,Marketing,89719
+2022,10,1,Office Costs,68014
+2022,10,1,Depreciation,44346
+2022,10,1,Professional Services,75411
+2022,10,2,Gross Written Premium,190550
+2022,10,2,Net Earned Premium,148326
+2022,10,2,Reinsurance Recoveries,191806
+2022,10,2,Investment Income,343585
+2022,10,2,Commission Income,51121
+2022,10,2,Claims Paid,217490
+2022,10,2,Claims Incurred,327341
+2022,10,2,Loss Adjustment Expenses,89577
+2022,10,2,Staff Costs,361778
+2022,10,2,IT Expenses,254106
+2022,10,2,Marketing,367355
+2022,10,2,Office Costs,140909
+2022,10,2,Depreciation,6466
+2022,10,2,Professional Services,297915
+2022,10,3,Gross Written Premium,351030
+2022,10,3,Net Earned Premium,333055
+2022,10,3,Reinsurance Recoveries,234638
+2022,10,3,Investment Income,93422
+2022,10,3,Commission Income,340513
+2022,10,3,Claims Paid,269037
+2022,10,3,Claims Incurred,297717
+2022,10,3,Loss Adjustment Expenses,101907
+2022,10,3,Staff Costs,213434
+2022,10,3,IT Expenses,367100
+2022,10,3,Marketing,223532
+2022,10,3,Office Costs,263093
+2022,10,3,Depreciation,385724
+2022,10,3,Professional Services,157271
+2022,10,4,Gross Written Premium,358548
+2022,10,4,Net Earned Premium,210400
+2022,10,4,Reinsurance Recoveries,324868
+2022,10,4,Investment Income,353277
+2022,10,4,Commission Income,172477
+2022,10,4,Claims Paid,234304
+2022,10,4,Claims Incurred,20989
+2022,10,4,Loss Adjustment Expenses,296075
+2022,10,4,Staff Costs,276434
+2022,10,4,IT Expenses,126136
+2022,10,4,Marketing,347022
+2022,10,4,Office Costs,357621
+2022,10,4,Depreciation,212370
+2022,10,4,Professional Services,131299
+2022,10,5,Gross Written Premium,166205
+2022,10,5,Net Earned Premium,248688
+2022,10,5,Reinsurance Recoveries,110686
+2022,10,5,Investment Income,374430
+2022,10,5,Commission Income,307619
+2022,10,5,Claims Paid,87666
+2022,10,5,Claims Incurred,363766
+2022,10,5,Loss Adjustment Expenses,193728
+2022,10,5,Staff Costs,140705
+2022,10,5,IT Expenses,112573
+2022,10,5,Marketing,233892
+2022,10,5,Office Costs,313690
+2022,10,5,Depreciation,274152
+2022,10,5,Professional Services,315435
+2022,10,6,Gross Written Premium,163477
+2022,10,6,Net Earned Premium,253141
+2022,10,6,Reinsurance Recoveries,303530
+2022,10,6,Investment Income,95909
+2022,10,6,Commission Income,156899
+2022,10,6,Claims Paid,300184
+2022,10,6,Claims Incurred,65354
+2022,10,6,Loss Adjustment Expenses,345687
+2022,10,6,Staff Costs,23157
+2022,10,6,IT Expenses,40315
+2022,10,6,Marketing,303076
+2022,10,6,Office Costs,150486
+2022,10,6,Depreciation,263669
+2022,10,6,Professional Services,381024
+2022,10,7,Gross Written Premium,137018
+2022,10,7,Net Earned Premium,281837
+2022,10,7,Reinsurance Recoveries,294385
+2022,10,7,Investment Income,382338
+2022,10,7,Commission Income,100790
+2022,10,7,Claims Paid,77255
+2022,10,7,Claims Incurred,200829
+2022,10,7,Loss Adjustment Expenses,177275
+2022,10,7,Staff Costs,197933
+2022,10,7,IT Expenses,266439
+2022,10,7,Marketing,16350
+2022,10,7,Office Costs,191584
+2022,10,7,Depreciation,323953
+2022,10,7,Professional Services,106894
+2022,10,8,Gross Written Premium,364701
+2022,10,8,Net Earned Premium,36728
+2022,10,8,Reinsurance Recoveries,284720
+2022,10,8,Investment Income,88384
+2022,10,8,Commission Income,5390
+2022,10,8,Claims Paid,312580
+2022,10,8,Claims Incurred,16569
+2022,10,8,Loss Adjustment Expenses,27490
+2022,10,8,Staff Costs,313019
+2022,10,8,IT Expenses,273011
+2022,10,8,Marketing,85820
+2022,10,8,Office Costs,366659
+2022,10,8,Depreciation,276265
+2022,10,8,Professional Services,6539
+2022,10,9,Gross Written Premium,394546
+2022,10,9,Net Earned Premium,341373
+2022,10,9,Reinsurance Recoveries,317579
+2022,10,9,Investment Income,68965
+2022,10,9,Commission Income,378192
+2022,10,9,Claims Paid,363588
+2022,10,9,Claims Incurred,337066
+2022,10,9,Loss Adjustment Expenses,102799
+2022,10,9,Staff Costs,98948
+2022,10,9,IT Expenses,148314
+2022,10,9,Marketing,253099
+2022,10,9,Office Costs,276091
+2022,10,9,Depreciation,248322
+2022,10,9,Professional Services,207538
+2022,10,10,Gross Written Premium,239778
+2022,10,10,Net Earned Premium,260821
+2022,10,10,Reinsurance Recoveries,197888
+2022,10,10,Investment Income,315929
+2022,10,10,Commission Income,387107
+2022,10,10,Claims Paid,267651
+2022,10,10,Claims Incurred,163223
+2022,10,10,Loss Adjustment Expenses,16618
+2022,10,10,Staff Costs,341430
+2022,10,10,IT Expenses,283266
+2022,10,10,Marketing,143426
+2022,10,10,Office Costs,376742
+2022,10,10,Depreciation,91436
+2022,10,10,Professional Services,215448
+2022,11,1,Gross Written Premium,141109
+2022,11,1,Net Earned Premium,33633
+2022,11,1,Reinsurance Recoveries,291639
+2022,11,1,Investment Income,331694
+2022,11,1,Commission Income,217456
+2022,11,1,Claims Paid,303627
+2022,11,1,Claims Incurred,380325
+2022,11,1,Loss Adjustment Expenses,301213
+2022,11,1,Staff Costs,143442
+2022,11,1,IT Expenses,124873
+2022,11,1,Marketing,383987
+2022,11,1,Office Costs,76947
+2022,11,1,Depreciation,175205
+2022,11,1,Professional Services,232107
+2022,11,2,Gross Written Premium,100761
+2022,11,2,Net Earned Premium,380897
+2022,11,2,Reinsurance Recoveries,398908
+2022,11,2,Investment Income,33926
+2022,11,2,Commission Income,366926
+2022,11,2,Claims Paid,109700
+2022,11,2,Claims Incurred,341128
+2022,11,2,Loss Adjustment Expenses,54593
+2022,11,2,Staff Costs,342753
+2022,11,2,IT Expenses,10209
+2022,11,2,Marketing,131700
+2022,11,2,Office Costs,91597
+2022,11,2,Depreciation,274355
+2022,11,2,Professional Services,14927
+2022,11,3,Gross Written Premium,213535
+2022,11,3,Net Earned Premium,122333
+2022,11,3,Reinsurance Recoveries,160666
+2022,11,3,Investment Income,210924
+2022,11,3,Commission Income,213785
+2022,11,3,Claims Paid,343526
+2022,11,3,Claims Incurred,144005
+2022,11,3,Loss Adjustment Expenses,108780
+2022,11,3,Staff Costs,45696
+2022,11,3,IT Expenses,201521
+2022,11,3,Marketing,334760
+2022,11,3,Office Costs,162195
+2022,11,3,Depreciation,55013
+2022,11,3,Professional Services,221486
+2022,11,4,Gross Written Premium,316700
+2022,11,4,Net Earned Premium,390867
+2022,11,4,Reinsurance Recoveries,244350
+2022,11,4,Investment Income,31140
+2022,11,4,Commission Income,268328
+2022,11,4,Claims Paid,160918
+2022,11,4,Claims Incurred,116361
+2022,11,4,Loss Adjustment Expenses,158267
+2022,11,4,Staff Costs,272750
+2022,11,4,IT Expenses,21555
+2022,11,4,Marketing,95385
+2022,11,4,Office Costs,325646
+2022,11,4,Depreciation,260658
+2022,11,4,Professional Services,162419
+2022,11,5,Gross Written Premium,234797
+2022,11,5,Net Earned Premium,108844
+2022,11,5,Reinsurance Recoveries,96321
+2022,11,5,Investment Income,316200
+2022,11,5,Commission Income,199923
+2022,11,5,Claims Paid,103234
+2022,11,5,Claims Incurred,232705
+2022,11,5,Loss Adjustment Expenses,206283
+2022,11,5,Staff Costs,308994
+2022,11,5,IT Expenses,294987
+2022,11,5,Marketing,329464
+2022,11,5,Office Costs,34793
+2022,11,5,Depreciation,153929
+2022,11,5,Professional Services,24627
+2022,11,6,Gross Written Premium,328966
+2022,11,6,Net Earned Premium,227633
+2022,11,6,Reinsurance Recoveries,322942
+2022,11,6,Investment Income,229440
+2022,11,6,Commission Income,180188
+2022,11,6,Claims Paid,342462
+2022,11,6,Claims Incurred,371330
+2022,11,6,Loss Adjustment Expenses,263191
+2022,11,6,Staff Costs,355046
+2022,11,6,IT Expenses,338478
+2022,11,6,Marketing,373863
+2022,11,6,Office Costs,128099
+2022,11,6,Depreciation,214074
+2022,11,6,Professional Services,178686
+2022,11,7,Gross Written Premium,279864
+2022,11,7,Net Earned Premium,324752
+2022,11,7,Reinsurance Recoveries,112449
+2022,11,7,Investment Income,107828
+2022,11,7,Commission Income,131613
+2022,11,7,Claims Paid,77095
+2022,11,7,Claims Incurred,110924
+2022,11,7,Loss Adjustment Expenses,101452
+2022,11,7,Staff Costs,92593
+2022,11,7,IT Expenses,171964
+2022,11,7,Marketing,374119
+2022,11,7,Office Costs,344386
+2022,11,7,Depreciation,383185
+2022,11,7,Professional Services,131202
+2022,11,8,Gross Written Premium,82606
+2022,11,8,Net Earned Premium,128769
+2022,11,8,Reinsurance Recoveries,123542
+2022,11,8,Investment Income,373582
+2022,11,8,Commission Income,268068
+2022,11,8,Claims Paid,56322
+2022,11,8,Claims Incurred,162550
+2022,11,8,Loss Adjustment Expenses,76042
+2022,11,8,Staff Costs,51418
+2022,11,8,IT Expenses,105699
+2022,11,8,Marketing,95140
+2022,11,8,Office Costs,16781
+2022,11,8,Depreciation,384502
+2022,11,8,Professional Services,303277
+2022,11,9,Gross Written Premium,102628
+2022,11,9,Net Earned Premium,81946
+2022,11,9,Reinsurance Recoveries,90058
+2022,11,9,Investment Income,156542
+2022,11,9,Commission Income,310273
+2022,11,9,Claims Paid,275675
+2022,11,9,Claims Incurred,304182
+2022,11,9,Loss Adjustment Expenses,355083
+2022,11,9,Staff Costs,47674
+2022,11,9,IT Expenses,132572
+2022,11,9,Marketing,230730
+2022,11,9,Office Costs,296975
+2022,11,9,Depreciation,62174
+2022,11,9,Professional Services,278423
+2022,11,10,Gross Written Premium,327754
+2022,11,10,Net Earned Premium,261008
+2022,11,10,Reinsurance Recoveries,58051
+2022,11,10,Investment Income,208085
+2022,11,10,Commission Income,323796
+2022,11,10,Claims Paid,70524
+2022,11,10,Claims Incurred,273614
+2022,11,10,Loss Adjustment Expenses,320617
+2022,11,10,Staff Costs,236189
+2022,11,10,IT Expenses,49439
+2022,11,10,Marketing,281452
+2022,11,10,Office Costs,96563
+2022,11,10,Depreciation,232328
+2022,11,10,Professional Services,302225
+2022,12,1,Gross Written Premium,211314
+2022,12,1,Net Earned Premium,14837
+2022,12,1,Reinsurance Recoveries,240207
+2022,12,1,Investment Income,123128
+2022,12,1,Commission Income,172896
+2022,12,1,Claims Paid,169145
+2022,12,1,Claims Incurred,379795
+2022,12,1,Loss Adjustment Expenses,102624
+2022,12,1,Staff Costs,194933
+2022,12,1,IT Expenses,35063
+2022,12,1,Marketing,74453
+2022,12,1,Office Costs,259371
+2022,12,1,Depreciation,107166
+2022,12,1,Professional Services,19506
+2022,12,2,Gross Written Premium,230413
+2022,12,2,Net Earned Premium,118604
+2022,12,2,Reinsurance Recoveries,31026
+2022,12,2,Investment Income,319557
+2022,12,2,Commission Income,260116
+2022,12,2,Claims Paid,332210
+2022,12,2,Claims Incurred,195285
+2022,12,2,Loss Adjustment Expenses,55971
+2022,12,2,Staff Costs,118978
+2022,12,2,IT Expenses,164163
+2022,12,2,Marketing,317638
+2022,12,2,Office Costs,108864
+2022,12,2,Depreciation,399295
+2022,12,2,Professional Services,100386
+2022,12,3,Gross Written Premium,91126
+2022,12,3,Net Earned Premium,167023
+2022,12,3,Reinsurance Recoveries,85863
+2022,12,3,Investment Income,345435
+2022,12,3,Commission Income,130659
+2022,12,3,Claims Paid,195944
+2022,12,3,Claims Incurred,12235
+2022,12,3,Loss Adjustment Expenses,349877
+2022,12,3,Staff Costs,67712
+2022,12,3,IT Expenses,157545
+2022,12,3,Marketing,203639
+2022,12,3,Office Costs,242890
+2022,12,3,Depreciation,130849
+2022,12,3,Professional Services,260493
+2022,12,4,Gross Written Premium,84823
+2022,12,4,Net Earned Premium,109215
+2022,12,4,Reinsurance Recoveries,246071
+2022,12,4,Investment Income,37230
+2022,12,4,Commission Income,351717
+2022,12,4,Claims Paid,228660
+2022,12,4,Claims Incurred,307788
+2022,12,4,Loss Adjustment Expenses,184736
+2022,12,4,Staff Costs,312347
+2022,12,4,IT Expenses,333821
+2022,12,4,Marketing,128246
+2022,12,4,Office Costs,89817
+2022,12,4,Depreciation,243657
+2022,12,4,Professional Services,222033
+2022,12,5,Gross Written Premium,236414
+2022,12,5,Net Earned Premium,261812
+2022,12,5,Reinsurance Recoveries,336950
+2022,12,5,Investment Income,309958
+2022,12,5,Commission Income,75219
+2022,12,5,Claims Paid,175956
+2022,12,5,Claims Incurred,362489
+2022,12,5,Loss Adjustment Expenses,262134
+2022,12,5,Staff Costs,367232
+2022,12,5,IT Expenses,336466
+2022,12,5,Marketing,26650
+2022,12,5,Office Costs,361386
+2022,12,5,Depreciation,305340
+2022,12,5,Professional Services,175521
+2022,12,6,Gross Written Premium,175733
+2022,12,6,Net Earned Premium,296853
+2022,12,6,Reinsurance Recoveries,247037
+2022,12,6,Investment Income,85428
+2022,12,6,Commission Income,211251
+2022,12,6,Claims Paid,14943
+2022,12,6,Claims Incurred,179312
+2022,12,6,Loss Adjustment Expenses,26042
+2022,12,6,Staff Costs,257842
+2022,12,6,IT Expenses,311038
+2022,12,6,Marketing,323903
+2022,12,6,Office Costs,373117
+2022,12,6,Depreciation,311450
+2022,12,6,Professional Services,375513
+2022,12,7,Gross Written Premium,191443
+2022,12,7,Net Earned Premium,156990
+2022,12,7,Reinsurance Recoveries,295523
+2022,12,7,Investment Income,387811
+2022,12,7,Commission Income,219304
+2022,12,7,Claims Paid,149923
+2022,12,7,Claims Incurred,384770
+2022,12,7,Loss Adjustment Expenses,392324
+2022,12,7,Staff Costs,319493
+2022,12,7,IT Expenses,206904
+2022,12,7,Marketing,192428
+2022,12,7,Office Costs,150817
+2022,12,7,Depreciation,10730
+2022,12,7,Professional Services,234502
+2022,12,8,Gross Written Premium,207210
+2022,12,8,Net Earned Premium,219183
+2022,12,8,Reinsurance Recoveries,24023
+2022,12,8,Investment Income,131796
+2022,12,8,Commission Income,348677
+2022,12,8,Claims Paid,350430
+2022,12,8,Claims Incurred,309123
+2022,12,8,Loss Adjustment Expenses,289981
+2022,12,8,Staff Costs,372119
+2022,12,8,IT Expenses,181111
+2022,12,8,Marketing,25923
+2022,12,8,Office Costs,276020
+2022,12,8,Depreciation,328117
+2022,12,8,Professional Services,199795
+2022,12,9,Gross Written Premium,309566
+2022,12,9,Net Earned Premium,238462
+2022,12,9,Reinsurance Recoveries,56413
+2022,12,9,Investment Income,369628
+2022,12,9,Commission Income,260719
+2022,12,9,Claims Paid,33756
+2022,12,9,Claims Incurred,338720
+2022,12,9,Loss Adjustment Expenses,123248
+2022,12,9,Staff Costs,277448
+2022,12,9,IT Expenses,35341
+2022,12,9,Marketing,132039
+2022,12,9,Office Costs,196830
+2022,12,9,Depreciation,167730
+2022,12,9,Professional Services,185074
+2022,12,10,Gross Written Premium,239390
+2022,12,10,Net Earned Premium,137447
+2022,12,10,Reinsurance Recoveries,104485
+2022,12,10,Investment Income,289236
+2022,12,10,Commission Income,136562
+2022,12,10,Claims Paid,8729
+2022,12,10,Claims Incurred,142046
+2022,12,10,Loss Adjustment Expenses,123222
+2022,12,10,Staff Costs,352360
+2022,12,10,IT Expenses,88860
+2022,12,10,Marketing,263360
+2022,12,10,Office Costs,364014
+2022,12,10,Depreciation,26398
+2022,12,10,Professional Services,301794
+2023,1,1,Gross Written Premium,108889
+2023,1,1,Net Earned Premium,270303
+2023,1,1,Reinsurance Recoveries,365306
+2023,1,1,Investment Income,230959
+2023,1,1,Commission Income,107834
+2023,1,1,Claims Paid,26638
+2023,1,1,Claims Incurred,268217
+2023,1,1,Loss Adjustment Expenses,220379
+2023,1,1,Staff Costs,237069
+2023,1,1,IT Expenses,34320
+2023,1,1,Marketing,39924
+2023,1,1,Office Costs,217792
+2023,1,1,Depreciation,335260
+2023,1,1,Professional Services,176097
+2023,1,2,Gross Written Premium,7159
+2023,1,2,Net Earned Premium,53940
+2023,1,2,Reinsurance Recoveries,84436
+2023,1,2,Investment Income,19678
+2023,1,2,Commission Income,197147
+2023,1,2,Claims Paid,142844
+2023,1,2,Claims Incurred,72163
+2023,1,2,Loss Adjustment Expenses,246040
+2023,1,2,Staff Costs,209827
+2023,1,2,IT Expenses,159536
+2023,1,2,Marketing,56137
+2023,1,2,Office Costs,328641
+2023,1,2,Depreciation,105485
+2023,1,2,Professional Services,245970
+2023,1,3,Gross Written Premium,110468
+2023,1,3,Net Earned Premium,5901
+2023,1,3,Reinsurance Recoveries,92980
+2023,1,3,Investment Income,374738
+2023,1,3,Commission Income,270025
+2023,1,3,Claims Paid,297007
+2023,1,3,Claims Incurred,247434
+2023,1,3,Loss Adjustment Expenses,399594
+2023,1,3,Staff Costs,207258
+2023,1,3,IT Expenses,312345
+2023,1,3,Marketing,256839
+2023,1,3,Office Costs,326395
+2023,1,3,Depreciation,77572
+2023,1,3,Professional Services,44255
+2023,1,4,Gross Written Premium,68212
+2023,1,4,Net Earned Premium,317354
+2023,1,4,Reinsurance Recoveries,392773
+2023,1,4,Investment Income,27499
+2023,1,4,Commission Income,107552
+2023,1,4,Claims Paid,66360
+2023,1,4,Claims Incurred,394610
+2023,1,4,Loss Adjustment Expenses,352617
+2023,1,4,Staff Costs,148704
+2023,1,4,IT Expenses,166679
+2023,1,4,Marketing,96873
+2023,1,4,Office Costs,70756
+2023,1,4,Depreciation,199454
+2023,1,4,Professional Services,323488
+2023,1,5,Gross Written Premium,338298
+2023,1,5,Net Earned Premium,32464
+2023,1,5,Reinsurance Recoveries,126897
+2023,1,5,Investment Income,304488
+2023,1,5,Commission Income,88791
+2023,1,5,Claims Paid,160371
+2023,1,5,Claims Incurred,184047
+2023,1,5,Loss Adjustment Expenses,137534
+2023,1,5,Staff Costs,387353
+2023,1,5,IT Expenses,86441
+2023,1,5,Marketing,357600
+2023,1,5,Office Costs,348932
+2023,1,5,Depreciation,242612
+2023,1,5,Professional Services,236444
+2023,1,6,Gross Written Premium,281319
+2023,1,6,Net Earned Premium,142263
+2023,1,6,Reinsurance Recoveries,350578
+2023,1,6,Investment Income,89518
+2023,1,6,Commission Income,216230
+2023,1,6,Claims Paid,333681
+2023,1,6,Claims Incurred,382865
+2023,1,6,Loss Adjustment Expenses,52645
+2023,1,6,Staff Costs,244608
+2023,1,6,IT Expenses,28283
+2023,1,6,Marketing,354115
+2023,1,6,Office Costs,359903
+2023,1,6,Depreciation,195195
+2023,1,6,Professional Services,107780
+2023,1,7,Gross Written Premium,297878
+2023,1,7,Net Earned Premium,5515
+2023,1,7,Reinsurance Recoveries,377926
+2023,1,7,Investment Income,333871
+2023,1,7,Commission Income,233872
+2023,1,7,Claims Paid,376308
+2023,1,7,Claims Incurred,313360
+2023,1,7,Loss Adjustment Expenses,338977
+2023,1,7,Staff Costs,63755
+2023,1,7,IT Expenses,32856
+2023,1,7,Marketing,78870
+2023,1,7,Office Costs,142080
+2023,1,7,Depreciation,275131
+2023,1,7,Professional Services,101502
+2023,1,8,Gross Written Premium,71323
+2023,1,8,Net Earned Premium,277017
+2023,1,8,Reinsurance Recoveries,218614
+2023,1,8,Investment Income,172516
+2023,1,8,Commission Income,110219
+2023,1,8,Claims Paid,10033
+2023,1,8,Claims Incurred,340468
+2023,1,8,Loss Adjustment Expenses,282833
+2023,1,8,Staff Costs,114756
+2023,1,8,IT Expenses,267210
+2023,1,8,Marketing,119159
+2023,1,8,Office Costs,181318
+2023,1,8,Depreciation,12533
+2023,1,8,Professional Services,206224
+2023,1,9,Gross Written Premium,247653
+2023,1,9,Net Earned Premium,382972
+2023,1,9,Reinsurance Recoveries,326802
+2023,1,9,Investment Income,305642
+2023,1,9,Commission Income,114028
+2023,1,9,Claims Paid,278916
+2023,1,9,Claims Incurred,356529
+2023,1,9,Loss Adjustment Expenses,255231
+2023,1,9,Staff Costs,17940
+2023,1,9,IT Expenses,385171
+2023,1,9,Marketing,21932
+2023,1,9,Office Costs,231377
+2023,1,9,Depreciation,29648
+2023,1,9,Professional Services,37966
+2023,1,10,Gross Written Premium,260733
+2023,1,10,Net Earned Premium,168639
+2023,1,10,Reinsurance Recoveries,251331
+2023,1,10,Investment Income,47598
+2023,1,10,Commission Income,195271
+2023,1,10,Claims Paid,328228
+2023,1,10,Claims Incurred,180309
+2023,1,10,Loss Adjustment Expenses,201569
+2023,1,10,Staff Costs,136250
+2023,1,10,IT Expenses,253004
+2023,1,10,Marketing,22118
+2023,1,10,Office Costs,27616
+2023,1,10,Depreciation,136870
+2023,1,10,Professional Services,274745
+2023,2,1,Gross Written Premium,292507
+2023,2,1,Net Earned Premium,7795
+2023,2,1,Reinsurance Recoveries,102462
+2023,2,1,Investment Income,370036
+2023,2,1,Commission Income,339977
+2023,2,1,Claims Paid,270228
+2023,2,1,Claims Incurred,363009
+2023,2,1,Loss Adjustment Expenses,267875
+2023,2,1,Staff Costs,137201
+2023,2,1,IT Expenses,164094
+2023,2,1,Marketing,268749
+2023,2,1,Office Costs,82506
+2023,2,1,Depreciation,245313
+2023,2,1,Professional Services,49130
+2023,2,2,Gross Written Premium,168402
+2023,2,2,Net Earned Premium,335613
+2023,2,2,Reinsurance Recoveries,151259
+2023,2,2,Investment Income,357580
+2023,2,2,Commission Income,206682
+2023,2,2,Claims Paid,379485
+2023,2,2,Claims Incurred,228034
+2023,2,2,Loss Adjustment Expenses,399109
+2023,2,2,Staff Costs,104694
+2023,2,2,IT Expenses,24773
+2023,2,2,Marketing,271383
+2023,2,2,Office Costs,288007
+2023,2,2,Depreciation,318559
+2023,2,2,Professional Services,73968
+2023,2,3,Gross Written Premium,65430
+2023,2,3,Net Earned Premium,255072
+2023,2,3,Reinsurance Recoveries,6515
+2023,2,3,Investment Income,102206
+2023,2,3,Commission Income,250282
+2023,2,3,Claims Paid,240702
+2023,2,3,Claims Incurred,323384
+2023,2,3,Loss Adjustment Expenses,10586
+2023,2,3,Staff Costs,387563
+2023,2,3,IT Expenses,389518
+2023,2,3,Marketing,250277
+2023,2,3,Office Costs,36186
+2023,2,3,Depreciation,31928
+2023,2,3,Professional Services,234336
+2023,2,4,Gross Written Premium,219159
+2023,2,4,Net Earned Premium,390134
+2023,2,4,Reinsurance Recoveries,354173
+2023,2,4,Investment Income,25711
+2023,2,4,Commission Income,59962
+2023,2,4,Claims Paid,25039
+2023,2,4,Claims Incurred,41561
+2023,2,4,Loss Adjustment Expenses,211555
+2023,2,4,Staff Costs,224730
+2023,2,4,IT Expenses,6577
+2023,2,4,Marketing,112792
+2023,2,4,Office Costs,252980
+2023,2,4,Depreciation,243540
+2023,2,4,Professional Services,233506
+2023,2,5,Gross Written Premium,217489
+2023,2,5,Net Earned Premium,15785
+2023,2,5,Reinsurance Recoveries,77227
+2023,2,5,Investment Income,385824
+2023,2,5,Commission Income,329101
+2023,2,5,Claims Paid,70431
+2023,2,5,Claims Incurred,339038
+2023,2,5,Loss Adjustment Expenses,252941
+2023,2,5,Staff Costs,199844
+2023,2,5,IT Expenses,155653
+2023,2,5,Marketing,322336
+2023,2,5,Office Costs,268606
+2023,2,5,Depreciation,395992
+2023,2,5,Professional Services,200245
+2023,2,6,Gross Written Premium,343250
+2023,2,6,Net Earned Premium,315809
+2023,2,6,Reinsurance Recoveries,180486
+2023,2,6,Investment Income,348154
+2023,2,6,Commission Income,77573
+2023,2,6,Claims Paid,229737
+2023,2,6,Claims Incurred,374947
+2023,2,6,Loss Adjustment Expenses,124682
+2023,2,6,Staff Costs,18386
+2023,2,6,IT Expenses,391213
+2023,2,6,Marketing,59460
+2023,2,6,Office Costs,120375
+2023,2,6,Depreciation,379804
+2023,2,6,Professional Services,157117
+2023,2,7,Gross Written Premium,358463
+2023,2,7,Net Earned Premium,121582
+2023,2,7,Reinsurance Recoveries,248015
+2023,2,7,Investment Income,158778
+2023,2,7,Commission Income,309915
+2023,2,7,Claims Paid,57335
+2023,2,7,Claims Incurred,234087
+2023,2,7,Loss Adjustment Expenses,57949
+2023,2,7,Staff Costs,100558
+2023,2,7,IT Expenses,369416
+2023,2,7,Marketing,269860
+2023,2,7,Office Costs,152646
+2023,2,7,Depreciation,247887
+2023,2,7,Professional Services,197898
+2023,2,8,Gross Written Premium,156285
+2023,2,8,Net Earned Premium,76916
+2023,2,8,Reinsurance Recoveries,202223
+2023,2,8,Investment Income,264590
+2023,2,8,Commission Income,253090
+2023,2,8,Claims Paid,55906
+2023,2,8,Claims Incurred,267607
+2023,2,8,Loss Adjustment Expenses,79694
+2023,2,8,Staff Costs,335838
+2023,2,8,IT Expenses,287152
+2023,2,8,Marketing,75474
+2023,2,8,Office Costs,43185
+2023,2,8,Depreciation,355068
+2023,2,8,Professional Services,267048
+2023,2,9,Gross Written Premium,261574
+2023,2,9,Net Earned Premium,207211
+2023,2,9,Reinsurance Recoveries,302124
+2023,2,9,Investment Income,27504
+2023,2,9,Commission Income,59970
+2023,2,9,Claims Paid,283910
+2023,2,9,Claims Incurred,121944
+2023,2,9,Loss Adjustment Expenses,361066
+2023,2,9,Staff Costs,178615
+2023,2,9,IT Expenses,169211
+2023,2,9,Marketing,125494
+2023,2,9,Office Costs,239941
+2023,2,9,Depreciation,13802
+2023,2,9,Professional Services,176277
+2023,2,10,Gross Written Premium,301303
+2023,2,10,Net Earned Premium,16516
+2023,2,10,Reinsurance Recoveries,317636
+2023,2,10,Investment Income,296230
+2023,2,10,Commission Income,118758
+2023,2,10,Claims Paid,35480
+2023,2,10,Claims Incurred,188163
+2023,2,10,Loss Adjustment Expenses,133023
+2023,2,10,Staff Costs,377339
+2023,2,10,IT Expenses,183838
+2023,2,10,Marketing,305881
+2023,2,10,Office Costs,276409
+2023,2,10,Depreciation,119165
+2023,2,10,Professional Services,124501
+2023,3,1,Gross Written Premium,254329
+2023,3,1,Net Earned Premium,338134
+2023,3,1,Reinsurance Recoveries,282530
+2023,3,1,Investment Income,371862
+2023,3,1,Commission Income,304569
+2023,3,1,Claims Paid,126635
+2023,3,1,Claims Incurred,179326
+2023,3,1,Loss Adjustment Expenses,225935
+2023,3,1,Staff Costs,58634
+2023,3,1,IT Expenses,183734
+2023,3,1,Marketing,354132
+2023,3,1,Office Costs,239856
+2023,3,1,Depreciation,373481
+2023,3,1,Professional Services,223599
+2023,3,2,Gross Written Premium,242919
+2023,3,2,Net Earned Premium,72443
+2023,3,2,Reinsurance Recoveries,296568
+2023,3,2,Investment Income,355988
+2023,3,2,Commission Income,309128
+2023,3,2,Claims Paid,46505
+2023,3,2,Claims Incurred,107478
+2023,3,2,Loss Adjustment Expenses,67699
+2023,3,2,Staff Costs,381156
+2023,3,2,IT Expenses,159721
+2023,3,2,Marketing,301902
+2023,3,2,Office Costs,141668
+2023,3,2,Depreciation,283518
+2023,3,2,Professional Services,123686
+2023,3,3,Gross Written Premium,270919
+2023,3,3,Net Earned Premium,294532
+2023,3,3,Reinsurance Recoveries,390944
+2023,3,3,Investment Income,288173
+2023,3,3,Commission Income,88981
+2023,3,3,Claims Paid,320783
+2023,3,3,Claims Incurred,119010
+2023,3,3,Loss Adjustment Expenses,36105
+2023,3,3,Staff Costs,264021
+2023,3,3,IT Expenses,152032
+2023,3,3,Marketing,131519
+2023,3,3,Office Costs,147429
+2023,3,3,Depreciation,369883
+2023,3,3,Professional Services,318940
+2023,3,4,Gross Written Premium,282948
+2023,3,4,Net Earned Premium,132732
+2023,3,4,Reinsurance Recoveries,150698
+2023,3,4,Investment Income,164204
+2023,3,4,Commission Income,275095
+2023,3,4,Claims Paid,286209
+2023,3,4,Claims Incurred,368647
+2023,3,4,Loss Adjustment Expenses,110072
+2023,3,4,Staff Costs,145202
+2023,3,4,IT Expenses,94360
+2023,3,4,Marketing,67287
+2023,3,4,Office Costs,243009
+2023,3,4,Depreciation,187774
+2023,3,4,Professional Services,173065
+2023,3,5,Gross Written Premium,167947
+2023,3,5,Net Earned Premium,251356
+2023,3,5,Reinsurance Recoveries,142126
+2023,3,5,Investment Income,235881
+2023,3,5,Commission Income,112357
+2023,3,5,Claims Paid,212440
+2023,3,5,Claims Incurred,34670
+2023,3,5,Loss Adjustment Expenses,316256
+2023,3,5,Staff Costs,355532
+2023,3,5,IT Expenses,356300
+2023,3,5,Marketing,164379
+2023,3,5,Office Costs,249159
+2023,3,5,Depreciation,203159
+2023,3,5,Professional Services,315066
+2023,3,6,Gross Written Premium,199152
+2023,3,6,Net Earned Premium,360492
+2023,3,6,Reinsurance Recoveries,84335
+2023,3,6,Investment Income,293456
+2023,3,6,Commission Income,71985
+2023,3,6,Claims Paid,135744
+2023,3,6,Claims Incurred,256713
+2023,3,6,Loss Adjustment Expenses,368107
+2023,3,6,Staff Costs,176349
+2023,3,6,IT Expenses,36551
+2023,3,6,Marketing,94813
+2023,3,6,Office Costs,368169
+2023,3,6,Depreciation,391486
+2023,3,6,Professional Services,181284
+2023,3,7,Gross Written Premium,14637
+2023,3,7,Net Earned Premium,310402
+2023,3,7,Reinsurance Recoveries,134553
+2023,3,7,Investment Income,31950
+2023,3,7,Commission Income,132870
+2023,3,7,Claims Paid,5215
+2023,3,7,Claims Incurred,372747
+2023,3,7,Loss Adjustment Expenses,278667
+2023,3,7,Staff Costs,335833
+2023,3,7,IT Expenses,28834
+2023,3,7,Marketing,301618
+2023,3,7,Office Costs,48066
+2023,3,7,Depreciation,277544
+2023,3,7,Professional Services,392355
+2023,3,8,Gross Written Premium,15345
+2023,3,8,Net Earned Premium,38896
+2023,3,8,Reinsurance Recoveries,296043
+2023,3,8,Investment Income,295373
+2023,3,8,Commission Income,272727
+2023,3,8,Claims Paid,76537
+2023,3,8,Claims Incurred,245489
+2023,3,8,Loss Adjustment Expenses,79807
+2023,3,8,Staff Costs,134648
+2023,3,8,IT Expenses,379796
+2023,3,8,Marketing,149401
+2023,3,8,Office Costs,237117
+2023,3,8,Depreciation,253780
+2023,3,8,Professional Services,338936
+2023,3,9,Gross Written Premium,398444
+2023,3,9,Net Earned Premium,218286
+2023,3,9,Reinsurance Recoveries,42052
+2023,3,9,Investment Income,51032
+2023,3,9,Commission Income,300830
+2023,3,9,Claims Paid,344125
+2023,3,9,Claims Incurred,103802
+2023,3,9,Loss Adjustment Expenses,239337
+2023,3,9,Staff Costs,177857
+2023,3,9,IT Expenses,309962
+2023,3,9,Marketing,367566
+2023,3,9,Office Costs,339071
+2023,3,9,Depreciation,201753
+2023,3,9,Professional Services,346609
+2023,3,10,Gross Written Premium,225934
+2023,3,10,Net Earned Premium,231599
+2023,3,10,Reinsurance Recoveries,118221
+2023,3,10,Investment Income,304477
+2023,3,10,Commission Income,131457
+2023,3,10,Claims Paid,283720
+2023,3,10,Claims Incurred,124875
+2023,3,10,Loss Adjustment Expenses,306549
+2023,3,10,Staff Costs,361144
+2023,3,10,IT Expenses,36601
+2023,3,10,Marketing,335090
+2023,3,10,Office Costs,319260
+2023,3,10,Depreciation,109186
+2023,3,10,Professional Services,330038
+2023,4,1,Gross Written Premium,170707
+2023,4,1,Net Earned Premium,274609
+2023,4,1,Reinsurance Recoveries,61754
+2023,4,1,Investment Income,234047
+2023,4,1,Commission Income,97850
+2023,4,1,Claims Paid,376909
+2023,4,1,Claims Incurred,221191
+2023,4,1,Loss Adjustment Expenses,359835
+2023,4,1,Staff Costs,43871
+2023,4,1,IT Expenses,198946
+2023,4,1,Marketing,296655
+2023,4,1,Office Costs,348104
+2023,4,1,Depreciation,332920
+2023,4,1,Professional Services,254200
+2023,4,2,Gross Written Premium,206239
+2023,4,2,Net Earned Premium,311606
+2023,4,2,Reinsurance Recoveries,239453
+2023,4,2,Investment Income,37574
+2023,4,2,Commission Income,107072
+2023,4,2,Claims Paid,209603
+2023,4,2,Claims Incurred,161258
+2023,4,2,Loss Adjustment Expenses,158885
+2023,4,2,Staff Costs,214884
+2023,4,2,IT Expenses,221597
+2023,4,2,Marketing,345426
+2023,4,2,Office Costs,114779
+2023,4,2,Depreciation,23557
+2023,4,2,Professional Services,164132
+2023,4,3,Gross Written Premium,339248
+2023,4,3,Net Earned Premium,236977
+2023,4,3,Reinsurance Recoveries,142152
+2023,4,3,Investment Income,149926
+2023,4,3,Commission Income,389157
+2023,4,3,Claims Paid,203767
+2023,4,3,Claims Incurred,163097
+2023,4,3,Loss Adjustment Expenses,189054
+2023,4,3,Staff Costs,46081
+2023,4,3,IT Expenses,235693
+2023,4,3,Marketing,386325
+2023,4,3,Office Costs,294238
+2023,4,3,Depreciation,333910
+2023,4,3,Professional Services,350197
+2023,4,4,Gross Written Premium,160063
+2023,4,4,Net Earned Premium,268445
+2023,4,4,Reinsurance Recoveries,164682
+2023,4,4,Investment Income,86463
+2023,4,4,Commission Income,170750
+2023,4,4,Claims Paid,291610
+2023,4,4,Claims Incurred,31081
+2023,4,4,Loss Adjustment Expenses,29354
+2023,4,4,Staff Costs,98297
+2023,4,4,IT Expenses,285444
+2023,4,4,Marketing,69384
+2023,4,4,Office Costs,362171
+2023,4,4,Depreciation,126684
+2023,4,4,Professional Services,328036
+2023,4,5,Gross Written Premium,40525
+2023,4,5,Net Earned Premium,11464
+2023,4,5,Reinsurance Recoveries,21562
+2023,4,5,Investment Income,374536
+2023,4,5,Commission Income,60514
+2023,4,5,Claims Paid,380572
+2023,4,5,Claims Incurred,117564
+2023,4,5,Loss Adjustment Expenses,375191
+2023,4,5,Staff Costs,37634
+2023,4,5,IT Expenses,267204
+2023,4,5,Marketing,276413
+2023,4,5,Office Costs,199215
+2023,4,5,Depreciation,28065
+2023,4,5,Professional Services,270039
+2023,4,6,Gross Written Premium,348003
+2023,4,6,Net Earned Premium,148424
+2023,4,6,Reinsurance Recoveries,109127
+2023,4,6,Investment Income,101426
+2023,4,6,Commission Income,197376
+2023,4,6,Claims Paid,16962
+2023,4,6,Claims Incurred,38302
+2023,4,6,Loss Adjustment Expenses,352526
+2023,4,6,Staff Costs,9011
+2023,4,6,IT Expenses,396860
+2023,4,6,Marketing,24782
+2023,4,6,Office Costs,203763
+2023,4,6,Depreciation,125654
+2023,4,6,Professional Services,14196
+2023,4,7,Gross Written Premium,48459
+2023,4,7,Net Earned Premium,92245
+2023,4,7,Reinsurance Recoveries,83863
+2023,4,7,Investment Income,390350
+2023,4,7,Commission Income,255463
+2023,4,7,Claims Paid,368154
+2023,4,7,Claims Incurred,37769
+2023,4,7,Loss Adjustment Expenses,374673
+2023,4,7,Staff Costs,261433
+2023,4,7,IT Expenses,29700
+2023,4,7,Marketing,251864
+2023,4,7,Office Costs,216428
+2023,4,7,Depreciation,236237
+2023,4,7,Professional Services,272413
+2023,4,8,Gross Written Premium,388775
+2023,4,8,Net Earned Premium,311024
+2023,4,8,Reinsurance Recoveries,119003
+2023,4,8,Investment Income,144392
+2023,4,8,Commission Income,54589
+2023,4,8,Claims Paid,255606
+2023,4,8,Claims Incurred,212348
+2023,4,8,Loss Adjustment Expenses,40897
+2023,4,8,Staff Costs,194637
+2023,4,8,IT Expenses,167002
+2023,4,8,Marketing,193305
+2023,4,8,Office Costs,218893
+2023,4,8,Depreciation,281524
+2023,4,8,Professional Services,212968
+2023,4,9,Gross Written Premium,75934
+2023,4,9,Net Earned Premium,60830
+2023,4,9,Reinsurance Recoveries,272673
+2023,4,9,Investment Income,257364
+2023,4,9,Commission Income,361742
+2023,4,9,Claims Paid,238294
+2023,4,9,Claims Incurred,87987
+2023,4,9,Loss Adjustment Expenses,54178
+2023,4,9,Staff Costs,143009
+2023,4,9,IT Expenses,389096
+2023,4,9,Marketing,44886
+2023,4,9,Office Costs,54699
+2023,4,9,Depreciation,81396
+2023,4,9,Professional Services,95678
+2023,4,10,Gross Written Premium,30279
+2023,4,10,Net Earned Premium,115776
+2023,4,10,Reinsurance Recoveries,106444
+2023,4,10,Investment Income,373444
+2023,4,10,Commission Income,118793
+2023,4,10,Claims Paid,383422
+2023,4,10,Claims Incurred,215809
+2023,4,10,Loss Adjustment Expenses,176616
+2023,4,10,Staff Costs,370391
+2023,4,10,IT Expenses,247262
+2023,4,10,Marketing,13997
+2023,4,10,Office Costs,111102
+2023,4,10,Depreciation,352855
+2023,4,10,Professional Services,383189
+2023,5,1,Gross Written Premium,45860
+2023,5,1,Net Earned Premium,270369
+2023,5,1,Reinsurance Recoveries,115114
+2023,5,1,Investment Income,118218
+2023,5,1,Commission Income,367908
+2023,5,1,Claims Paid,112041
+2023,5,1,Claims Incurred,379368
+2023,5,1,Loss Adjustment Expenses,330800
+2023,5,1,Staff Costs,197150
+2023,5,1,IT Expenses,81290
+2023,5,1,Marketing,61633
+2023,5,1,Office Costs,293799
+2023,5,1,Depreciation,126118
+2023,5,1,Professional Services,179673
+2023,5,2,Gross Written Premium,8114
+2023,5,2,Net Earned Premium,293646
+2023,5,2,Reinsurance Recoveries,54768
+2023,5,2,Investment Income,315272
+2023,5,2,Commission Income,88123
+2023,5,2,Claims Paid,113255
+2023,5,2,Claims Incurred,171405
+2023,5,2,Loss Adjustment Expenses,8174
+2023,5,2,Staff Costs,122769
+2023,5,2,IT Expenses,302542
+2023,5,2,Marketing,140393
+2023,5,2,Office Costs,390693
+2023,5,2,Depreciation,232043
+2023,5,2,Professional Services,247580
+2023,5,3,Gross Written Premium,191493
+2023,5,3,Net Earned Premium,77635
+2023,5,3,Reinsurance Recoveries,290904
+2023,5,3,Investment Income,146385
+2023,5,3,Commission Income,397818
+2023,5,3,Claims Paid,247878
+2023,5,3,Claims Incurred,222070
+2023,5,3,Loss Adjustment Expenses,281274
+2023,5,3,Staff Costs,374359
+2023,5,3,IT Expenses,155056
+2023,5,3,Marketing,355239
+2023,5,3,Office Costs,328086
+2023,5,3,Depreciation,148933
+2023,5,3,Professional Services,103970
+2023,5,4,Gross Written Premium,87203
+2023,5,4,Net Earned Premium,197319
+2023,5,4,Reinsurance Recoveries,205173
+2023,5,4,Investment Income,157049
+2023,5,4,Commission Income,222726
+2023,5,4,Claims Paid,355321
+2023,5,4,Claims Incurred,77902
+2023,5,4,Loss Adjustment Expenses,97172
+2023,5,4,Staff Costs,151702
+2023,5,4,IT Expenses,25056
+2023,5,4,Marketing,143454
+2023,5,4,Office Costs,60739
+2023,5,4,Depreciation,348829
+2023,5,4,Professional Services,53639
+2023,5,5,Gross Written Premium,268136
+2023,5,5,Net Earned Premium,77394
+2023,5,5,Reinsurance Recoveries,334801
+2023,5,5,Investment Income,294304
+2023,5,5,Commission Income,312300
+2023,5,5,Claims Paid,187447
+2023,5,5,Claims Incurred,353586
+2023,5,5,Loss Adjustment Expenses,155644
+2023,5,5,Staff Costs,385069
+2023,5,5,IT Expenses,9136
+2023,5,5,Marketing,66868
+2023,5,5,Office Costs,349407
+2023,5,5,Depreciation,299311
+2023,5,5,Professional Services,115957
+2023,5,6,Gross Written Premium,20479
+2023,5,6,Net Earned Premium,124392
+2023,5,6,Reinsurance Recoveries,167448
+2023,5,6,Investment Income,140895
+2023,5,6,Commission Income,261228
+2023,5,6,Claims Paid,206528
+2023,5,6,Claims Incurred,286729
+2023,5,6,Loss Adjustment Expenses,239847
+2023,5,6,Staff Costs,293763
+2023,5,6,IT Expenses,342213
+2023,5,6,Marketing,307039
+2023,5,6,Office Costs,270864
+2023,5,6,Depreciation,286411
+2023,5,6,Professional Services,151768
+2023,5,7,Gross Written Premium,166040
+2023,5,7,Net Earned Premium,320508
+2023,5,7,Reinsurance Recoveries,56567
+2023,5,7,Investment Income,96229
+2023,5,7,Commission Income,204316
+2023,5,7,Claims Paid,201497
+2023,5,7,Claims Incurred,345662
+2023,5,7,Loss Adjustment Expenses,87844
+2023,5,7,Staff Costs,168991
+2023,5,7,IT Expenses,95697
+2023,5,7,Marketing,62196
+2023,5,7,Office Costs,120600
+2023,5,7,Depreciation,105625
+2023,5,7,Professional Services,398711
+2023,5,8,Gross Written Premium,311899
+2023,5,8,Net Earned Premium,38324
+2023,5,8,Reinsurance Recoveries,346073
+2023,5,8,Investment Income,399768
+2023,5,8,Commission Income,56272
+2023,5,8,Claims Paid,254264
+2023,5,8,Claims Incurred,168996
+2023,5,8,Loss Adjustment Expenses,341606
+2023,5,8,Staff Costs,232459
+2023,5,8,IT Expenses,159961
+2023,5,8,Marketing,241538
+2023,5,8,Office Costs,59675
+2023,5,8,Depreciation,78591
+2023,5,8,Professional Services,158706
+2023,5,9,Gross Written Premium,299507
+2023,5,9,Net Earned Premium,199824
+2023,5,9,Reinsurance Recoveries,344148
+2023,5,9,Investment Income,234530
+2023,5,9,Commission Income,307862
+2023,5,9,Claims Paid,118627
+2023,5,9,Claims Incurred,218988
+2023,5,9,Loss Adjustment Expenses,294014
+2023,5,9,Staff Costs,42394
+2023,5,9,IT Expenses,319201
+2023,5,9,Marketing,84795
+2023,5,9,Office Costs,347553
+2023,5,9,Depreciation,280160
+2023,5,9,Professional Services,47137
+2023,5,10,Gross Written Premium,398369
+2023,5,10,Net Earned Premium,143925
+2023,5,10,Reinsurance Recoveries,17379
+2023,5,10,Investment Income,126169
+2023,5,10,Commission Income,174439
+2023,5,10,Claims Paid,154172
+2023,5,10,Claims Incurred,131082
+2023,5,10,Loss Adjustment Expenses,380233
+2023,5,10,Staff Costs,16049
+2023,5,10,IT Expenses,399002
+2023,5,10,Marketing,166771
+2023,5,10,Office Costs,389928
+2023,5,10,Depreciation,314835
+2023,5,10,Professional Services,173112
+2023,6,1,Gross Written Premium,254527
+2023,6,1,Net Earned Premium,229062
+2023,6,1,Reinsurance Recoveries,62986
+2023,6,1,Investment Income,159672
+2023,6,1,Commission Income,361918
+2023,6,1,Claims Paid,226849
+2023,6,1,Claims Incurred,221775
+2023,6,1,Loss Adjustment Expenses,110315
+2023,6,1,Staff Costs,324348
+2023,6,1,IT Expenses,287229
+2023,6,1,Marketing,182926
+2023,6,1,Office Costs,220341
+2023,6,1,Depreciation,175851
+2023,6,1,Professional Services,192279
+2023,6,2,Gross Written Premium,230687
+2023,6,2,Net Earned Premium,301124
+2023,6,2,Reinsurance Recoveries,323261
+2023,6,2,Investment Income,150213
+2023,6,2,Commission Income,145416
+2023,6,2,Claims Paid,20896
+2023,6,2,Claims Incurred,94353
+2023,6,2,Loss Adjustment Expenses,34813
+2023,6,2,Staff Costs,220503
+2023,6,2,IT Expenses,70679
+2023,6,2,Marketing,146753
+2023,6,2,Office Costs,208975
+2023,6,2,Depreciation,270372
+2023,6,2,Professional Services,214755
+2023,6,3,Gross Written Premium,278541
+2023,6,3,Net Earned Premium,304155
+2023,6,3,Reinsurance Recoveries,84183
+2023,6,3,Investment Income,360398
+2023,6,3,Commission Income,47317
+2023,6,3,Claims Paid,183986
+2023,6,3,Claims Incurred,220705
+2023,6,3,Loss Adjustment Expenses,369633
+2023,6,3,Staff Costs,181326
+2023,6,3,IT Expenses,307240
+2023,6,3,Marketing,320929
+2023,6,3,Office Costs,57344
+2023,6,3,Depreciation,251060
+2023,6,3,Professional Services,387526
+2023,6,4,Gross Written Premium,204618
+2023,6,4,Net Earned Premium,164484
+2023,6,4,Reinsurance Recoveries,115489
+2023,6,4,Investment Income,263667
+2023,6,4,Commission Income,16549
+2023,6,4,Claims Paid,30739
+2023,6,4,Claims Incurred,288353
+2023,6,4,Loss Adjustment Expenses,112051
+2023,6,4,Staff Costs,20116
+2023,6,4,IT Expenses,25045
+2023,6,4,Marketing,40709
+2023,6,4,Office Costs,310761
+2023,6,4,Depreciation,162977
+2023,6,4,Professional Services,208675
+2023,6,5,Gross Written Premium,234167
+2023,6,5,Net Earned Premium,386923
+2023,6,5,Reinsurance Recoveries,310063
+2023,6,5,Investment Income,350665
+2023,6,5,Commission Income,224222
+2023,6,5,Claims Paid,194518
+2023,6,5,Claims Incurred,188500
+2023,6,5,Loss Adjustment Expenses,273591
+2023,6,5,Staff Costs,10499
+2023,6,5,IT Expenses,44041
+2023,6,5,Marketing,298459
+2023,6,5,Office Costs,137371
+2023,6,5,Depreciation,387650
+2023,6,5,Professional Services,141066
+2023,6,6,Gross Written Premium,231486
+2023,6,6,Net Earned Premium,217235
+2023,6,6,Reinsurance Recoveries,262831
+2023,6,6,Investment Income,358791
+2023,6,6,Commission Income,299499
+2023,6,6,Claims Paid,340949
+2023,6,6,Claims Incurred,335511
+2023,6,6,Loss Adjustment Expenses,377050
+2023,6,6,Staff Costs,384553
+2023,6,6,IT Expenses,344499
+2023,6,6,Marketing,121220
+2023,6,6,Office Costs,226421
+2023,6,6,Depreciation,354317
+2023,6,6,Professional Services,269140
+2023,6,7,Gross Written Premium,256071
+2023,6,7,Net Earned Premium,311531
+2023,6,7,Reinsurance Recoveries,8089
+2023,6,7,Investment Income,365971
+2023,6,7,Commission Income,287803
+2023,6,7,Claims Paid,312322
+2023,6,7,Claims Incurred,100965
+2023,6,7,Loss Adjustment Expenses,86268
+2023,6,7,Staff Costs,352186
+2023,6,7,IT Expenses,373615
+2023,6,7,Marketing,206798
+2023,6,7,Office Costs,337255
+2023,6,7,Depreciation,242103
+2023,6,7,Professional Services,249754
+2023,6,8,Gross Written Premium,170637
+2023,6,8,Net Earned Premium,367579
+2023,6,8,Reinsurance Recoveries,94242
+2023,6,8,Investment Income,380348
+2023,6,8,Commission Income,158956
+2023,6,8,Claims Paid,284343
+2023,6,8,Claims Incurred,65038
+2023,6,8,Loss Adjustment Expenses,62786
+2023,6,8,Staff Costs,376780
+2023,6,8,IT Expenses,241042
+2023,6,8,Marketing,316438
+2023,6,8,Office Costs,214087
+2023,6,8,Depreciation,170250
+2023,6,8,Professional Services,267678
+2023,6,9,Gross Written Premium,358972
+2023,6,9,Net Earned Premium,303276
+2023,6,9,Reinsurance Recoveries,382864
+2023,6,9,Investment Income,303254
+2023,6,9,Commission Income,194826
+2023,6,9,Claims Paid,330724
+2023,6,9,Claims Incurred,331160
+2023,6,9,Loss Adjustment Expenses,51233
+2023,6,9,Staff Costs,397007
+2023,6,9,IT Expenses,202780
+2023,6,9,Marketing,229522
+2023,6,9,Office Costs,111311
+2023,6,9,Depreciation,39409
+2023,6,9,Professional Services,251231
+2023,6,10,Gross Written Premium,291198
+2023,6,10,Net Earned Premium,34709
+2023,6,10,Reinsurance Recoveries,114321
+2023,6,10,Investment Income,5363
+2023,6,10,Commission Income,277502
+2023,6,10,Claims Paid,50689
+2023,6,10,Claims Incurred,269080
+2023,6,10,Loss Adjustment Expenses,379416
+2023,6,10,Staff Costs,96074
+2023,6,10,IT Expenses,180037
+2023,6,10,Marketing,213606
+2023,6,10,Office Costs,5882
+2023,6,10,Depreciation,372371
+2023,6,10,Professional Services,259822
+2023,7,1,Gross Written Premium,130865
+2023,7,1,Net Earned Premium,128745
+2023,7,1,Reinsurance Recoveries,33885
+2023,7,1,Investment Income,176128
+2023,7,1,Commission Income,196313
+2023,7,1,Claims Paid,365466
+2023,7,1,Claims Incurred,335763
+2023,7,1,Loss Adjustment Expenses,26584
+2023,7,1,Staff Costs,275665
+2023,7,1,IT Expenses,186089
+2023,7,1,Marketing,300685
+2023,7,1,Office Costs,34063
+2023,7,1,Depreciation,75268
+2023,7,1,Professional Services,261306
+2023,7,2,Gross Written Premium,131218
+2023,7,2,Net Earned Premium,385350
+2023,7,2,Reinsurance Recoveries,229126
+2023,7,2,Investment Income,175635
+2023,7,2,Commission Income,175824
+2023,7,2,Claims Paid,231305
+2023,7,2,Claims Incurred,399890
+2023,7,2,Loss Adjustment Expenses,81411
+2023,7,2,Staff Costs,114876
+2023,7,2,IT Expenses,203153
+2023,7,2,Marketing,165212
+2023,7,2,Office Costs,145399
+2023,7,2,Depreciation,28331
+2023,7,2,Professional Services,28004
+2023,7,3,Gross Written Premium,243441
+2023,7,3,Net Earned Premium,386387
+2023,7,3,Reinsurance Recoveries,194167
+2023,7,3,Investment Income,330361
+2023,7,3,Commission Income,94044
+2023,7,3,Claims Paid,276189
+2023,7,3,Claims Incurred,287260
+2023,7,3,Loss Adjustment Expenses,23667
+2023,7,3,Staff Costs,342201
+2023,7,3,IT Expenses,79205
+2023,7,3,Marketing,32302
+2023,7,3,Office Costs,167007
+2023,7,3,Depreciation,77534
+2023,7,3,Professional Services,230414
+2023,7,4,Gross Written Premium,167696
+2023,7,4,Net Earned Premium,18440
+2023,7,4,Reinsurance Recoveries,378145
+2023,7,4,Investment Income,313645
+2023,7,4,Commission Income,399485
+2023,7,4,Claims Paid,275012
+2023,7,4,Claims Incurred,166323
+2023,7,4,Loss Adjustment Expenses,345053
+2023,7,4,Staff Costs,89523
+2023,7,4,IT Expenses,174801
+2023,7,4,Marketing,20734
+2023,7,4,Office Costs,178501
+2023,7,4,Depreciation,177409
+2023,7,4,Professional Services,350744
+2023,7,5,Gross Written Premium,275577
+2023,7,5,Net Earned Premium,145183
+2023,7,5,Reinsurance Recoveries,108986
+2023,7,5,Investment Income,330897
+2023,7,5,Commission Income,118783
+2023,7,5,Claims Paid,216655
+2023,7,5,Claims Incurred,288895
+2023,7,5,Loss Adjustment Expenses,152525
+2023,7,5,Staff Costs,221916
+2023,7,5,IT Expenses,166149
+2023,7,5,Marketing,244654
+2023,7,5,Office Costs,194216
+2023,7,5,Depreciation,315714
+2023,7,5,Professional Services,182169
+2023,7,6,Gross Written Premium,291647
+2023,7,6,Net Earned Premium,138851
+2023,7,6,Reinsurance Recoveries,353984
+2023,7,6,Investment Income,136827
+2023,7,6,Commission Income,306407
+2023,7,6,Claims Paid,375635
+2023,7,6,Claims Incurred,322231
+2023,7,6,Loss Adjustment Expenses,56482
+2023,7,6,Staff Costs,127989
+2023,7,6,IT Expenses,307259
+2023,7,6,Marketing,281393
+2023,7,6,Office Costs,249255
+2023,7,6,Depreciation,115361
+2023,7,6,Professional Services,291744
+2023,7,7,Gross Written Premium,304850
+2023,7,7,Net Earned Premium,286366
+2023,7,7,Reinsurance Recoveries,366185
+2023,7,7,Investment Income,371648
+2023,7,7,Commission Income,46139
+2023,7,7,Claims Paid,119919
+2023,7,7,Claims Incurred,252677
+2023,7,7,Loss Adjustment Expenses,308446
+2023,7,7,Staff Costs,230756
+2023,7,7,IT Expenses,354982
+2023,7,7,Marketing,144718
+2023,7,7,Office Costs,149615
+2023,7,7,Depreciation,230568
+2023,7,7,Professional Services,158857
+2023,7,8,Gross Written Premium,345497
+2023,7,8,Net Earned Premium,356136
+2023,7,8,Reinsurance Recoveries,318572
+2023,7,8,Investment Income,28777
+2023,7,8,Commission Income,62939
+2023,7,8,Claims Paid,353594
+2023,7,8,Claims Incurred,28548
+2023,7,8,Loss Adjustment Expenses,130549
+2023,7,8,Staff Costs,142799
+2023,7,8,IT Expenses,246532
+2023,7,8,Marketing,186789
+2023,7,8,Office Costs,152764
+2023,7,8,Depreciation,36625
+2023,7,8,Professional Services,292062
+2023,7,9,Gross Written Premium,381970
+2023,7,9,Net Earned Premium,119881
+2023,7,9,Reinsurance Recoveries,282721
+2023,7,9,Investment Income,352299
+2023,7,9,Commission Income,116776
+2023,7,9,Claims Paid,366390
+2023,7,9,Claims Incurred,238996
+2023,7,9,Loss Adjustment Expenses,262831
+2023,7,9,Staff Costs,217803
+2023,7,9,IT Expenses,163761
+2023,7,9,Marketing,147226
+2023,7,9,Office Costs,362092
+2023,7,9,Depreciation,26341
+2023,7,9,Professional Services,364698
+2023,7,10,Gross Written Premium,210753
+2023,7,10,Net Earned Premium,374942
+2023,7,10,Reinsurance Recoveries,313474
+2023,7,10,Investment Income,254141
+2023,7,10,Commission Income,354903
+2023,7,10,Claims Paid,204488
+2023,7,10,Claims Incurred,261139
+2023,7,10,Loss Adjustment Expenses,353951
+2023,7,10,Staff Costs,300457
+2023,7,10,IT Expenses,314044
+2023,7,10,Marketing,83840
+2023,7,10,Office Costs,170767
+2023,7,10,Depreciation,166297
+2023,7,10,Professional Services,353216
+2023,8,1,Gross Written Premium,363511
+2023,8,1,Net Earned Premium,54156
+2023,8,1,Reinsurance Recoveries,213281
+2023,8,1,Investment Income,92453
+2023,8,1,Commission Income,163901
+2023,8,1,Claims Paid,30938
+2023,8,1,Claims Incurred,64164
+2023,8,1,Loss Adjustment Expenses,204271
+2023,8,1,Staff Costs,65282
+2023,8,1,IT Expenses,314945
+2023,8,1,Marketing,270470
+2023,8,1,Office Costs,163666
+2023,8,1,Depreciation,120819
+2023,8,1,Professional Services,271907
+2023,8,2,Gross Written Premium,146900
+2023,8,2,Net Earned Premium,314732
+2023,8,2,Reinsurance Recoveries,278365
+2023,8,2,Investment Income,18569
+2023,8,2,Commission Income,232966
+2023,8,2,Claims Paid,42860
+2023,8,2,Claims Incurred,207630
+2023,8,2,Loss Adjustment Expenses,312481
+2023,8,2,Staff Costs,149587
+2023,8,2,IT Expenses,76695
+2023,8,2,Marketing,258078
+2023,8,2,Office Costs,247599
+2023,8,2,Depreciation,373893
+2023,8,2,Professional Services,160976
+2023,8,3,Gross Written Premium,196007
+2023,8,3,Net Earned Premium,310934
+2023,8,3,Reinsurance Recoveries,335724
+2023,8,3,Investment Income,10636
+2023,8,3,Commission Income,266578
+2023,8,3,Claims Paid,344273
+2023,8,3,Claims Incurred,288816
+2023,8,3,Loss Adjustment Expenses,272956
+2023,8,3,Staff Costs,232693
+2023,8,3,IT Expenses,5654
+2023,8,3,Marketing,59633
+2023,8,3,Office Costs,22143
+2023,8,3,Depreciation,60934
+2023,8,3,Professional Services,334478
+2023,8,4,Gross Written Premium,108463
+2023,8,4,Net Earned Premium,130851
+2023,8,4,Reinsurance Recoveries,34087
+2023,8,4,Investment Income,147690
+2023,8,4,Commission Income,275590
+2023,8,4,Claims Paid,369271
+2023,8,4,Claims Incurred,316011
+2023,8,4,Loss Adjustment Expenses,327245
+2023,8,4,Staff Costs,163272
+2023,8,4,IT Expenses,231179
+2023,8,4,Marketing,355218
+2023,8,4,Office Costs,197537
+2023,8,4,Depreciation,222508
+2023,8,4,Professional Services,123422
+2023,8,5,Gross Written Premium,355036
+2023,8,5,Net Earned Premium,224631
+2023,8,5,Reinsurance Recoveries,387188
+2023,8,5,Investment Income,44148
+2023,8,5,Commission Income,350072
+2023,8,5,Claims Paid,156770
+2023,8,5,Claims Incurred,318804
+2023,8,5,Loss Adjustment Expenses,302594
+2023,8,5,Staff Costs,192535
+2023,8,5,IT Expenses,300901
+2023,8,5,Marketing,83012
+2023,8,5,Office Costs,373894
+2023,8,5,Depreciation,394187
+2023,8,5,Professional Services,61116
+2023,8,6,Gross Written Premium,149233
+2023,8,6,Net Earned Premium,37152
+2023,8,6,Reinsurance Recoveries,111379
+2023,8,6,Investment Income,231905
+2023,8,6,Commission Income,25836
+2023,8,6,Claims Paid,226439
+2023,8,6,Claims Incurred,191720
+2023,8,6,Loss Adjustment Expenses,162403
+2023,8,6,Staff Costs,146835
+2023,8,6,IT Expenses,336588
+2023,8,6,Marketing,98109
+2023,8,6,Office Costs,155259
+2023,8,6,Depreciation,148029
+2023,8,6,Professional Services,87018
+2023,8,7,Gross Written Premium,128076
+2023,8,7,Net Earned Premium,163177
+2023,8,7,Reinsurance Recoveries,399093
+2023,8,7,Investment Income,184425
+2023,8,7,Commission Income,350932
+2023,8,7,Claims Paid,364014
+2023,8,7,Claims Incurred,220657
+2023,8,7,Loss Adjustment Expenses,350452
+2023,8,7,Staff Costs,325057
+2023,8,7,IT Expenses,7637
+2023,8,7,Marketing,309169
+2023,8,7,Office Costs,242989
+2023,8,7,Depreciation,237259
+2023,8,7,Professional Services,366652
+2023,8,8,Gross Written Premium,87464
+2023,8,8,Net Earned Premium,295886
+2023,8,8,Reinsurance Recoveries,16831
+2023,8,8,Investment Income,118768
+2023,8,8,Commission Income,251983
+2023,8,8,Claims Paid,352236
+2023,8,8,Claims Incurred,358023
+2023,8,8,Loss Adjustment Expenses,355514
+2023,8,8,Staff Costs,393681
+2023,8,8,IT Expenses,109824
+2023,8,8,Marketing,93741
+2023,8,8,Office Costs,23830
+2023,8,8,Depreciation,322188
+2023,8,8,Professional Services,341092
+2023,8,9,Gross Written Premium,74202
+2023,8,9,Net Earned Premium,304189
+2023,8,9,Reinsurance Recoveries,222394
+2023,8,9,Investment Income,207123
+2023,8,9,Commission Income,374653
+2023,8,9,Claims Paid,162699
+2023,8,9,Claims Incurred,282342
+2023,8,9,Loss Adjustment Expenses,336665
+2023,8,9,Staff Costs,111471
+2023,8,9,IT Expenses,296619
+2023,8,9,Marketing,241824
+2023,8,9,Office Costs,24403
+2023,8,9,Depreciation,8681
+2023,8,9,Professional Services,358699
+2023,8,10,Gross Written Premium,386028
+2023,8,10,Net Earned Premium,360266
+2023,8,10,Reinsurance Recoveries,120260
+2023,8,10,Investment Income,178364
+2023,8,10,Commission Income,110386
+2023,8,10,Claims Paid,238378
+2023,8,10,Claims Incurred,98246
+2023,8,10,Loss Adjustment Expenses,100864
+2023,8,10,Staff Costs,213886
+2023,8,10,IT Expenses,275561
+2023,8,10,Marketing,386032
+2023,8,10,Office Costs,170837
+2023,8,10,Depreciation,341643
+2023,8,10,Professional Services,398052
+2023,9,1,Gross Written Premium,250160
+2023,9,1,Net Earned Premium,192646
+2023,9,1,Reinsurance Recoveries,264278
+2023,9,1,Investment Income,294819
+2023,9,1,Commission Income,261681
+2023,9,1,Claims Paid,176635
+2023,9,1,Claims Incurred,16332
+2023,9,1,Loss Adjustment Expenses,259817
+2023,9,1,Staff Costs,286321
+2023,9,1,IT Expenses,397704
+2023,9,1,Marketing,225326
+2023,9,1,Office Costs,204519
+2023,9,1,Depreciation,266849
+2023,9,1,Professional Services,324248
+2023,9,2,Gross Written Premium,351479
+2023,9,2,Net Earned Premium,382082
+2023,9,2,Reinsurance Recoveries,85730
+2023,9,2,Investment Income,242474
+2023,9,2,Commission Income,295477
+2023,9,2,Claims Paid,288817
+2023,9,2,Claims Incurred,381565
+2023,9,2,Loss Adjustment Expenses,45870
+2023,9,2,Staff Costs,258017
+2023,9,2,IT Expenses,132536
+2023,9,2,Marketing,338245
+2023,9,2,Office Costs,289965
+2023,9,2,Depreciation,30494
+2023,9,2,Professional Services,104477
+2023,9,3,Gross Written Premium,393227
+2023,9,3,Net Earned Premium,210232
+2023,9,3,Reinsurance Recoveries,379842
+2023,9,3,Investment Income,378704
+2023,9,3,Commission Income,399051
+2023,9,3,Claims Paid,285790
+2023,9,3,Claims Incurred,128777
+2023,9,3,Loss Adjustment Expenses,82360
+2023,9,3,Staff Costs,304479
+2023,9,3,IT Expenses,336495
+2023,9,3,Marketing,382078
+2023,9,3,Office Costs,138501
+2023,9,3,Depreciation,309094
+2023,9,3,Professional Services,65654
+2023,9,4,Gross Written Premium,374566
+2023,9,4,Net Earned Premium,377078
+2023,9,4,Reinsurance Recoveries,124975
+2023,9,4,Investment Income,204215
+2023,9,4,Commission Income,358330
+2023,9,4,Claims Paid,371378
+2023,9,4,Claims Incurred,107326
+2023,9,4,Loss Adjustment Expenses,82527
+2023,9,4,Staff Costs,353848
+2023,9,4,IT Expenses,171991
+2023,9,4,Marketing,101952
+2023,9,4,Office Costs,327926
+2023,9,4,Depreciation,338260
+2023,9,4,Professional Services,356770
+2023,9,5,Gross Written Premium,151895
+2023,9,5,Net Earned Premium,51015
+2023,9,5,Reinsurance Recoveries,107877
+2023,9,5,Investment Income,282483
+2023,9,5,Commission Income,139563
+2023,9,5,Claims Paid,398922
+2023,9,5,Claims Incurred,102493
+2023,9,5,Loss Adjustment Expenses,151800
+2023,9,5,Staff Costs,196480
+2023,9,5,IT Expenses,396670
+2023,9,5,Marketing,126648
+2023,9,5,Office Costs,292307
+2023,9,5,Depreciation,153790
+2023,9,5,Professional Services,92508
+2023,9,6,Gross Written Premium,219839
+2023,9,6,Net Earned Premium,306763
+2023,9,6,Reinsurance Recoveries,279270
+2023,9,6,Investment Income,69926
+2023,9,6,Commission Income,45633
+2023,9,6,Claims Paid,213726
+2023,9,6,Claims Incurred,8317
+2023,9,6,Loss Adjustment Expenses,312124
+2023,9,6,Staff Costs,311259
+2023,9,6,IT Expenses,197718
+2023,9,6,Marketing,310302
+2023,9,6,Office Costs,192035
+2023,9,6,Depreciation,185388
+2023,9,6,Professional Services,372508
+2023,9,7,Gross Written Premium,282648
+2023,9,7,Net Earned Premium,204665
+2023,9,7,Reinsurance Recoveries,304340
+2023,9,7,Investment Income,333082
+2023,9,7,Commission Income,324532
+2023,9,7,Claims Paid,217369
+2023,9,7,Claims Incurred,60501
+2023,9,7,Loss Adjustment Expenses,189381
+2023,9,7,Staff Costs,32043
+2023,9,7,IT Expenses,38635
+2023,9,7,Marketing,215387
+2023,9,7,Office Costs,85691
+2023,9,7,Depreciation,300276
+2023,9,7,Professional Services,282510
+2023,9,8,Gross Written Premium,98944
+2023,9,8,Net Earned Premium,208179
+2023,9,8,Reinsurance Recoveries,382411
+2023,9,8,Investment Income,44236
+2023,9,8,Commission Income,271294
+2023,9,8,Claims Paid,378513
+2023,9,8,Claims Incurred,286567
+2023,9,8,Loss Adjustment Expenses,9137
+2023,9,8,Staff Costs,34992
+2023,9,8,IT Expenses,377684
+2023,9,8,Marketing,120140
+2023,9,8,Office Costs,180993
+2023,9,8,Depreciation,126225
+2023,9,8,Professional Services,334061
+2023,9,9,Gross Written Premium,340834
+2023,9,9,Net Earned Premium,301379
+2023,9,9,Reinsurance Recoveries,215047
+2023,9,9,Investment Income,24122
+2023,9,9,Commission Income,291100
+2023,9,9,Claims Paid,68879
+2023,9,9,Claims Incurred,63560
+2023,9,9,Loss Adjustment Expenses,377454
+2023,9,9,Staff Costs,204757
+2023,9,9,IT Expenses,242268
+2023,9,9,Marketing,268312
+2023,9,9,Office Costs,312268
+2023,9,9,Depreciation,171969
+2023,9,9,Professional Services,151104
+2023,9,10,Gross Written Premium,319941
+2023,9,10,Net Earned Premium,302438
+2023,9,10,Reinsurance Recoveries,270660
+2023,9,10,Investment Income,155823
+2023,9,10,Commission Income,35373
+2023,9,10,Claims Paid,127026
+2023,9,10,Claims Incurred,35270
+2023,9,10,Loss Adjustment Expenses,237931
+2023,9,10,Staff Costs,200889
+2023,9,10,IT Expenses,70184
+2023,9,10,Marketing,215765
+2023,9,10,Office Costs,42879
+2023,9,10,Depreciation,316741
+2023,9,10,Professional Services,8626
+2023,10,1,Gross Written Premium,90936
+2023,10,1,Net Earned Premium,239873
+2023,10,1,Reinsurance Recoveries,86515
+2023,10,1,Investment Income,213137
+2023,10,1,Commission Income,60390
+2023,10,1,Claims Paid,228032
+2023,10,1,Claims Incurred,59144
+2023,10,1,Loss Adjustment Expenses,149454
+2023,10,1,Staff Costs,9025
+2023,10,1,IT Expenses,346524
+2023,10,1,Marketing,259043
+2023,10,1,Office Costs,123910
+2023,10,1,Depreciation,101055
+2023,10,1,Professional Services,393333
+2023,10,2,Gross Written Premium,210782
+2023,10,2,Net Earned Premium,288539
+2023,10,2,Reinsurance Recoveries,277869
+2023,10,2,Investment Income,38461
+2023,10,2,Commission Income,263072
+2023,10,2,Claims Paid,46115
+2023,10,2,Claims Incurred,115084
+2023,10,2,Loss Adjustment Expenses,350876
+2023,10,2,Staff Costs,346701
+2023,10,2,IT Expenses,338404
+2023,10,2,Marketing,164762
+2023,10,2,Office Costs,268551
+2023,10,2,Depreciation,78568
+2023,10,2,Professional Services,63560
+2023,10,3,Gross Written Premium,153866
+2023,10,3,Net Earned Premium,155953
+2023,10,3,Reinsurance Recoveries,222364
+2023,10,3,Investment Income,241770
+2023,10,3,Commission Income,231024
+2023,10,3,Claims Paid,185775
+2023,10,3,Claims Incurred,96288
+2023,10,3,Loss Adjustment Expenses,386164
+2023,10,3,Staff Costs,366445
+2023,10,3,IT Expenses,254836
+2023,10,3,Marketing,19390
+2023,10,3,Office Costs,223547
+2023,10,3,Depreciation,32307
+2023,10,3,Professional Services,232436
+2023,10,4,Gross Written Premium,230121
+2023,10,4,Net Earned Premium,256063
+2023,10,4,Reinsurance Recoveries,29502
+2023,10,4,Investment Income,27486
+2023,10,4,Commission Income,378957
+2023,10,4,Claims Paid,174330
+2023,10,4,Claims Incurred,193788
+2023,10,4,Loss Adjustment Expenses,233300
+2023,10,4,Staff Costs,108920
+2023,10,4,IT Expenses,217566
+2023,10,4,Marketing,349912
+2023,10,4,Office Costs,67785
+2023,10,4,Depreciation,81050
+2023,10,4,Professional Services,27738
+2023,10,5,Gross Written Premium,79231
+2023,10,5,Net Earned Premium,78606
+2023,10,5,Reinsurance Recoveries,308806
+2023,10,5,Investment Income,385457
+2023,10,5,Commission Income,232369
+2023,10,5,Claims Paid,282267
+2023,10,5,Claims Incurred,161688
+2023,10,5,Loss Adjustment Expenses,278326
+2023,10,5,Staff Costs,357513
+2023,10,5,IT Expenses,167403
+2023,10,5,Marketing,182170
+2023,10,5,Office Costs,31128
+2023,10,5,Depreciation,36556
+2023,10,5,Professional Services,263470
+2023,10,6,Gross Written Premium,157948
+2023,10,6,Net Earned Premium,145021
+2023,10,6,Reinsurance Recoveries,56962
+2023,10,6,Investment Income,95054
+2023,10,6,Commission Income,207278
+2023,10,6,Claims Paid,29099
+2023,10,6,Claims Incurred,240943
+2023,10,6,Loss Adjustment Expenses,188683
+2023,10,6,Staff Costs,174957
+2023,10,6,IT Expenses,320288
+2023,10,6,Marketing,201292
+2023,10,6,Office Costs,12837
+2023,10,6,Depreciation,185427
+2023,10,6,Professional Services,183371
+2023,10,7,Gross Written Premium,392356
+2023,10,7,Net Earned Premium,383824
+2023,10,7,Reinsurance Recoveries,253003
+2023,10,7,Investment Income,373946
+2023,10,7,Commission Income,107413
+2023,10,7,Claims Paid,56012
+2023,10,7,Claims Incurred,135193
+2023,10,7,Loss Adjustment Expenses,223168
+2023,10,7,Staff Costs,153178
+2023,10,7,IT Expenses,63123
+2023,10,7,Marketing,116825
+2023,10,7,Office Costs,13720
+2023,10,7,Depreciation,173733
+2023,10,7,Professional Services,251103
+2023,10,8,Gross Written Premium,229970
+2023,10,8,Net Earned Premium,229866
+2023,10,8,Reinsurance Recoveries,155862
+2023,10,8,Investment Income,63655
+2023,10,8,Commission Income,195715
+2023,10,8,Claims Paid,98448
+2023,10,8,Claims Incurred,183446
+2023,10,8,Loss Adjustment Expenses,178979
+2023,10,8,Staff Costs,186143
+2023,10,8,IT Expenses,125507
+2023,10,8,Marketing,301956
+2023,10,8,Office Costs,316714
+2023,10,8,Depreciation,318045
+2023,10,8,Professional Services,65186
+2023,10,9,Gross Written Premium,127066
+2023,10,9,Net Earned Premium,395508
+2023,10,9,Reinsurance Recoveries,186323
+2023,10,9,Investment Income,201243
+2023,10,9,Commission Income,41160
+2023,10,9,Claims Paid,24156
+2023,10,9,Claims Incurred,81208
+2023,10,9,Loss Adjustment Expenses,154001
+2023,10,9,Staff Costs,236226
+2023,10,9,IT Expenses,246766
+2023,10,9,Marketing,200413
+2023,10,9,Office Costs,362521
+2023,10,9,Depreciation,310007
+2023,10,9,Professional Services,217909
+2023,10,10,Gross Written Premium,70439
+2023,10,10,Net Earned Premium,143266
+2023,10,10,Reinsurance Recoveries,207459
+2023,10,10,Investment Income,126361
+2023,10,10,Commission Income,217986
+2023,10,10,Claims Paid,202286
+2023,10,10,Claims Incurred,363320
+2023,10,10,Loss Adjustment Expenses,34777
+2023,10,10,Staff Costs,261427
+2023,10,10,IT Expenses,162255
+2023,10,10,Marketing,203110
+2023,10,10,Office Costs,354345
+2023,10,10,Depreciation,186649
+2023,10,10,Professional Services,283011
+2023,11,1,Gross Written Premium,67501
+2023,11,1,Net Earned Premium,150338
+2023,11,1,Reinsurance Recoveries,306566
+2023,11,1,Investment Income,171280
+2023,11,1,Commission Income,126544
+2023,11,1,Claims Paid,143439
+2023,11,1,Claims Incurred,260230
+2023,11,1,Loss Adjustment Expenses,40362
+2023,11,1,Staff Costs,255449
+2023,11,1,IT Expenses,318732
+2023,11,1,Marketing,174357
+2023,11,1,Office Costs,131683
+2023,11,1,Depreciation,261157
+2023,11,1,Professional Services,210827
+2023,11,2,Gross Written Premium,207918
+2023,11,2,Net Earned Premium,303451
+2023,11,2,Reinsurance Recoveries,347424
+2023,11,2,Investment Income,323667
+2023,11,2,Commission Income,220757
+2023,11,2,Claims Paid,112669
+2023,11,2,Claims Incurred,213030
+2023,11,2,Loss Adjustment Expenses,163998
+2023,11,2,Staff Costs,108215
+2023,11,2,IT Expenses,103707
+2023,11,2,Marketing,97837
+2023,11,2,Office Costs,385214
+2023,11,2,Depreciation,250847
+2023,11,2,Professional Services,232544
+2023,11,3,Gross Written Premium,347016
+2023,11,3,Net Earned Premium,354880
+2023,11,3,Reinsurance Recoveries,272614
+2023,11,3,Investment Income,232467
+2023,11,3,Commission Income,151025
+2023,11,3,Claims Paid,240652
+2023,11,3,Claims Incurred,360113
+2023,11,3,Loss Adjustment Expenses,96493
+2023,11,3,Staff Costs,273667
+2023,11,3,IT Expenses,222995
+2023,11,3,Marketing,193262
+2023,11,3,Office Costs,298313
+2023,11,3,Depreciation,50641
+2023,11,3,Professional Services,159062
+2023,11,4,Gross Written Premium,34661
+2023,11,4,Net Earned Premium,149491
+2023,11,4,Reinsurance Recoveries,281601
+2023,11,4,Investment Income,334744
+2023,11,4,Commission Income,108619
+2023,11,4,Claims Paid,343246
+2023,11,4,Claims Incurred,38085
+2023,11,4,Loss Adjustment Expenses,102064
+2023,11,4,Staff Costs,186726
+2023,11,4,IT Expenses,110723
+2023,11,4,Marketing,138114
+2023,11,4,Office Costs,337278
+2023,11,4,Depreciation,310126
+2023,11,4,Professional Services,332329
+2023,11,5,Gross Written Premium,38477
+2023,11,5,Net Earned Premium,119161
+2023,11,5,Reinsurance Recoveries,319853
+2023,11,5,Investment Income,164788
+2023,11,5,Commission Income,345281
+2023,11,5,Claims Paid,303162
+2023,11,5,Claims Incurred,144133
+2023,11,5,Loss Adjustment Expenses,144681
+2023,11,5,Staff Costs,302515
+2023,11,5,IT Expenses,246422
+2023,11,5,Marketing,350165
+2023,11,5,Office Costs,275001
+2023,11,5,Depreciation,147692
+2023,11,5,Professional Services,13177
+2023,11,6,Gross Written Premium,256842
+2023,11,6,Net Earned Premium,355722
+2023,11,6,Reinsurance Recoveries,94941
+2023,11,6,Investment Income,263121
+2023,11,6,Commission Income,16826
+2023,11,6,Claims Paid,149962
+2023,11,6,Claims Incurred,349572
+2023,11,6,Loss Adjustment Expenses,131044
+2023,11,6,Staff Costs,194103
+2023,11,6,IT Expenses,342164
+2023,11,6,Marketing,10495
+2023,11,6,Office Costs,33481
+2023,11,6,Depreciation,147339
+2023,11,6,Professional Services,385041
+2023,11,7,Gross Written Premium,241774
+2023,11,7,Net Earned Premium,142815
+2023,11,7,Reinsurance Recoveries,108475
+2023,11,7,Investment Income,184845
+2023,11,7,Commission Income,324186
+2023,11,7,Claims Paid,54476
+2023,11,7,Claims Incurred,228177
+2023,11,7,Loss Adjustment Expenses,295696
+2023,11,7,Staff Costs,201314
+2023,11,7,IT Expenses,165020
+2023,11,7,Marketing,212383
+2023,11,7,Office Costs,74093
+2023,11,7,Depreciation,74123
+2023,11,7,Professional Services,21535
+2023,11,8,Gross Written Premium,333634
+2023,11,8,Net Earned Premium,51562
+2023,11,8,Reinsurance Recoveries,386186
+2023,11,8,Investment Income,261323
+2023,11,8,Commission Income,356224
+2023,11,8,Claims Paid,263916
+2023,11,8,Claims Incurred,194607
+2023,11,8,Loss Adjustment Expenses,235063
+2023,11,8,Staff Costs,46269
+2023,11,8,IT Expenses,85674
+2023,11,8,Marketing,309606
+2023,11,8,Office Costs,290291
+2023,11,8,Depreciation,82095
+2023,11,8,Professional Services,249172
+2023,11,9,Gross Written Premium,205003
+2023,11,9,Net Earned Premium,95925
+2023,11,9,Reinsurance Recoveries,71381
+2023,11,9,Investment Income,104468
+2023,11,9,Commission Income,247330
+2023,11,9,Claims Paid,330893
+2023,11,9,Claims Incurred,18731
+2023,11,9,Loss Adjustment Expenses,391791
+2023,11,9,Staff Costs,56024
+2023,11,9,IT Expenses,121712
+2023,11,9,Marketing,106121
+2023,11,9,Office Costs,270976
+2023,11,9,Depreciation,37332
+2023,11,9,Professional Services,17467
+2023,11,10,Gross Written Premium,46025
+2023,11,10,Net Earned Premium,149179
+2023,11,10,Reinsurance Recoveries,82994
+2023,11,10,Investment Income,99202
+2023,11,10,Commission Income,48481
+2023,11,10,Claims Paid,80118
+2023,11,10,Claims Incurred,391154
+2023,11,10,Loss Adjustment Expenses,128714
+2023,11,10,Staff Costs,229699
+2023,11,10,IT Expenses,165185
+2023,11,10,Marketing,89363
+2023,11,10,Office Costs,390751
+2023,11,10,Depreciation,330188
+2023,11,10,Professional Services,216027
+2023,12,1,Gross Written Premium,278958
+2023,12,1,Net Earned Premium,366484
+2023,12,1,Reinsurance Recoveries,277168
+2023,12,1,Investment Income,199360
+2023,12,1,Commission Income,376380
+2023,12,1,Claims Paid,62836
+2023,12,1,Claims Incurred,274579
+2023,12,1,Loss Adjustment Expenses,260095
+2023,12,1,Staff Costs,337745
+2023,12,1,IT Expenses,266176
+2023,12,1,Marketing,388015
+2023,12,1,Office Costs,254717
+2023,12,1,Depreciation,139479
+2023,12,1,Professional Services,366087
+2023,12,2,Gross Written Premium,37940
+2023,12,2,Net Earned Premium,10666
+2023,12,2,Reinsurance Recoveries,304266
+2023,12,2,Investment Income,385791
+2023,12,2,Commission Income,161164
+2023,12,2,Claims Paid,396897
+2023,12,2,Claims Incurred,390546
+2023,12,2,Loss Adjustment Expenses,211717
+2023,12,2,Staff Costs,368334
+2023,12,2,IT Expenses,367612
+2023,12,2,Marketing,396351
+2023,12,2,Office Costs,31505
+2023,12,2,Depreciation,41713
+2023,12,2,Professional Services,310313
+2023,12,3,Gross Written Premium,209354
+2023,12,3,Net Earned Premium,82511
+2023,12,3,Reinsurance Recoveries,307666
+2023,12,3,Investment Income,217204
+2023,12,3,Commission Income,255694
+2023,12,3,Claims Paid,254836
+2023,12,3,Claims Incurred,239561
+2023,12,3,Loss Adjustment Expenses,366541
+2023,12,3,Staff Costs,8880
+2023,12,3,IT Expenses,48539
+2023,12,3,Marketing,245056
+2023,12,3,Office Costs,224057
+2023,12,3,Depreciation,19799
+2023,12,3,Professional Services,109843
+2023,12,4,Gross Written Premium,53784
+2023,12,4,Net Earned Premium,118034
+2023,12,4,Reinsurance Recoveries,205598
+2023,12,4,Investment Income,59362
+2023,12,4,Commission Income,58997
+2023,12,4,Claims Paid,186413
+2023,12,4,Claims Incurred,369543
+2023,12,4,Loss Adjustment Expenses,281693
+2023,12,4,Staff Costs,324064
+2023,12,4,IT Expenses,221398
+2023,12,4,Marketing,265464
+2023,12,4,Office Costs,162255
+2023,12,4,Depreciation,361004
+2023,12,4,Professional Services,29624
+2023,12,5,Gross Written Premium,198587
+2023,12,5,Net Earned Premium,239784
+2023,12,5,Reinsurance Recoveries,51705
+2023,12,5,Investment Income,94326
+2023,12,5,Commission Income,327534
+2023,12,5,Claims Paid,73369
+2023,12,5,Claims Incurred,206893
+2023,12,5,Loss Adjustment Expenses,276733
+2023,12,5,Staff Costs,118012
+2023,12,5,IT Expenses,340325
+2023,12,5,Marketing,180858
+2023,12,5,Office Costs,230758
+2023,12,5,Depreciation,128711
+2023,12,5,Professional Services,81425
+2023,12,6,Gross Written Premium,20994
+2023,12,6,Net Earned Premium,116915
+2023,12,6,Reinsurance Recoveries,390105
+2023,12,6,Investment Income,109672
+2023,12,6,Commission Income,293783
+2023,12,6,Claims Paid,284349
+2023,12,6,Claims Incurred,323821
+2023,12,6,Loss Adjustment Expenses,37930
+2023,12,6,Staff Costs,78313
+2023,12,6,IT Expenses,229923
+2023,12,6,Marketing,118153
+2023,12,6,Office Costs,285460
+2023,12,6,Depreciation,237911
+2023,12,6,Professional Services,101058
+2023,12,7,Gross Written Premium,92876
+2023,12,7,Net Earned Premium,90366
+2023,12,7,Reinsurance Recoveries,18403
+2023,12,7,Investment Income,347196
+2023,12,7,Commission Income,253550
+2023,12,7,Claims Paid,266420
+2023,12,7,Claims Incurred,340639
+2023,12,7,Loss Adjustment Expenses,168004
+2023,12,7,Staff Costs,363234
+2023,12,7,IT Expenses,303845
+2023,12,7,Marketing,257396
+2023,12,7,Office Costs,62241
+2023,12,7,Depreciation,146439
+2023,12,7,Professional Services,70030
+2023,12,8,Gross Written Premium,182577
+2023,12,8,Net Earned Premium,169404
+2023,12,8,Reinsurance Recoveries,212397
+2023,12,8,Investment Income,110185
+2023,12,8,Commission Income,41404
+2023,12,8,Claims Paid,60182
+2023,12,8,Claims Incurred,300135
+2023,12,8,Loss Adjustment Expenses,109601
+2023,12,8,Staff Costs,183735
+2023,12,8,IT Expenses,333030
+2023,12,8,Marketing,127002
+2023,12,8,Office Costs,350992
+2023,12,8,Depreciation,324836
+2023,12,8,Professional Services,230461
+2023,12,9,Gross Written Premium,304644
+2023,12,9,Net Earned Premium,300929
+2023,12,9,Reinsurance Recoveries,89146
+2023,12,9,Investment Income,52997
+2023,12,9,Commission Income,12170
+2023,12,9,Claims Paid,149375
+2023,12,9,Claims Incurred,338887
+2023,12,9,Loss Adjustment Expenses,40187
+2023,12,9,Staff Costs,201106
+2023,12,9,IT Expenses,137965
+2023,12,9,Marketing,149825
+2023,12,9,Office Costs,43090
+2023,12,9,Depreciation,326556
+2023,12,9,Professional Services,258478
+2023,12,10,Gross Written Premium,323174
+2023,12,10,Net Earned Premium,22509
+2023,12,10,Reinsurance Recoveries,73653
+2023,12,10,Investment Income,173001
+2023,12,10,Commission Income,396770
+2023,12,10,Claims Paid,271186
+2023,12,10,Claims Incurred,198646
+2023,12,10,Loss Adjustment Expenses,304345
+2023,12,10,Staff Costs,228354
+2023,12,10,IT Expenses,19016
+2023,12,10,Marketing,292166
+2023,12,10,Office Costs,237034
+2023,12,10,Depreciation,32938
+2023,12,10,Professional Services,179750
+2024,1,1,Gross Written Premium,385315
+2024,1,1,Net Earned Premium,265710
+2024,1,1,Reinsurance Recoveries,237320
+2024,1,1,Investment Income,328864
+2024,1,1,Commission Income,372658
+2024,1,1,Claims Paid,192877
+2024,1,1,Claims Incurred,138058
+2024,1,1,Loss Adjustment Expenses,81478
+2024,1,1,Staff Costs,132101
+2024,1,1,IT Expenses,361843
+2024,1,1,Marketing,196996
+2024,1,1,Office Costs,366417
+2024,1,1,Depreciation,210380
+2024,1,1,Professional Services,237200
+2024,1,2,Gross Written Premium,68745
+2024,1,2,Net Earned Premium,137283
+2024,1,2,Reinsurance Recoveries,398445
+2024,1,2,Investment Income,386116
+2024,1,2,Commission Income,106489
+2024,1,2,Claims Paid,36819
+2024,1,2,Claims Incurred,52779
+2024,1,2,Loss Adjustment Expenses,218493
+2024,1,2,Staff Costs,359388
+2024,1,2,IT Expenses,70584
+2024,1,2,Marketing,151245
+2024,1,2,Office Costs,253815
+2024,1,2,Depreciation,325176
+2024,1,2,Professional Services,382218
+2024,1,3,Gross Written Premium,366417
+2024,1,3,Net Earned Premium,295180
+2024,1,3,Reinsurance Recoveries,259957
+2024,1,3,Investment Income,76356
+2024,1,3,Commission Income,150364
+2024,1,3,Claims Paid,8052
+2024,1,3,Claims Incurred,311521
+2024,1,3,Loss Adjustment Expenses,203910
+2024,1,3,Staff Costs,334963
+2024,1,3,IT Expenses,380833
+2024,1,3,Marketing,151692
+2024,1,3,Office Costs,35461
+2024,1,3,Depreciation,287894
+2024,1,3,Professional Services,14472
+2024,1,4,Gross Written Premium,336407
+2024,1,4,Net Earned Premium,117036
+2024,1,4,Reinsurance Recoveries,193674
+2024,1,4,Investment Income,292667
+2024,1,4,Commission Income,166838
+2024,1,4,Claims Paid,370406
+2024,1,4,Claims Incurred,71060
+2024,1,4,Loss Adjustment Expenses,276223
+2024,1,4,Staff Costs,144471
+2024,1,4,IT Expenses,327870
+2024,1,4,Marketing,360050
+2024,1,4,Office Costs,283676
+2024,1,4,Depreciation,389833
+2024,1,4,Professional Services,48162
+2024,1,5,Gross Written Premium,278497
+2024,1,5,Net Earned Premium,117313
+2024,1,5,Reinsurance Recoveries,33477
+2024,1,5,Investment Income,160642
+2024,1,5,Commission Income,91373
+2024,1,5,Claims Paid,174176
+2024,1,5,Claims Incurred,199442
+2024,1,5,Loss Adjustment Expenses,9551
+2024,1,5,Staff Costs,73359
+2024,1,5,IT Expenses,148988
+2024,1,5,Marketing,131150
+2024,1,5,Office Costs,177517
+2024,1,5,Depreciation,314780
+2024,1,5,Professional Services,296829
+2024,1,6,Gross Written Premium,318278
+2024,1,6,Net Earned Premium,356060
+2024,1,6,Reinsurance Recoveries,112967
+2024,1,6,Investment Income,99455
+2024,1,6,Commission Income,263835
+2024,1,6,Claims Paid,180405
+2024,1,6,Claims Incurred,244646
+2024,1,6,Loss Adjustment Expenses,194937
+2024,1,6,Staff Costs,316900
+2024,1,6,IT Expenses,390007
+2024,1,6,Marketing,66192
+2024,1,6,Office Costs,196758
+2024,1,6,Depreciation,315877
+2024,1,6,Professional Services,240161
+2024,1,7,Gross Written Premium,293137
+2024,1,7,Net Earned Premium,166564
+2024,1,7,Reinsurance Recoveries,157053
+2024,1,7,Investment Income,291287
+2024,1,7,Commission Income,196349
+2024,1,7,Claims Paid,112044
+2024,1,7,Claims Incurred,186062
+2024,1,7,Loss Adjustment Expenses,133406
+2024,1,7,Staff Costs,74351
+2024,1,7,IT Expenses,186071
+2024,1,7,Marketing,239085
+2024,1,7,Office Costs,238883
+2024,1,7,Depreciation,75309
+2024,1,7,Professional Services,166805
+2024,1,8,Gross Written Premium,124156
+2024,1,8,Net Earned Premium,343144
+2024,1,8,Reinsurance Recoveries,26576
+2024,1,8,Investment Income,8320
+2024,1,8,Commission Income,146822
+2024,1,8,Claims Paid,108002
+2024,1,8,Claims Incurred,189535
+2024,1,8,Loss Adjustment Expenses,31572
+2024,1,8,Staff Costs,285092
+2024,1,8,IT Expenses,121528
+2024,1,8,Marketing,174898
+2024,1,8,Office Costs,94051
+2024,1,8,Depreciation,295011
+2024,1,8,Professional Services,196303
+2024,1,9,Gross Written Premium,227428
+2024,1,9,Net Earned Premium,262412
+2024,1,9,Reinsurance Recoveries,208305
+2024,1,9,Investment Income,311822
+2024,1,9,Commission Income,374705
+2024,1,9,Claims Paid,280107
+2024,1,9,Claims Incurred,54434
+2024,1,9,Loss Adjustment Expenses,71617
+2024,1,9,Staff Costs,122569
+2024,1,9,IT Expenses,212384
+2024,1,9,Marketing,364496
+2024,1,9,Office Costs,346876
+2024,1,9,Depreciation,374792
+2024,1,9,Professional Services,86494
+2024,1,10,Gross Written Premium,224977
+2024,1,10,Net Earned Premium,82225
+2024,1,10,Reinsurance Recoveries,87867
+2024,1,10,Investment Income,173600
+2024,1,10,Commission Income,260669
+2024,1,10,Claims Paid,346116
+2024,1,10,Claims Incurred,363405
+2024,1,10,Loss Adjustment Expenses,95748
+2024,1,10,Staff Costs,259265
+2024,1,10,IT Expenses,169404
+2024,1,10,Marketing,391625
+2024,1,10,Office Costs,134529
+2024,1,10,Depreciation,269395
+2024,1,10,Professional Services,366252
+2024,2,1,Gross Written Premium,163099
+2024,2,1,Net Earned Premium,102382
+2024,2,1,Reinsurance Recoveries,14583
+2024,2,1,Investment Income,55387
+2024,2,1,Commission Income,290248
+2024,2,1,Claims Paid,17224
+2024,2,1,Claims Incurred,327768
+2024,2,1,Loss Adjustment Expenses,371464
+2024,2,1,Staff Costs,232444
+2024,2,1,IT Expenses,345716
+2024,2,1,Marketing,352613
+2024,2,1,Office Costs,345072
+2024,2,1,Depreciation,271285
+2024,2,1,Professional Services,159422
+2024,2,2,Gross Written Premium,338015
+2024,2,2,Net Earned Premium,141149
+2024,2,2,Reinsurance Recoveries,51015
+2024,2,2,Investment Income,176929
+2024,2,2,Commission Income,237268
+2024,2,2,Claims Paid,195912
+2024,2,2,Claims Incurred,327046
+2024,2,2,Loss Adjustment Expenses,10577
+2024,2,2,Staff Costs,287146
+2024,2,2,IT Expenses,55711
+2024,2,2,Marketing,44451
+2024,2,2,Office Costs,185175
+2024,2,2,Depreciation,39831
+2024,2,2,Professional Services,254402
+2024,2,3,Gross Written Premium,236376
+2024,2,3,Net Earned Premium,363642
+2024,2,3,Reinsurance Recoveries,396093
+2024,2,3,Investment Income,249942
+2024,2,3,Commission Income,100119
+2024,2,3,Claims Paid,333974
+2024,2,3,Claims Incurred,347776
+2024,2,3,Loss Adjustment Expenses,303977
+2024,2,3,Staff Costs,248466
+2024,2,3,IT Expenses,228936
+2024,2,3,Marketing,291542
+2024,2,3,Office Costs,66554
+2024,2,3,Depreciation,55755
+2024,2,3,Professional Services,158412
+2024,2,4,Gross Written Premium,332138
+2024,2,4,Net Earned Premium,68884
+2024,2,4,Reinsurance Recoveries,351505
+2024,2,4,Investment Income,22482
+2024,2,4,Commission Income,59225
+2024,2,4,Claims Paid,194921
+2024,2,4,Claims Incurred,79854
+2024,2,4,Loss Adjustment Expenses,46256
+2024,2,4,Staff Costs,245617
+2024,2,4,IT Expenses,113721
+2024,2,4,Marketing,86110
+2024,2,4,Office Costs,118606
+2024,2,4,Depreciation,19650
+2024,2,4,Professional Services,182190
+2024,2,5,Gross Written Premium,33930
+2024,2,5,Net Earned Premium,221779
+2024,2,5,Reinsurance Recoveries,265102
+2024,2,5,Investment Income,367544
+2024,2,5,Commission Income,278945
+2024,2,5,Claims Paid,56360
+2024,2,5,Claims Incurred,355052
+2024,2,5,Loss Adjustment Expenses,152631
+2024,2,5,Staff Costs,299478
+2024,2,5,IT Expenses,241545
+2024,2,5,Marketing,18288
+2024,2,5,Office Costs,158470
+2024,2,5,Depreciation,212302
+2024,2,5,Professional Services,279335
+2024,2,6,Gross Written Premium,285195
+2024,2,6,Net Earned Premium,66715
+2024,2,6,Reinsurance Recoveries,15737
+2024,2,6,Investment Income,70140
+2024,2,6,Commission Income,161323
+2024,2,6,Claims Paid,187047
+2024,2,6,Claims Incurred,272291
+2024,2,6,Loss Adjustment Expenses,55508
+2024,2,6,Staff Costs,319368
+2024,2,6,IT Expenses,286787
+2024,2,6,Marketing,306111
+2024,2,6,Office Costs,108535
+2024,2,6,Depreciation,307877
+2024,2,6,Professional Services,301952
+2024,2,7,Gross Written Premium,203360
+2024,2,7,Net Earned Premium,63959
+2024,2,7,Reinsurance Recoveries,335322
+2024,2,7,Investment Income,203208
+2024,2,7,Commission Income,196812
+2024,2,7,Claims Paid,117255
+2024,2,7,Claims Incurred,91322
+2024,2,7,Loss Adjustment Expenses,311709
+2024,2,7,Staff Costs,6132
+2024,2,7,IT Expenses,174331
+2024,2,7,Marketing,232684
+2024,2,7,Office Costs,330812
+2024,2,7,Depreciation,264427
+2024,2,7,Professional Services,113835
+2024,2,8,Gross Written Premium,147003
+2024,2,8,Net Earned Premium,263228
+2024,2,8,Reinsurance Recoveries,78169
+2024,2,8,Investment Income,265529
+2024,2,8,Commission Income,258608
+2024,2,8,Claims Paid,239385
+2024,2,8,Claims Incurred,194973
+2024,2,8,Loss Adjustment Expenses,105417
+2024,2,8,Staff Costs,6044
+2024,2,8,IT Expenses,182763
+2024,2,8,Marketing,236807
+2024,2,8,Office Costs,29363
+2024,2,8,Depreciation,313838
+2024,2,8,Professional Services,399798
+2024,2,9,Gross Written Premium,288445
+2024,2,9,Net Earned Premium,341473
+2024,2,9,Reinsurance Recoveries,6620
+2024,2,9,Investment Income,329368
+2024,2,9,Commission Income,100419
+2024,2,9,Claims Paid,173606
+2024,2,9,Claims Incurred,387194
+2024,2,9,Loss Adjustment Expenses,207701
+2024,2,9,Staff Costs,323000
+2024,2,9,IT Expenses,185324
+2024,2,9,Marketing,322953
+2024,2,9,Office Costs,27259
+2024,2,9,Depreciation,25655
+2024,2,9,Professional Services,26602
+2024,2,10,Gross Written Premium,353089
+2024,2,10,Net Earned Premium,147182
+2024,2,10,Reinsurance Recoveries,367990
+2024,2,10,Investment Income,347962
+2024,2,10,Commission Income,6537
+2024,2,10,Claims Paid,261210
+2024,2,10,Claims Incurred,182274
+2024,2,10,Loss Adjustment Expenses,176236
+2024,2,10,Staff Costs,393689
+2024,2,10,IT Expenses,94743
+2024,2,10,Marketing,91155
+2024,2,10,Office Costs,387342
+2024,2,10,Depreciation,94846
+2024,2,10,Professional Services,239507
+2024,3,1,Gross Written Premium,297706
+2024,3,1,Net Earned Premium,295180
+2024,3,1,Reinsurance Recoveries,196824
+2024,3,1,Investment Income,341377
+2024,3,1,Commission Income,88049
+2024,3,1,Claims Paid,244647
+2024,3,1,Claims Incurred,335825
+2024,3,1,Loss Adjustment Expenses,294962
+2024,3,1,Staff Costs,329676
+2024,3,1,IT Expenses,324849
+2024,3,1,Marketing,25104
+2024,3,1,Office Costs,391480
+2024,3,1,Depreciation,132904
+2024,3,1,Professional Services,336747
+2024,3,2,Gross Written Premium,107499
+2024,3,2,Net Earned Premium,326169
+2024,3,2,Reinsurance Recoveries,232336
+2024,3,2,Investment Income,299461
+2024,3,2,Commission Income,178084
+2024,3,2,Claims Paid,372729
+2024,3,2,Claims Incurred,157472
+2024,3,2,Loss Adjustment Expenses,315414
+2024,3,2,Staff Costs,208141
+2024,3,2,IT Expenses,124415
+2024,3,2,Marketing,199716
+2024,3,2,Office Costs,85206
+2024,3,2,Depreciation,336612
+2024,3,2,Professional Services,195545
+2024,3,3,Gross Written Premium,28723
+2024,3,3,Net Earned Premium,327790
+2024,3,3,Reinsurance Recoveries,202327
+2024,3,3,Investment Income,5074
+2024,3,3,Commission Income,260245
+2024,3,3,Claims Paid,293642
+2024,3,3,Claims Incurred,201594
+2024,3,3,Loss Adjustment Expenses,101881
+2024,3,3,Staff Costs,50929
+2024,3,3,IT Expenses,128199
+2024,3,3,Marketing,236525
+2024,3,3,Office Costs,293172
+2024,3,3,Depreciation,34545
+2024,3,3,Professional Services,84569
+2024,3,4,Gross Written Premium,36673
+2024,3,4,Net Earned Premium,369655
+2024,3,4,Reinsurance Recoveries,360288
+2024,3,4,Investment Income,331968
+2024,3,4,Commission Income,28525
+2024,3,4,Claims Paid,62804
+2024,3,4,Claims Incurred,151115
+2024,3,4,Loss Adjustment Expenses,46846
+2024,3,4,Staff Costs,82261
+2024,3,4,IT Expenses,238312
+2024,3,4,Marketing,189100
+2024,3,4,Office Costs,296627
+2024,3,4,Depreciation,12265
+2024,3,4,Professional Services,289907
+2024,3,5,Gross Written Premium,211724
+2024,3,5,Net Earned Premium,20733
+2024,3,5,Reinsurance Recoveries,379340
+2024,3,5,Investment Income,96038
+2024,3,5,Commission Income,304564
+2024,3,5,Claims Paid,145319
+2024,3,5,Claims Incurred,26058
+2024,3,5,Loss Adjustment Expenses,251301
+2024,3,5,Staff Costs,302073
+2024,3,5,IT Expenses,167434
+2024,3,5,Marketing,91489
+2024,3,5,Office Costs,89664
+2024,3,5,Depreciation,183428
+2024,3,5,Professional Services,82597
+2024,3,6,Gross Written Premium,273185
+2024,3,6,Net Earned Premium,83209
+2024,3,6,Reinsurance Recoveries,263109
+2024,3,6,Investment Income,197941
+2024,3,6,Commission Income,157131
+2024,3,6,Claims Paid,104864
+2024,3,6,Claims Incurred,153620
+2024,3,6,Loss Adjustment Expenses,171562
+2024,3,6,Staff Costs,212158
+2024,3,6,IT Expenses,120158
+2024,3,6,Marketing,6468
+2024,3,6,Office Costs,291453
+2024,3,6,Depreciation,77255
+2024,3,6,Professional Services,263078
+2024,3,7,Gross Written Premium,349043
+2024,3,7,Net Earned Premium,33718
+2024,3,7,Reinsurance Recoveries,230409
+2024,3,7,Investment Income,244967
+2024,3,7,Commission Income,173913
+2024,3,7,Claims Paid,219637
+2024,3,7,Claims Incurred,373697
+2024,3,7,Loss Adjustment Expenses,317425
+2024,3,7,Staff Costs,380595
+2024,3,7,IT Expenses,252113
+2024,3,7,Marketing,267911
+2024,3,7,Office Costs,63026
+2024,3,7,Depreciation,385286
+2024,3,7,Professional Services,47968
+2024,3,8,Gross Written Premium,176169
+2024,3,8,Net Earned Premium,150693
+2024,3,8,Reinsurance Recoveries,81870
+2024,3,8,Investment Income,23174
+2024,3,8,Commission Income,391501
+2024,3,8,Claims Paid,366333
+2024,3,8,Claims Incurred,45502
+2024,3,8,Loss Adjustment Expenses,303818
+2024,3,8,Staff Costs,42260
+2024,3,8,IT Expenses,203681
+2024,3,8,Marketing,185536
+2024,3,8,Office Costs,76805
+2024,3,8,Depreciation,200991
+2024,3,8,Professional Services,264636
+2024,3,9,Gross Written Premium,190541
+2024,3,9,Net Earned Premium,22194
+2024,3,9,Reinsurance Recoveries,162883
+2024,3,9,Investment Income,339521
+2024,3,9,Commission Income,135864
+2024,3,9,Claims Paid,48723
+2024,3,9,Claims Incurred,236408
+2024,3,9,Loss Adjustment Expenses,247113
+2024,3,9,Staff Costs,81298
+2024,3,9,IT Expenses,64238
+2024,3,9,Marketing,264425
+2024,3,9,Office Costs,110433
+2024,3,9,Depreciation,112092
+2024,3,9,Professional Services,269291
+2024,3,10,Gross Written Premium,234991
+2024,3,10,Net Earned Premium,305589
+2024,3,10,Reinsurance Recoveries,189875
+2024,3,10,Investment Income,197180
+2024,3,10,Commission Income,111170
+2024,3,10,Claims Paid,352761
+2024,3,10,Claims Incurred,218482
+2024,3,10,Loss Adjustment Expenses,320646
+2024,3,10,Staff Costs,122116
+2024,3,10,IT Expenses,304899
+2024,3,10,Marketing,144805
+2024,3,10,Office Costs,276623
+2024,3,10,Depreciation,80361
+2024,3,10,Professional Services,157376
+2024,4,1,Gross Written Premium,129232
+2024,4,1,Net Earned Premium,372730
+2024,4,1,Reinsurance Recoveries,86171
+2024,4,1,Investment Income,381295
+2024,4,1,Commission Income,91296
+2024,4,1,Claims Paid,145562
+2024,4,1,Claims Incurred,157324
+2024,4,1,Loss Adjustment Expenses,142934
+2024,4,1,Staff Costs,246535
+2024,4,1,IT Expenses,337103
+2024,4,1,Marketing,323166
+2024,4,1,Office Costs,263970
+2024,4,1,Depreciation,329135
+2024,4,1,Professional Services,176999
+2024,4,2,Gross Written Premium,236449
+2024,4,2,Net Earned Premium,316997
+2024,4,2,Reinsurance Recoveries,36826
+2024,4,2,Investment Income,310023
+2024,4,2,Commission Income,193337
+2024,4,2,Claims Paid,77361
+2024,4,2,Claims Incurred,245028
+2024,4,2,Loss Adjustment Expenses,345134
+2024,4,2,Staff Costs,356931
+2024,4,2,IT Expenses,222256
+2024,4,2,Marketing,45736
+2024,4,2,Office Costs,291674
+2024,4,2,Depreciation,214124
+2024,4,2,Professional Services,183130
+2024,4,3,Gross Written Premium,111080
+2024,4,3,Net Earned Premium,341399
+2024,4,3,Reinsurance Recoveries,140958
+2024,4,3,Investment Income,393742
+2024,4,3,Commission Income,229793
+2024,4,3,Claims Paid,123623
+2024,4,3,Claims Incurred,304531
+2024,4,3,Loss Adjustment Expenses,157647
+2024,4,3,Staff Costs,117260
+2024,4,3,IT Expenses,171862
+2024,4,3,Marketing,298132
+2024,4,3,Office Costs,343592
+2024,4,3,Depreciation,380574
+2024,4,3,Professional Services,223976
+2024,4,4,Gross Written Premium,146041
+2024,4,4,Net Earned Premium,279548
+2024,4,4,Reinsurance Recoveries,246356
+2024,4,4,Investment Income,175534
+2024,4,4,Commission Income,286504
+2024,4,4,Claims Paid,352801
+2024,4,4,Claims Incurred,201544
+2024,4,4,Loss Adjustment Expenses,251512
+2024,4,4,Staff Costs,245037
+2024,4,4,IT Expenses,39160
+2024,4,4,Marketing,273933
+2024,4,4,Office Costs,163253
+2024,4,4,Depreciation,150457
+2024,4,4,Professional Services,349741
+2024,4,5,Gross Written Premium,70641
+2024,4,5,Net Earned Premium,311391
+2024,4,5,Reinsurance Recoveries,91673
+2024,4,5,Investment Income,236322
+2024,4,5,Commission Income,272688
+2024,4,5,Claims Paid,251855
+2024,4,5,Claims Incurred,241361
+2024,4,5,Loss Adjustment Expenses,68248
+2024,4,5,Staff Costs,301694
+2024,4,5,IT Expenses,320837
+2024,4,5,Marketing,396068
+2024,4,5,Office Costs,207821
+2024,4,5,Depreciation,260949
+2024,4,5,Professional Services,347165
+2024,4,6,Gross Written Premium,282749
+2024,4,6,Net Earned Premium,55713
+2024,4,6,Reinsurance Recoveries,342547
+2024,4,6,Investment Income,325610
+2024,4,6,Commission Income,8981
+2024,4,6,Claims Paid,382775
+2024,4,6,Claims Incurred,386382
+2024,4,6,Loss Adjustment Expenses,100335
+2024,4,6,Staff Costs,112441
+2024,4,6,IT Expenses,21984
+2024,4,6,Marketing,130580
+2024,4,6,Office Costs,378460
+2024,4,6,Depreciation,137596
+2024,4,6,Professional Services,123454
+2024,4,7,Gross Written Premium,54402
+2024,4,7,Net Earned Premium,96656
+2024,4,7,Reinsurance Recoveries,70614
+2024,4,7,Investment Income,171963
+2024,4,7,Commission Income,358153
+2024,4,7,Claims Paid,312980
+2024,4,7,Claims Incurred,263789
+2024,4,7,Loss Adjustment Expenses,136049
+2024,4,7,Staff Costs,343551
+2024,4,7,IT Expenses,274754
+2024,4,7,Marketing,114381
+2024,4,7,Office Costs,20791
+2024,4,7,Depreciation,63047
+2024,4,7,Professional Services,239898
+2024,4,8,Gross Written Premium,155737
+2024,4,8,Net Earned Premium,75246
+2024,4,8,Reinsurance Recoveries,201936
+2024,4,8,Investment Income,239955
+2024,4,8,Commission Income,353292
+2024,4,8,Claims Paid,50890
+2024,4,8,Claims Incurred,37888
+2024,4,8,Loss Adjustment Expenses,142821
+2024,4,8,Staff Costs,51531
+2024,4,8,IT Expenses,382796
+2024,4,8,Marketing,287752
+2024,4,8,Office Costs,348130
+2024,4,8,Depreciation,351140
+2024,4,8,Professional Services,61017
+2024,4,9,Gross Written Premium,62676
+2024,4,9,Net Earned Premium,16560
+2024,4,9,Reinsurance Recoveries,55468
+2024,4,9,Investment Income,168535
+2024,4,9,Commission Income,300267
+2024,4,9,Claims Paid,99346
+2024,4,9,Claims Incurred,145790
+2024,4,9,Loss Adjustment Expenses,198709
+2024,4,9,Staff Costs,267172
+2024,4,9,IT Expenses,52599
+2024,4,9,Marketing,153469
+2024,4,9,Office Costs,245270
+2024,4,9,Depreciation,50406
+2024,4,9,Professional Services,314801
+2024,4,10,Gross Written Premium,72560
+2024,4,10,Net Earned Premium,109143
+2024,4,10,Reinsurance Recoveries,149575
+2024,4,10,Investment Income,59943
+2024,4,10,Commission Income,80839
+2024,4,10,Claims Paid,87674
+2024,4,10,Claims Incurred,30345
+2024,4,10,Loss Adjustment Expenses,254495
+2024,4,10,Staff Costs,55390
+2024,4,10,IT Expenses,231113
+2024,4,10,Marketing,326701
+2024,4,10,Office Costs,6906
+2024,4,10,Depreciation,12961
+2024,4,10,Professional Services,162212
+2024,5,1,Gross Written Premium,386433
+2024,5,1,Net Earned Premium,194773
+2024,5,1,Reinsurance Recoveries,344711
+2024,5,1,Investment Income,347808
+2024,5,1,Commission Income,86199
+2024,5,1,Claims Paid,265928
+2024,5,1,Claims Incurred,104764
+2024,5,1,Loss Adjustment Expenses,127357
+2024,5,1,Staff Costs,347873
+2024,5,1,IT Expenses,317712
+2024,5,1,Marketing,376493
+2024,5,1,Office Costs,340446
+2024,5,1,Depreciation,99968
+2024,5,1,Professional Services,165576
+2024,5,2,Gross Written Premium,383260
+2024,5,2,Net Earned Premium,304290
+2024,5,2,Reinsurance Recoveries,45297
+2024,5,2,Investment Income,91394
+2024,5,2,Commission Income,394317
+2024,5,2,Claims Paid,393086
+2024,5,2,Claims Incurred,21939
+2024,5,2,Loss Adjustment Expenses,311604
+2024,5,2,Staff Costs,204294
+2024,5,2,IT Expenses,67119
+2024,5,2,Marketing,171393
+2024,5,2,Office Costs,399995
+2024,5,2,Depreciation,149258
+2024,5,2,Professional Services,223827
+2024,5,3,Gross Written Premium,272201
+2024,5,3,Net Earned Premium,154805
+2024,5,3,Reinsurance Recoveries,286301
+2024,5,3,Investment Income,302174
+2024,5,3,Commission Income,155685
+2024,5,3,Claims Paid,113612
+2024,5,3,Claims Incurred,382224
+2024,5,3,Loss Adjustment Expenses,350172
+2024,5,3,Staff Costs,141260
+2024,5,3,IT Expenses,243178
+2024,5,3,Marketing,264418
+2024,5,3,Office Costs,34680
+2024,5,3,Depreciation,239433
+2024,5,3,Professional Services,369446
+2024,5,4,Gross Written Premium,41445
+2024,5,4,Net Earned Premium,10796
+2024,5,4,Reinsurance Recoveries,314362
+2024,5,4,Investment Income,175203
+2024,5,4,Commission Income,144294
+2024,5,4,Claims Paid,291218
+2024,5,4,Claims Incurred,383232
+2024,5,4,Loss Adjustment Expenses,303983
+2024,5,4,Staff Costs,374256
+2024,5,4,IT Expenses,394658
+2024,5,4,Marketing,73322
+2024,5,4,Office Costs,323465
+2024,5,4,Depreciation,235246
+2024,5,4,Professional Services,115100
+2024,5,5,Gross Written Premium,302651
+2024,5,5,Net Earned Premium,104244
+2024,5,5,Reinsurance Recoveries,392932
+2024,5,5,Investment Income,362395
+2024,5,5,Commission Income,290950
+2024,5,5,Claims Paid,135364
+2024,5,5,Claims Incurred,304045
+2024,5,5,Loss Adjustment Expenses,205065
+2024,5,5,Staff Costs,178688
+2024,5,5,IT Expenses,57127
+2024,5,5,Marketing,267597
+2024,5,5,Office Costs,342576
+2024,5,5,Depreciation,390016
+2024,5,5,Professional Services,92362
+2024,5,6,Gross Written Premium,278120
+2024,5,6,Net Earned Premium,119176
+2024,5,6,Reinsurance Recoveries,104122
+2024,5,6,Investment Income,337548
+2024,5,6,Commission Income,349076
+2024,5,6,Claims Paid,102170
+2024,5,6,Claims Incurred,344851
+2024,5,6,Loss Adjustment Expenses,222912
+2024,5,6,Staff Costs,253178
+2024,5,6,IT Expenses,240851
+2024,5,6,Marketing,360933
+2024,5,6,Office Costs,101516
+2024,5,6,Depreciation,12957
+2024,5,6,Professional Services,112724
+2024,5,7,Gross Written Premium,280381
+2024,5,7,Net Earned Premium,318730
+2024,5,7,Reinsurance Recoveries,286396
+2024,5,7,Investment Income,170278
+2024,5,7,Commission Income,8543
+2024,5,7,Claims Paid,180207
+2024,5,7,Claims Incurred,252541
+2024,5,7,Loss Adjustment Expenses,109647
+2024,5,7,Staff Costs,40031
+2024,5,7,IT Expenses,179001
+2024,5,7,Marketing,332891
+2024,5,7,Office Costs,322455
+2024,5,7,Depreciation,241403
+2024,5,7,Professional Services,70867
+2024,5,8,Gross Written Premium,93780
+2024,5,8,Net Earned Premium,62196
+2024,5,8,Reinsurance Recoveries,78705
+2024,5,8,Investment Income,325038
+2024,5,8,Commission Income,354784
+2024,5,8,Claims Paid,281735
+2024,5,8,Claims Incurred,102247
+2024,5,8,Loss Adjustment Expenses,184965
+2024,5,8,Staff Costs,5727
+2024,5,8,IT Expenses,48822
+2024,5,8,Marketing,370543
+2024,5,8,Office Costs,117113
+2024,5,8,Depreciation,224606
+2024,5,8,Professional Services,397575
+2024,5,9,Gross Written Premium,395732
+2024,5,9,Net Earned Premium,65091
+2024,5,9,Reinsurance Recoveries,159591
+2024,5,9,Investment Income,210603
+2024,5,9,Commission Income,361336
+2024,5,9,Claims Paid,184006
+2024,5,9,Claims Incurred,377949
+2024,5,9,Loss Adjustment Expenses,164912
+2024,5,9,Staff Costs,385233
+2024,5,9,IT Expenses,94367
+2024,5,9,Marketing,18265
+2024,5,9,Office Costs,84622
+2024,5,9,Depreciation,165259
+2024,5,9,Professional Services,303073
+2024,5,10,Gross Written Premium,329036
+2024,5,10,Net Earned Premium,156611
+2024,5,10,Reinsurance Recoveries,323774
+2024,5,10,Investment Income,226711
+2024,5,10,Commission Income,175457
+2024,5,10,Claims Paid,136025
+2024,5,10,Claims Incurred,92580
+2024,5,10,Loss Adjustment Expenses,344606
+2024,5,10,Staff Costs,118396
+2024,5,10,IT Expenses,364181
+2024,5,10,Marketing,100310
+2024,5,10,Office Costs,161080
+2024,5,10,Depreciation,316072
+2024,5,10,Professional Services,219168
+2024,6,1,Gross Written Premium,94876
+2024,6,1,Net Earned Premium,29976
+2024,6,1,Reinsurance Recoveries,250014
+2024,6,1,Investment Income,392128
+2024,6,1,Commission Income,163698
+2024,6,1,Claims Paid,365400
+2024,6,1,Claims Incurred,367681
+2024,6,1,Loss Adjustment Expenses,195861
+2024,6,1,Staff Costs,114331
+2024,6,1,IT Expenses,199717
+2024,6,1,Marketing,256666
+2024,6,1,Office Costs,274670
+2024,6,1,Depreciation,108863
+2024,6,1,Professional Services,204121
+2024,6,2,Gross Written Premium,340510
+2024,6,2,Net Earned Premium,61096
+2024,6,2,Reinsurance Recoveries,143982
+2024,6,2,Investment Income,338329
+2024,6,2,Commission Income,55248
+2024,6,2,Claims Paid,210728
+2024,6,2,Claims Incurred,84888
+2024,6,2,Loss Adjustment Expenses,211354
+2024,6,2,Staff Costs,245346
+2024,6,2,IT Expenses,99533
+2024,6,2,Marketing,46954
+2024,6,2,Office Costs,356863
+2024,6,2,Depreciation,144876
+2024,6,2,Professional Services,228777
+2024,6,3,Gross Written Premium,267739
+2024,6,3,Net Earned Premium,296736
+2024,6,3,Reinsurance Recoveries,45643
+2024,6,3,Investment Income,259793
+2024,6,3,Commission Income,329809
+2024,6,3,Claims Paid,273116
+2024,6,3,Claims Incurred,283026
+2024,6,3,Loss Adjustment Expenses,202466
+2024,6,3,Staff Costs,159841
+2024,6,3,IT Expenses,30020
+2024,6,3,Marketing,369765
+2024,6,3,Office Costs,352518
+2024,6,3,Depreciation,49912
+2024,6,3,Professional Services,17879
+2024,6,4,Gross Written Premium,38798
+2024,6,4,Net Earned Premium,112791
+2024,6,4,Reinsurance Recoveries,182145
+2024,6,4,Investment Income,342935
+2024,6,4,Commission Income,334127
+2024,6,4,Claims Paid,138922
+2024,6,4,Claims Incurred,164472
+2024,6,4,Loss Adjustment Expenses,279097
+2024,6,4,Staff Costs,111410
+2024,6,4,IT Expenses,130155
+2024,6,4,Marketing,159607
+2024,6,4,Office Costs,211608
+2024,6,4,Depreciation,257712
+2024,6,4,Professional Services,348173
+2024,6,5,Gross Written Premium,9055
+2024,6,5,Net Earned Premium,305314
+2024,6,5,Reinsurance Recoveries,234016
+2024,6,5,Investment Income,243657
+2024,6,5,Commission Income,367120
+2024,6,5,Claims Paid,295395
+2024,6,5,Claims Incurred,140996
+2024,6,5,Loss Adjustment Expenses,53037
+2024,6,5,Staff Costs,97115
+2024,6,5,IT Expenses,345070
+2024,6,5,Marketing,75400
+2024,6,5,Office Costs,104525
+2024,6,5,Depreciation,368308
+2024,6,5,Professional Services,228457
+2024,6,6,Gross Written Premium,229174
+2024,6,6,Net Earned Premium,146774
+2024,6,6,Reinsurance Recoveries,373876
+2024,6,6,Investment Income,20385
+2024,6,6,Commission Income,276480
+2024,6,6,Claims Paid,332565
+2024,6,6,Claims Incurred,41021
+2024,6,6,Loss Adjustment Expenses,122369
+2024,6,6,Staff Costs,225702
+2024,6,6,IT Expenses,54111
+2024,6,6,Marketing,94402
+2024,6,6,Office Costs,124774
+2024,6,6,Depreciation,258724
+2024,6,6,Professional Services,220657
+2024,6,7,Gross Written Premium,309863
+2024,6,7,Net Earned Premium,232600
+2024,6,7,Reinsurance Recoveries,185109
+2024,6,7,Investment Income,130695
+2024,6,7,Commission Income,139585
+2024,6,7,Claims Paid,251255
+2024,6,7,Claims Incurred,149407
+2024,6,7,Loss Adjustment Expenses,180212
+2024,6,7,Staff Costs,109126
+2024,6,7,IT Expenses,216445
+2024,6,7,Marketing,82658
+2024,6,7,Office Costs,170912
+2024,6,7,Depreciation,298151
+2024,6,7,Professional Services,111833
+2024,6,8,Gross Written Premium,123637
+2024,6,8,Net Earned Premium,387865
+2024,6,8,Reinsurance Recoveries,98220
+2024,6,8,Investment Income,31393
+2024,6,8,Commission Income,62480
+2024,6,8,Claims Paid,384387
+2024,6,8,Claims Incurred,355434
+2024,6,8,Loss Adjustment Expenses,371407
+2024,6,8,Staff Costs,145179
+2024,6,8,IT Expenses,273137
+2024,6,8,Marketing,98650
+2024,6,8,Office Costs,239397
+2024,6,8,Depreciation,384739
+2024,6,8,Professional Services,57066
+2024,6,9,Gross Written Premium,378994
+2024,6,9,Net Earned Premium,310086
+2024,6,9,Reinsurance Recoveries,21138
+2024,6,9,Investment Income,123558
+2024,6,9,Commission Income,263480
+2024,6,9,Claims Paid,276334
+2024,6,9,Claims Incurred,359403
+2024,6,9,Loss Adjustment Expenses,83422
+2024,6,9,Staff Costs,191770
+2024,6,9,IT Expenses,87315
+2024,6,9,Marketing,34086
+2024,6,9,Office Costs,130604
+2024,6,9,Depreciation,367958
+2024,6,9,Professional Services,124324
+2024,6,10,Gross Written Premium,221682
+2024,6,10,Net Earned Premium,396065
+2024,6,10,Reinsurance Recoveries,8435
+2024,6,10,Investment Income,368649
+2024,6,10,Commission Income,320475
+2024,6,10,Claims Paid,165014
+2024,6,10,Claims Incurred,195707
+2024,6,10,Loss Adjustment Expenses,193629
+2024,6,10,Staff Costs,380601
+2024,6,10,IT Expenses,319533
+2024,6,10,Marketing,320158
+2024,6,10,Office Costs,297441
+2024,6,10,Depreciation,48890
+2024,6,10,Professional Services,288466
+2024,7,1,Gross Written Premium,40739
+2024,7,1,Net Earned Premium,84553
+2024,7,1,Reinsurance Recoveries,13314
+2024,7,1,Investment Income,98831
+2024,7,1,Commission Income,342308
+2024,7,1,Claims Paid,374802
+2024,7,1,Claims Incurred,344172
+2024,7,1,Loss Adjustment Expenses,303257
+2024,7,1,Staff Costs,122174
+2024,7,1,IT Expenses,151429
+2024,7,1,Marketing,234937
+2024,7,1,Office Costs,25365
+2024,7,1,Depreciation,306173
+2024,7,1,Professional Services,268881
+2024,7,2,Gross Written Premium,398186
+2024,7,2,Net Earned Premium,210704
+2024,7,2,Reinsurance Recoveries,90474
+2024,7,2,Investment Income,345362
+2024,7,2,Commission Income,260678
+2024,7,2,Claims Paid,163571
+2024,7,2,Claims Incurred,246099
+2024,7,2,Loss Adjustment Expenses,246474
+2024,7,2,Staff Costs,133692
+2024,7,2,IT Expenses,243502
+2024,7,2,Marketing,182229
+2024,7,2,Office Costs,395555
+2024,7,2,Depreciation,177106
+2024,7,2,Professional Services,5294
+2024,7,3,Gross Written Premium,291740
+2024,7,3,Net Earned Premium,103185
+2024,7,3,Reinsurance Recoveries,278578
+2024,7,3,Investment Income,63382
+2024,7,3,Commission Income,305242
+2024,7,3,Claims Paid,9655
+2024,7,3,Claims Incurred,88029
+2024,7,3,Loss Adjustment Expenses,313372
+2024,7,3,Staff Costs,8771
+2024,7,3,IT Expenses,341243
+2024,7,3,Marketing,125811
+2024,7,3,Office Costs,329401
+2024,7,3,Depreciation,284702
+2024,7,3,Professional Services,325580
+2024,7,4,Gross Written Premium,112779
+2024,7,4,Net Earned Premium,129891
+2024,7,4,Reinsurance Recoveries,259797
+2024,7,4,Investment Income,259472
+2024,7,4,Commission Income,37376
+2024,7,4,Claims Paid,82924
+2024,7,4,Claims Incurred,34332
+2024,7,4,Loss Adjustment Expenses,398145
+2024,7,4,Staff Costs,51737
+2024,7,4,IT Expenses,398056
+2024,7,4,Marketing,94031
+2024,7,4,Office Costs,188024
+2024,7,4,Depreciation,288135
+2024,7,4,Professional Services,32472
+2024,7,5,Gross Written Premium,64946
+2024,7,5,Net Earned Premium,268685
+2024,7,5,Reinsurance Recoveries,134237
+2024,7,5,Investment Income,7765
+2024,7,5,Commission Income,310218
+2024,7,5,Claims Paid,369939
+2024,7,5,Claims Incurred,165355
+2024,7,5,Loss Adjustment Expenses,106387
+2024,7,5,Staff Costs,256116
+2024,7,5,IT Expenses,398985
+2024,7,5,Marketing,153878
+2024,7,5,Office Costs,270116
+2024,7,5,Depreciation,154328
+2024,7,5,Professional Services,371047
+2024,7,6,Gross Written Premium,154725
+2024,7,6,Net Earned Premium,108579
+2024,7,6,Reinsurance Recoveries,44339
+2024,7,6,Investment Income,370520
+2024,7,6,Commission Income,309543
+2024,7,6,Claims Paid,311157
+2024,7,6,Claims Incurred,32909
+2024,7,6,Loss Adjustment Expenses,193644
+2024,7,6,Staff Costs,162541
+2024,7,6,IT Expenses,137385
+2024,7,6,Marketing,146002
+2024,7,6,Office Costs,8285
+2024,7,6,Depreciation,390781
+2024,7,6,Professional Services,40863
+2024,7,7,Gross Written Premium,152776
+2024,7,7,Net Earned Premium,136627
+2024,7,7,Reinsurance Recoveries,26323
+2024,7,7,Investment Income,338112
+2024,7,7,Commission Income,58915
+2024,7,7,Claims Paid,376687
+2024,7,7,Claims Incurred,146691
+2024,7,7,Loss Adjustment Expenses,208462
+2024,7,7,Staff Costs,264990
+2024,7,7,IT Expenses,375644
+2024,7,7,Marketing,378410
+2024,7,7,Office Costs,293883
+2024,7,7,Depreciation,133041
+2024,7,7,Professional Services,58019
+2024,7,8,Gross Written Premium,212226
+2024,7,8,Net Earned Premium,238169
+2024,7,8,Reinsurance Recoveries,12373
+2024,7,8,Investment Income,171353
+2024,7,8,Commission Income,25187
+2024,7,8,Claims Paid,335007
+2024,7,8,Claims Incurred,102927
+2024,7,8,Loss Adjustment Expenses,243185
+2024,7,8,Staff Costs,351229
+2024,7,8,IT Expenses,122996
+2024,7,8,Marketing,44220
+2024,7,8,Office Costs,397647
+2024,7,8,Depreciation,12642
+2024,7,8,Professional Services,84971
+2024,7,9,Gross Written Premium,60556
+2024,7,9,Net Earned Premium,305336
+2024,7,9,Reinsurance Recoveries,232655
+2024,7,9,Investment Income,297926
+2024,7,9,Commission Income,271926
+2024,7,9,Claims Paid,227489
+2024,7,9,Claims Incurred,190784
+2024,7,9,Loss Adjustment Expenses,241836
+2024,7,9,Staff Costs,155534
+2024,7,9,IT Expenses,327174
+2024,7,9,Marketing,204591
+2024,7,9,Office Costs,323555
+2024,7,9,Depreciation,191278
+2024,7,9,Professional Services,102469
+2024,7,10,Gross Written Premium,51950
+2024,7,10,Net Earned Premium,145749
+2024,7,10,Reinsurance Recoveries,211900
+2024,7,10,Investment Income,151161
+2024,7,10,Commission Income,187225
+2024,7,10,Claims Paid,317683
+2024,7,10,Claims Incurred,27936
+2024,7,10,Loss Adjustment Expenses,317326
+2024,7,10,Staff Costs,378403
+2024,7,10,IT Expenses,235596
+2024,7,10,Marketing,100042
+2024,7,10,Office Costs,280307
+2024,7,10,Depreciation,262758
+2024,7,10,Professional Services,182129
+2024,8,1,Gross Written Premium,148609
+2024,8,1,Net Earned Premium,27419
+2024,8,1,Reinsurance Recoveries,211063
+2024,8,1,Investment Income,126211
+2024,8,1,Commission Income,389906
+2024,8,1,Claims Paid,210671
+2024,8,1,Claims Incurred,5834
+2024,8,1,Loss Adjustment Expenses,299358
+2024,8,1,Staff Costs,229006
+2024,8,1,IT Expenses,259870
+2024,8,1,Marketing,257358
+2024,8,1,Office Costs,7413
+2024,8,1,Depreciation,14505
+2024,8,1,Professional Services,256753
+2024,8,2,Gross Written Premium,369946
+2024,8,2,Net Earned Premium,138177
+2024,8,2,Reinsurance Recoveries,204176
+2024,8,2,Investment Income,395447
+2024,8,2,Commission Income,119897
+2024,8,2,Claims Paid,63408
+2024,8,2,Claims Incurred,173751
+2024,8,2,Loss Adjustment Expenses,121908
+2024,8,2,Staff Costs,250993
+2024,8,2,IT Expenses,235168
+2024,8,2,Marketing,84731
+2024,8,2,Office Costs,332275
+2024,8,2,Depreciation,331424
+2024,8,2,Professional Services,282906
+2024,8,3,Gross Written Premium,122798
+2024,8,3,Net Earned Premium,121854
+2024,8,3,Reinsurance Recoveries,242902
+2024,8,3,Investment Income,325847
+2024,8,3,Commission Income,68079
+2024,8,3,Claims Paid,26577
+2024,8,3,Claims Incurred,268358
+2024,8,3,Loss Adjustment Expenses,353483
+2024,8,3,Staff Costs,315258
+2024,8,3,IT Expenses,330374
+2024,8,3,Marketing,169052
+2024,8,3,Office Costs,72194
+2024,8,3,Depreciation,117333
+2024,8,3,Professional Services,42792
+2024,8,4,Gross Written Premium,50807
+2024,8,4,Net Earned Premium,392410
+2024,8,4,Reinsurance Recoveries,141213
+2024,8,4,Investment Income,109292
+2024,8,4,Commission Income,127984
+2024,8,4,Claims Paid,18777
+2024,8,4,Claims Incurred,43346
+2024,8,4,Loss Adjustment Expenses,321847
+2024,8,4,Staff Costs,99977
+2024,8,4,IT Expenses,314963
+2024,8,4,Marketing,139917
+2024,8,4,Office Costs,377330
+2024,8,4,Depreciation,28290
+2024,8,4,Professional Services,379695
+2024,8,5,Gross Written Premium,180324
+2024,8,5,Net Earned Premium,365826
+2024,8,5,Reinsurance Recoveries,139365
+2024,8,5,Investment Income,385161
+2024,8,5,Commission Income,124496
+2024,8,5,Claims Paid,324233
+2024,8,5,Claims Incurred,395857
+2024,8,5,Loss Adjustment Expenses,202345
+2024,8,5,Staff Costs,283763
+2024,8,5,IT Expenses,83006
+2024,8,5,Marketing,251471
+2024,8,5,Office Costs,223980
+2024,8,5,Depreciation,281923
+2024,8,5,Professional Services,230902
+2024,8,6,Gross Written Premium,288774
+2024,8,6,Net Earned Premium,372719
+2024,8,6,Reinsurance Recoveries,120436
+2024,8,6,Investment Income,148250
+2024,8,6,Commission Income,289928
+2024,8,6,Claims Paid,159099
+2024,8,6,Claims Incurred,379311
+2024,8,6,Loss Adjustment Expenses,72359
+2024,8,6,Staff Costs,208460
+2024,8,6,IT Expenses,345752
+2024,8,6,Marketing,282255
+2024,8,6,Office Costs,168384
+2024,8,6,Depreciation,265393
+2024,8,6,Professional Services,291305
+2024,8,7,Gross Written Premium,386064
+2024,8,7,Net Earned Premium,371967
+2024,8,7,Reinsurance Recoveries,392158
+2024,8,7,Investment Income,135466
+2024,8,7,Commission Income,334457
+2024,8,7,Claims Paid,186446
+2024,8,7,Claims Incurred,85308
+2024,8,7,Loss Adjustment Expenses,313533
+2024,8,7,Staff Costs,246235
+2024,8,7,IT Expenses,112800
+2024,8,7,Marketing,386691
+2024,8,7,Office Costs,243269
+2024,8,7,Depreciation,29502
+2024,8,7,Professional Services,40757
+2024,8,8,Gross Written Premium,308255
+2024,8,8,Net Earned Premium,103273
+2024,8,8,Reinsurance Recoveries,63645
+2024,8,8,Investment Income,377362
+2024,8,8,Commission Income,326199
+2024,8,8,Claims Paid,124815
+2024,8,8,Claims Incurred,164978
+2024,8,8,Loss Adjustment Expenses,368170
+2024,8,8,Staff Costs,337336
+2024,8,8,IT Expenses,186549
+2024,8,8,Marketing,172973
+2024,8,8,Office Costs,227343
+2024,8,8,Depreciation,57021
+2024,8,8,Professional Services,34092
+2024,8,9,Gross Written Premium,399458
+2024,8,9,Net Earned Premium,373987
+2024,8,9,Reinsurance Recoveries,137903
+2024,8,9,Investment Income,317865
+2024,8,9,Commission Income,295655
+2024,8,9,Claims Paid,77782
+2024,8,9,Claims Incurred,364147
+2024,8,9,Loss Adjustment Expenses,322712
+2024,8,9,Staff Costs,369206
+2024,8,9,IT Expenses,371445
+2024,8,9,Marketing,318651
+2024,8,9,Office Costs,129277
+2024,8,9,Depreciation,134999
+2024,8,9,Professional Services,212580
+2024,8,10,Gross Written Premium,249744
+2024,8,10,Net Earned Premium,105128
+2024,8,10,Reinsurance Recoveries,277827
+2024,8,10,Investment Income,28664
+2024,8,10,Commission Income,107364
+2024,8,10,Claims Paid,256084
+2024,8,10,Claims Incurred,169244
+2024,8,10,Loss Adjustment Expenses,69340
+2024,8,10,Staff Costs,92236
+2024,8,10,IT Expenses,16017
+2024,8,10,Marketing,303757
+2024,8,10,Office Costs,266879
+2024,8,10,Depreciation,35348
+2024,8,10,Professional Services,276635
+2024,9,1,Gross Written Premium,214720
+2024,9,1,Net Earned Premium,126070
+2024,9,1,Reinsurance Recoveries,232629
+2024,9,1,Investment Income,325903
+2024,9,1,Commission Income,399184
+2024,9,1,Claims Paid,267512
+2024,9,1,Claims Incurred,40010
+2024,9,1,Loss Adjustment Expenses,40851
+2024,9,1,Staff Costs,127761
+2024,9,1,IT Expenses,259640
+2024,9,1,Marketing,394296
+2024,9,1,Office Costs,167008
+2024,9,1,Depreciation,83858
+2024,9,1,Professional Services,72005
+2024,9,2,Gross Written Premium,42493
+2024,9,2,Net Earned Premium,205867
+2024,9,2,Reinsurance Recoveries,172462
+2024,9,2,Investment Income,15292
+2024,9,2,Commission Income,359521
+2024,9,2,Claims Paid,164437
+2024,9,2,Claims Incurred,106735
+2024,9,2,Loss Adjustment Expenses,27912
+2024,9,2,Staff Costs,85771
+2024,9,2,IT Expenses,192644
+2024,9,2,Marketing,112293
+2024,9,2,Office Costs,104083
+2024,9,2,Depreciation,118655
+2024,9,2,Professional Services,102459
+2024,9,3,Gross Written Premium,228077
+2024,9,3,Net Earned Premium,237682
+2024,9,3,Reinsurance Recoveries,234171
+2024,9,3,Investment Income,378839
+2024,9,3,Commission Income,172558
+2024,9,3,Claims Paid,301412
+2024,9,3,Claims Incurred,112338
+2024,9,3,Loss Adjustment Expenses,293480
+2024,9,3,Staff Costs,270785
+2024,9,3,IT Expenses,92132
+2024,9,3,Marketing,300103
+2024,9,3,Office Costs,149378
+2024,9,3,Depreciation,182254
+2024,9,3,Professional Services,79123
+2024,9,4,Gross Written Premium,232967
+2024,9,4,Net Earned Premium,26498
+2024,9,4,Reinsurance Recoveries,75198
+2024,9,4,Investment Income,32197
+2024,9,4,Commission Income,156791
+2024,9,4,Claims Paid,113775
+2024,9,4,Claims Incurred,292176
+2024,9,4,Loss Adjustment Expenses,326768
+2024,9,4,Staff Costs,345321
+2024,9,4,IT Expenses,309108
+2024,9,4,Marketing,166100
+2024,9,4,Office Costs,116030
+2024,9,4,Depreciation,321790
+2024,9,4,Professional Services,348331
+2024,9,5,Gross Written Premium,122399
+2024,9,5,Net Earned Premium,61747
+2024,9,5,Reinsurance Recoveries,50712
+2024,9,5,Investment Income,338964
+2024,9,5,Commission Income,130342
+2024,9,5,Claims Paid,96228
+2024,9,5,Claims Incurred,341497
+2024,9,5,Loss Adjustment Expenses,97091
+2024,9,5,Staff Costs,353058
+2024,9,5,IT Expenses,186902
+2024,9,5,Marketing,373862
+2024,9,5,Office Costs,251222
+2024,9,5,Depreciation,219560
+2024,9,5,Professional Services,16539
+2024,9,6,Gross Written Premium,182833
+2024,9,6,Net Earned Premium,313363
+2024,9,6,Reinsurance Recoveries,280478
+2024,9,6,Investment Income,275047
+2024,9,6,Commission Income,63008
+2024,9,6,Claims Paid,366462
+2024,9,6,Claims Incurred,146932
+2024,9,6,Loss Adjustment Expenses,72300
+2024,9,6,Staff Costs,396407
+2024,9,6,IT Expenses,287986
+2024,9,6,Marketing,196285
+2024,9,6,Office Costs,309516
+2024,9,6,Depreciation,381460
+2024,9,6,Professional Services,103971
+2024,9,7,Gross Written Premium,43744
+2024,9,7,Net Earned Premium,383226
+2024,9,7,Reinsurance Recoveries,324586
+2024,9,7,Investment Income,396214
+2024,9,7,Commission Income,90990
+2024,9,7,Claims Paid,388814
+2024,9,7,Claims Incurred,374061
+2024,9,7,Loss Adjustment Expenses,239975
+2024,9,7,Staff Costs,8650
+2024,9,7,IT Expenses,50117
+2024,9,7,Marketing,358388
+2024,9,7,Office Costs,270334
+2024,9,7,Depreciation,53113
+2024,9,7,Professional Services,144861
+2024,9,8,Gross Written Premium,37125
+2024,9,8,Net Earned Premium,234767
+2024,9,8,Reinsurance Recoveries,397144
+2024,9,8,Investment Income,171490
+2024,9,8,Commission Income,379048
+2024,9,8,Claims Paid,183157
+2024,9,8,Claims Incurred,23768
+2024,9,8,Loss Adjustment Expenses,186033
+2024,9,8,Staff Costs,348243
+2024,9,8,IT Expenses,258807
+2024,9,8,Marketing,163957
+2024,9,8,Office Costs,92421
+2024,9,8,Depreciation,197154
+2024,9,8,Professional Services,274039
+2024,9,9,Gross Written Premium,186383
+2024,9,9,Net Earned Premium,225566
+2024,9,9,Reinsurance Recoveries,203139
+2024,9,9,Investment Income,76017
+2024,9,9,Commission Income,291076
+2024,9,9,Claims Paid,26360
+2024,9,9,Claims Incurred,321991
+2024,9,9,Loss Adjustment Expenses,95365
+2024,9,9,Staff Costs,90468
+2024,9,9,IT Expenses,262137
+2024,9,9,Marketing,306075
+2024,9,9,Office Costs,60823
+2024,9,9,Depreciation,305176
+2024,9,9,Professional Services,251991
+2024,9,10,Gross Written Premium,217498
+2024,9,10,Net Earned Premium,23807
+2024,9,10,Reinsurance Recoveries,144143
+2024,9,10,Investment Income,58413
+2024,9,10,Commission Income,162221
+2024,9,10,Claims Paid,20540
+2024,9,10,Claims Incurred,237284
+2024,9,10,Loss Adjustment Expenses,75248
+2024,9,10,Staff Costs,257515
+2024,9,10,IT Expenses,227809
+2024,9,10,Marketing,115494
+2024,9,10,Office Costs,254643
+2024,9,10,Depreciation,90435
+2024,9,10,Professional Services,24787
+2024,10,1,Gross Written Premium,288126
+2024,10,1,Net Earned Premium,255768
+2024,10,1,Reinsurance Recoveries,27606
+2024,10,1,Investment Income,263632
+2024,10,1,Commission Income,253495
+2024,10,1,Claims Paid,238867
+2024,10,1,Claims Incurred,117223
+2024,10,1,Loss Adjustment Expenses,51936
+2024,10,1,Staff Costs,98286
+2024,10,1,IT Expenses,42381
+2024,10,1,Marketing,388609
+2024,10,1,Office Costs,295218
+2024,10,1,Depreciation,49194
+2024,10,1,Professional Services,185449
+2024,10,2,Gross Written Premium,293997
+2024,10,2,Net Earned Premium,340863
+2024,10,2,Reinsurance Recoveries,156733
+2024,10,2,Investment Income,186565
+2024,10,2,Commission Income,123724
+2024,10,2,Claims Paid,242777
+2024,10,2,Claims Incurred,172567
+2024,10,2,Loss Adjustment Expenses,18703
+2024,10,2,Staff Costs,384635
+2024,10,2,IT Expenses,63453
+2024,10,2,Marketing,93478
+2024,10,2,Office Costs,300305
+2024,10,2,Depreciation,192063
+2024,10,2,Professional Services,381440
+2024,10,3,Gross Written Premium,243411
+2024,10,3,Net Earned Premium,300493
+2024,10,3,Reinsurance Recoveries,52098
+2024,10,3,Investment Income,375579
+2024,10,3,Commission Income,398348
+2024,10,3,Claims Paid,56990
+2024,10,3,Claims Incurred,336065
+2024,10,3,Loss Adjustment Expenses,172610
+2024,10,3,Staff Costs,105572
+2024,10,3,IT Expenses,241981
+2024,10,3,Marketing,274357
+2024,10,3,Office Costs,129693
+2024,10,3,Depreciation,180295
+2024,10,3,Professional Services,358799
+2024,10,4,Gross Written Premium,266498
+2024,10,4,Net Earned Premium,335515
+2024,10,4,Reinsurance Recoveries,73274
+2024,10,4,Investment Income,374997
+2024,10,4,Commission Income,271278
+2024,10,4,Claims Paid,358572
+2024,10,4,Claims Incurred,44601
+2024,10,4,Loss Adjustment Expenses,341033
+2024,10,4,Staff Costs,282834
+2024,10,4,IT Expenses,269053
+2024,10,4,Marketing,358383
+2024,10,4,Office Costs,347176
+2024,10,4,Depreciation,17062
+2024,10,4,Professional Services,342530
+2024,10,5,Gross Written Premium,229309
+2024,10,5,Net Earned Premium,170803
+2024,10,5,Reinsurance Recoveries,141225
+2024,10,5,Investment Income,146553
+2024,10,5,Commission Income,104270
+2024,10,5,Claims Paid,333569
+2024,10,5,Claims Incurred,199672
+2024,10,5,Loss Adjustment Expenses,89981
+2024,10,5,Staff Costs,109470
+2024,10,5,IT Expenses,164277
+2024,10,5,Marketing,93887
+2024,10,5,Office Costs,348686
+2024,10,5,Depreciation,316256
+2024,10,5,Professional Services,147012
+2024,10,6,Gross Written Premium,326154
+2024,10,6,Net Earned Premium,212866
+2024,10,6,Reinsurance Recoveries,291629
+2024,10,6,Investment Income,94299
+2024,10,6,Commission Income,372728
+2024,10,6,Claims Paid,399283
+2024,10,6,Claims Incurred,287751
+2024,10,6,Loss Adjustment Expenses,245491
+2024,10,6,Staff Costs,66597
+2024,10,6,IT Expenses,262808
+2024,10,6,Marketing,341698
+2024,10,6,Office Costs,248554
+2024,10,6,Depreciation,282331
+2024,10,6,Professional Services,238983
+2024,10,7,Gross Written Premium,271129
+2024,10,7,Net Earned Premium,179124
+2024,10,7,Reinsurance Recoveries,155635
+2024,10,7,Investment Income,183394
+2024,10,7,Commission Income,197317
+2024,10,7,Claims Paid,318658
+2024,10,7,Claims Incurred,285752
+2024,10,7,Loss Adjustment Expenses,338471
+2024,10,7,Staff Costs,193297
+2024,10,7,IT Expenses,257773
+2024,10,7,Marketing,284365
+2024,10,7,Office Costs,315650
+2024,10,7,Depreciation,288112
+2024,10,7,Professional Services,394821
+2024,10,8,Gross Written Premium,218678
+2024,10,8,Net Earned Premium,185580
+2024,10,8,Reinsurance Recoveries,266776
+2024,10,8,Investment Income,177903
+2024,10,8,Commission Income,184412
+2024,10,8,Claims Paid,107951
+2024,10,8,Claims Incurred,375450
+2024,10,8,Loss Adjustment Expenses,310745
+2024,10,8,Staff Costs,212028
+2024,10,8,IT Expenses,77178
+2024,10,8,Marketing,221383
+2024,10,8,Office Costs,164826
+2024,10,8,Depreciation,74893
+2024,10,8,Professional Services,353943
+2024,10,9,Gross Written Premium,315511
+2024,10,9,Net Earned Premium,280345
+2024,10,9,Reinsurance Recoveries,280375
+2024,10,9,Investment Income,261682
+2024,10,9,Commission Income,243886
+2024,10,9,Claims Paid,146707
+2024,10,9,Claims Incurred,14964
+2024,10,9,Loss Adjustment Expenses,231118
+2024,10,9,Staff Costs,218869
+2024,10,9,IT Expenses,220862
+2024,10,9,Marketing,213000
+2024,10,9,Office Costs,17336
+2024,10,9,Depreciation,344619
+2024,10,9,Professional Services,87212
+2024,10,10,Gross Written Premium,342523
+2024,10,10,Net Earned Premium,50591
+2024,10,10,Reinsurance Recoveries,328894
+2024,10,10,Investment Income,357792
+2024,10,10,Commission Income,363278
+2024,10,10,Claims Paid,103537
+2024,10,10,Claims Incurred,329816
+2024,10,10,Loss Adjustment Expenses,294372
+2024,10,10,Staff Costs,19429
+2024,10,10,IT Expenses,89294
+2024,10,10,Marketing,382721
+2024,10,10,Office Costs,189087
+2024,10,10,Depreciation,355218
+2024,10,10,Professional Services,336080
+2024,11,1,Gross Written Premium,216979
+2024,11,1,Net Earned Premium,324522
+2024,11,1,Reinsurance Recoveries,42310
+2024,11,1,Investment Income,106827
+2024,11,1,Commission Income,204899
+2024,11,1,Claims Paid,212500
+2024,11,1,Claims Incurred,104862
+2024,11,1,Loss Adjustment Expenses,306033
+2024,11,1,Staff Costs,318572
+2024,11,1,IT Expenses,377646
+2024,11,1,Marketing,55255
+2024,11,1,Office Costs,372968
+2024,11,1,Depreciation,227603
+2024,11,1,Professional Services,272553
+2024,11,2,Gross Written Premium,47438
+2024,11,2,Net Earned Premium,246482
+2024,11,2,Reinsurance Recoveries,246310
+2024,11,2,Investment Income,266084
+2024,11,2,Commission Income,275013
+2024,11,2,Claims Paid,192934
+2024,11,2,Claims Incurred,293102
+2024,11,2,Loss Adjustment Expenses,212374
+2024,11,2,Staff Costs,232402
+2024,11,2,IT Expenses,162217
+2024,11,2,Marketing,342766
+2024,11,2,Office Costs,31442
+2024,11,2,Depreciation,86948
+2024,11,2,Professional Services,259657
+2024,11,3,Gross Written Premium,292740
+2024,11,3,Net Earned Premium,80791
+2024,11,3,Reinsurance Recoveries,47406
+2024,11,3,Investment Income,45524
+2024,11,3,Commission Income,159404
+2024,11,3,Claims Paid,115160
+2024,11,3,Claims Incurred,151836
+2024,11,3,Loss Adjustment Expenses,163635
+2024,11,3,Staff Costs,172442
+2024,11,3,IT Expenses,272206
+2024,11,3,Marketing,49645
+2024,11,3,Office Costs,389903
+2024,11,3,Depreciation,274388
+2024,11,3,Professional Services,241481
+2024,11,4,Gross Written Premium,262320
+2024,11,4,Net Earned Premium,90501
+2024,11,4,Reinsurance Recoveries,122450
+2024,11,4,Investment Income,200543
+2024,11,4,Commission Income,246605
+2024,11,4,Claims Paid,284100
+2024,11,4,Claims Incurred,205658
+2024,11,4,Loss Adjustment Expenses,21709
+2024,11,4,Staff Costs,217330
+2024,11,4,IT Expenses,385572
+2024,11,4,Marketing,282354
+2024,11,4,Office Costs,369225
+2024,11,4,Depreciation,174746
+2024,11,4,Professional Services,105025
+2024,11,5,Gross Written Premium,156152
+2024,11,5,Net Earned Premium,189484
+2024,11,5,Reinsurance Recoveries,391620
+2024,11,5,Investment Income,195043
+2024,11,5,Commission Income,326990
+2024,11,5,Claims Paid,70480
+2024,11,5,Claims Incurred,247840
+2024,11,5,Loss Adjustment Expenses,320104
+2024,11,5,Staff Costs,239622
+2024,11,5,IT Expenses,352909
+2024,11,5,Marketing,122265
+2024,11,5,Office Costs,315281
+2024,11,5,Depreciation,218083
+2024,11,5,Professional Services,123922
+2024,11,6,Gross Written Premium,126280
+2024,11,6,Net Earned Premium,311020
+2024,11,6,Reinsurance Recoveries,361691
+2024,11,6,Investment Income,209736
+2024,11,6,Commission Income,317371
+2024,11,6,Claims Paid,168522
+2024,11,6,Claims Incurred,89433
+2024,11,6,Loss Adjustment Expenses,78704
+2024,11,6,Staff Costs,11861
+2024,11,6,IT Expenses,243366
+2024,11,6,Marketing,329058
+2024,11,6,Office Costs,68888
+2024,11,6,Depreciation,346430
+2024,11,6,Professional Services,66293
+2024,11,7,Gross Written Premium,218596
+2024,11,7,Net Earned Premium,73515
+2024,11,7,Reinsurance Recoveries,274209
+2024,11,7,Investment Income,173756
+2024,11,7,Commission Income,93720
+2024,11,7,Claims Paid,169437
+2024,11,7,Claims Incurred,326020
+2024,11,7,Loss Adjustment Expenses,193929
+2024,11,7,Staff Costs,141694
+2024,11,7,IT Expenses,350941
+2024,11,7,Marketing,246540
+2024,11,7,Office Costs,96141
+2024,11,7,Depreciation,251476
+2024,11,7,Professional Services,369534
+2024,11,8,Gross Written Premium,364000
+2024,11,8,Net Earned Premium,333345
+2024,11,8,Reinsurance Recoveries,356910
+2024,11,8,Investment Income,27995
+2024,11,8,Commission Income,359464
+2024,11,8,Claims Paid,85141
+2024,11,8,Claims Incurred,144491
+2024,11,8,Loss Adjustment Expenses,169909
+2024,11,8,Staff Costs,75799
+2024,11,8,IT Expenses,184949
+2024,11,8,Marketing,312831
+2024,11,8,Office Costs,235739
+2024,11,8,Depreciation,42276
+2024,11,8,Professional Services,39523
+2024,11,9,Gross Written Premium,202127
+2024,11,9,Net Earned Premium,321759
+2024,11,9,Reinsurance Recoveries,15514
+2024,11,9,Investment Income,52456
+2024,11,9,Commission Income,12233
+2024,11,9,Claims Paid,268246
+2024,11,9,Claims Incurred,71133
+2024,11,9,Loss Adjustment Expenses,313859
+2024,11,9,Staff Costs,377689
+2024,11,9,IT Expenses,109085
+2024,11,9,Marketing,114101
+2024,11,9,Office Costs,113684
+2024,11,9,Depreciation,331944
+2024,11,9,Professional Services,99937
+2024,11,10,Gross Written Premium,46548
+2024,11,10,Net Earned Premium,214272
+2024,11,10,Reinsurance Recoveries,395989
+2024,11,10,Investment Income,118815
+2024,11,10,Commission Income,225994
+2024,11,10,Claims Paid,132602
+2024,11,10,Claims Incurred,131270
+2024,11,10,Loss Adjustment Expenses,393464
+2024,11,10,Staff Costs,292714
+2024,11,10,IT Expenses,26182
+2024,11,10,Marketing,306517
+2024,11,10,Office Costs,310163
+2024,11,10,Depreciation,198691
+2024,11,10,Professional Services,283187
+2024,12,1,Gross Written Premium,237362
+2024,12,1,Net Earned Premium,202008
+2024,12,1,Reinsurance Recoveries,286383
+2024,12,1,Investment Income,146488
+2024,12,1,Commission Income,139484
+2024,12,1,Claims Paid,349120
+2024,12,1,Claims Incurred,29406
+2024,12,1,Loss Adjustment Expenses,269019
+2024,12,1,Staff Costs,214097
+2024,12,1,IT Expenses,399569
+2024,12,1,Marketing,163058
+2024,12,1,Office Costs,281835
+2024,12,1,Depreciation,205919
+2024,12,1,Professional Services,315219
+2024,12,2,Gross Written Premium,15794
+2024,12,2,Net Earned Premium,204542
+2024,12,2,Reinsurance Recoveries,152478
+2024,12,2,Investment Income,343074
+2024,12,2,Commission Income,251969
+2024,12,2,Claims Paid,46708
+2024,12,2,Claims Incurred,382636
+2024,12,2,Loss Adjustment Expenses,373773
+2024,12,2,Staff Costs,179469
+2024,12,2,IT Expenses,128313
+2024,12,2,Marketing,288496
+2024,12,2,Office Costs,369119
+2024,12,2,Depreciation,360992
+2024,12,2,Professional Services,241668
+2024,12,3,Gross Written Premium,312143
+2024,12,3,Net Earned Premium,23482
+2024,12,3,Reinsurance Recoveries,168543
+2024,12,3,Investment Income,314423
+2024,12,3,Commission Income,376557
+2024,12,3,Claims Paid,59213
+2024,12,3,Claims Incurred,381053
+2024,12,3,Loss Adjustment Expenses,280170
+2024,12,3,Staff Costs,243697
+2024,12,3,IT Expenses,352328
+2024,12,3,Marketing,10435
+2024,12,3,Office Costs,144565
+2024,12,3,Depreciation,208299
+2024,12,3,Professional Services,326465
+2024,12,4,Gross Written Premium,287533
+2024,12,4,Net Earned Premium,36498
+2024,12,4,Reinsurance Recoveries,330899
+2024,12,4,Investment Income,368689
+2024,12,4,Commission Income,40825
+2024,12,4,Claims Paid,284078
+2024,12,4,Claims Incurred,10574
+2024,12,4,Loss Adjustment Expenses,135698
+2024,12,4,Staff Costs,174251
+2024,12,4,IT Expenses,399803
+2024,12,4,Marketing,47782
+2024,12,4,Office Costs,65561
+2024,12,4,Depreciation,394303
+2024,12,4,Professional Services,31751
+2024,12,5,Gross Written Premium,305318
+2024,12,5,Net Earned Premium,389822
+2024,12,5,Reinsurance Recoveries,61572
+2024,12,5,Investment Income,328560
+2024,12,5,Commission Income,302345
+2024,12,5,Claims Paid,41069
+2024,12,5,Claims Incurred,218262
+2024,12,5,Loss Adjustment Expenses,293514
+2024,12,5,Staff Costs,231090
+2024,12,5,IT Expenses,392486
+2024,12,5,Marketing,263245
+2024,12,5,Office Costs,186303
+2024,12,5,Depreciation,392902
+2024,12,5,Professional Services,332438
+2024,12,6,Gross Written Premium,84468
+2024,12,6,Net Earned Premium,165371
+2024,12,6,Reinsurance Recoveries,95715
+2024,12,6,Investment Income,75793
+2024,12,6,Commission Income,193206
+2024,12,6,Claims Paid,116672
+2024,12,6,Claims Incurred,147321
+2024,12,6,Loss Adjustment Expenses,125902
+2024,12,6,Staff Costs,26390
+2024,12,6,IT Expenses,25369
+2024,12,6,Marketing,148953
+2024,12,6,Office Costs,276731
+2024,12,6,Depreciation,229872
+2024,12,6,Professional Services,374153
+2024,12,7,Gross Written Premium,243634
+2024,12,7,Net Earned Premium,52013
+2024,12,7,Reinsurance Recoveries,122341
+2024,12,7,Investment Income,394929
+2024,12,7,Commission Income,199692
+2024,12,7,Claims Paid,151826
+2024,12,7,Claims Incurred,112584
+2024,12,7,Loss Adjustment Expenses,83113
+2024,12,7,Staff Costs,353928
+2024,12,7,IT Expenses,40282
+2024,12,7,Marketing,172809
+2024,12,7,Office Costs,291268
+2024,12,7,Depreciation,337246
+2024,12,7,Professional Services,328671
+2024,12,8,Gross Written Premium,397515
+2024,12,8,Net Earned Premium,398086
+2024,12,8,Reinsurance Recoveries,101651
+2024,12,8,Investment Income,251549
+2024,12,8,Commission Income,90395
+2024,12,8,Claims Paid,16345
+2024,12,8,Claims Incurred,391688
+2024,12,8,Loss Adjustment Expenses,301221
+2024,12,8,Staff Costs,397573
+2024,12,8,IT Expenses,202472
+2024,12,8,Marketing,17055
+2024,12,8,Office Costs,370837
+2024,12,8,Depreciation,90283
+2024,12,8,Professional Services,49484
+2024,12,9,Gross Written Premium,82514
+2024,12,9,Net Earned Premium,95135
+2024,12,9,Reinsurance Recoveries,302915
+2024,12,9,Investment Income,193726
+2024,12,9,Commission Income,219223
+2024,12,9,Claims Paid,377428
+2024,12,9,Claims Incurred,122399
+2024,12,9,Loss Adjustment Expenses,372029
+2024,12,9,Staff Costs,185645
+2024,12,9,IT Expenses,178805
+2024,12,9,Marketing,134344
+2024,12,9,Office Costs,147832
+2024,12,9,Depreciation,118226
+2024,12,9,Professional Services,104250
+2024,12,10,Gross Written Premium,292906
+2024,12,10,Net Earned Premium,187058
+2024,12,10,Reinsurance Recoveries,170404
+2024,12,10,Investment Income,176172
+2024,12,10,Commission Income,141016
+2024,12,10,Claims Paid,53825
+2024,12,10,Claims Incurred,18877
+2024,12,10,Loss Adjustment Expenses,134065
+2024,12,10,Staff Costs,113443
+2024,12,10,IT Expenses,366756
+2024,12,10,Marketing,122674
+2024,12,10,Office Costs,120074
+2024,12,10,Depreciation,256881
+2024,12,10,Professional Services,36629
