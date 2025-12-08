@@ -24,6 +24,7 @@ The dashboard is built using **Power BI Desktop** and uses a **simulated dataset
             page3_budget_vs_actual_2.png
             page4_department_breakdown.png
         README.md
+        LICENSE
 
 ---
 
