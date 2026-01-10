@@ -28,6 +28,15 @@ The dashboard is built using **Power BI Desktop** and uses a **simulated dataset
 
 ---
 
+## 🧪 Data Engineering & Modeling
+Unlike standard dashboards using flat files, this project implements a full **Relational Star Schema**:
+- **Synthetic Generation:** Used Python (Jupyter) to engineer 3 years of insurance records, ensuring referential integrity across all tables.
+- **Relational Schema:** Implemented a "Star Schema" in Power BI. By connecting two Fact tables (`Actuals` vs. `Budget`) to shared Dimension tables, the dashboard allows for seamless Budget-vs-Actual comparisons.
+- **DAX Logic:** Developed custom measures for the **Combined Ratio**, **Loss Ratio**, and **Expense Ratio**, ensuring the calculations remain accurate when drilling down into specific departments.
+
+
+---
+
 ## Dashboard Pages
 
 ### Page 1 – KPI Overview
@@ -68,6 +77,13 @@ The dashboard is built using **Power BI Desktop** and uses a **simulated dataset
 
 ---
 
+## 💡 Key Analytical Insights
+- **Underwriting Profitability:** The dashboard distinguishes between **Underwriting Profit** and **Operating Profit**, allowing users to see if the core insurance business is covering its operational overhead.
+- **Combined Ratio Analysis:** A primary focus is the **Combined Ratio**. In this simulation, identifying ratios above 1.0 (100%) helps management pinpoint departments where claims and expenses exceed earned premiums.
+- **Variance Tracking:** The "Budget vs. Actual" page isolates the **-861.2M Variance**, helping controllers identify if the gap is driven by a drop in premiums or an unexpected spike in claims.
+
+---
+
 ## Tools & Technologies
 - Power BI Desktop – for dashboard creation
 - Python – for generating the simulated dataset
@@ -87,6 +103,14 @@ The dashboard is built using **Power BI Desktop** and uses a **simulated dataset
 - Dataset is simulated for demonstration purposes
 - All calculations and measures are built in DAX in Power BI
 - You can replace the dataset with real financial data for real-world use
+
+---
+
+## 🚀 Future Roadmap (What's Next)
+To further enhance the actuarial depth of this tool, I plan to:
+1. **Loss Development Triangles:** Implement "Claims Triangles" to visualize IBNR (Incurred But Not Reported) trends over time.
+2. **Scenario Simulation:** Integrate a "What-If" parameter to simulate how a 5% increase in premium rates would impact the overall Combined Ratio.
+3. **Solvency II View:** Add a dedicated page for monitoring Capital Requirements and Risk-Based Capital (RBC) metrics.
 
 ---
 
